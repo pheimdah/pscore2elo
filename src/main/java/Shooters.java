@@ -1,4 +1,4 @@
-package main.java.model;
+package main.java;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -26,7 +26,7 @@ public class Shooters {
 	public void createShooter(IpscDivision division, String name) {
 
 		if (!shootersByDivision.get(division).containsKey(name)) {
-			shootersByDivision.get(division).put(name, new Shooter(division, name));
+			shootersByDivision.get(division).put(name, new Shooter(name));
 		}
 	}
 
@@ -51,10 +51,6 @@ public class Shooters {
 
 		shootersByDivision.get(division).get(winnerName).addPendingEloScoreAdjustment(winnerEloScoreAdjustment);
 		shootersByDivision.get(division).get(loserName).addPendingEloScoreAdjustment(loserEloScoreAdjustment);
-
-		// System.out.println(String.format("Winner %s gets %d adjustment, loser %s gets
-		// %d adjustment", winnerName,
-		// winnerEloScoreAdjustment, loserName, loserEloScoreAdjustment));
 
 	}
 

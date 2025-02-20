@@ -5,11 +5,6 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-import main.java.model.IpscDivision;
-import main.java.model.Shooters;
-import main.java.model.Stage;
-import main.java.model.StageResult;
-
 public class Main {
 
 	public static void main(String[] args) {

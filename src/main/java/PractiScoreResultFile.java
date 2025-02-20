@@ -10,10 +10,6 @@ import com.google.gson.GsonBuilder;
 import com.google.gson.internal.LinkedTreeMap;
 import com.google.gson.stream.JsonReader;
 
-import main.java.model.IpscDivision;
-import main.java.model.Stage;
-import main.java.model.StageResult;
-
 public class PractiScoreResultFile {
 	
 	List<Stage> stages = new ArrayList<>();
