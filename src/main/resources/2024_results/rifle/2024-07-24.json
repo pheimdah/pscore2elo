@@ -1,0 +1,857 @@
+[
+    {
+        "Match": [
+            {
+                "Overall": [
+                    {
+                        "possiblePoints": 280,
+                        "shooter": "7eedf9ab-b700-4036-95f5-9cdfdd446bb5",
+                        "matchPercent": "100.00",
+                        "pscPlace": 1,
+                        "completeStages": 3,
+                        "percentOfPossible": "97.34",
+                        "matchPoints": "272.5573"
+                    },
+                    {
+                        "possiblePoints": 280,
+                        "shooter": "e4f9a8a6-0954-4812-a33c-405ef1480932",
+                        "matchPercent": "94.82",
+                        "pscPlace": 2,
+                        "completeStages": 3,
+                        "percentOfPossible": "92.30",
+                        "matchPoints": "258.4332"
+                    },
+                    {
+                        "possiblePoints": 280,
+                        "shooter": "5e80304e-7ffd-4b77-9cd3-3a0e4b2daa9e",
+                        "matchPercent": "89.02",
+                        "pscPlace": 3,
+                        "completeStages": 3,
+                        "percentOfPossible": "86.65",
+                        "matchPoints": "242.6217"
+                    },
+                    {
+                        "possiblePoints": 280,
+                        "shooter": "b9f69862-ba70-462b-9086-b8440b364d48",
+                        "matchPercent": "84.69",
+                        "pscPlace": 4,
+                        "completeStages": 3,
+                        "percentOfPossible": "82.44",
+                        "matchPoints": "230.8278"
+                    },
+                    {
+                        "possiblePoints": 280,
+                        "shooter": "a4b0bdda-bb58-4bb4-98a6-60b1e2603ae0",
+                        "matchPercent": "80.20",
+                        "pscPlace": 5,
+                        "completeStages": 3,
+                        "percentOfPossible": "78.07",
+                        "matchPoints": "218.5864"
+                    },
+                    {
+                        "possiblePoints": 280,
+                        "shooter": "32580018-2f17-4ce9-bb6f-aa4c34d1a3c2",
+                        "matchPercent": "75.97",
+                        "pscPlace": 6,
+                        "completeStages": 3,
+                        "percentOfPossible": "73.95",
+                        "matchPoints": "207.0501"
+                    },
+                    {
+                        "possiblePoints": 280,
+                        "shooter": "f46dc481-b190-4364-aa18-ab17f401fb24",
+                        "matchPercent": "70.64",
+                        "pscPlace": 7,
+                        "completeStages": 3,
+                        "percentOfPossible": "68.76",
+                        "matchPoints": "192.5304"
+                    },
+                    {
+                        "possiblePoints": 280,
+                        "shooter": "94087d96-cf6c-4579-980f-0b75f064ccdb",
+                        "matchPercent": "58.84",
+                        "pscPlace": 8,
+                        "completeStages": 3,
+                        "percentOfPossible": "57.28",
+                        "matchPoints": "160.3708"
+                    }
+                ]
+            },
+            {
+                "Semi Auto Open": [
+                    {
+                        "possiblePoints": 280,
+                        "shooter": "7eedf9ab-b700-4036-95f5-9cdfdd446bb5",
+                        "matchPercent": "100.00",
+                        "pscPlace": 1,
+                        "completeStages": 3,
+                        "percentOfPossible": "97.34",
+                        "matchPoints": "272.5573"
+                    },
+                    {
+                        "possiblePoints": 280,
+                        "shooter": "e4f9a8a6-0954-4812-a33c-405ef1480932",
+                        "matchPercent": "94.82",
+                        "pscPlace": 2,
+                        "completeStages": 3,
+                        "percentOfPossible": "92.30",
+                        "matchPoints": "258.4332"
+                    },
+                    {
+                        "possiblePoints": 280,
+                        "shooter": "5e80304e-7ffd-4b77-9cd3-3a0e4b2daa9e",
+                        "matchPercent": "89.02",
+                        "pscPlace": 3,
+                        "completeStages": 3,
+                        "percentOfPossible": "86.65",
+                        "matchPoints": "242.6217"
+                    },
+                    {
+                        "possiblePoints": 280,
+                        "shooter": "b9f69862-ba70-462b-9086-b8440b364d48",
+                        "matchPercent": "84.69",
+                        "pscPlace": 4,
+                        "completeStages": 3,
+                        "percentOfPossible": "82.44",
+                        "matchPoints": "230.8278"
+                    },
+                    {
+                        "possiblePoints": 280,
+                        "shooter": "a4b0bdda-bb58-4bb4-98a6-60b1e2603ae0",
+                        "matchPercent": "80.20",
+                        "pscPlace": 5,
+                        "completeStages": 3,
+                        "percentOfPossible": "78.07",
+                        "matchPoints": "218.5864"
+                    },
+                    {
+                        "possiblePoints": 280,
+                        "shooter": "32580018-2f17-4ce9-bb6f-aa4c34d1a3c2",
+                        "matchPercent": "75.97",
+                        "pscPlace": 6,
+                        "completeStages": 3,
+                        "percentOfPossible": "73.95",
+                        "matchPoints": "207.0501"
+                    },
+                    {
+                        "possiblePoints": 280,
+                        "shooter": "f46dc481-b190-4364-aa18-ab17f401fb24",
+                        "matchPercent": "70.64",
+                        "pscPlace": 7,
+                        "completeStages": 3,
+                        "percentOfPossible": "68.76",
+                        "matchPoints": "192.5304"
+                    },
+                    {
+                        "possiblePoints": 280,
+                        "shooter": "94087d96-cf6c-4579-980f-0b75f064ccdb",
+                        "matchPercent": "58.84",
+                        "pscPlace": 8,
+                        "completeStages": 3,
+                        "percentOfPossible": "57.28",
+                        "matchPoints": "160.3708"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stageUUID": "17825B57-EA92-4975-B51F-AA8AE0BC09B3",
+        "Stage 1": [
+            {
+                "Overall": [
+                    {
+                        "place": 1,
+                        "shooter": "e4f9a8a6-0954-4812-a33c-405ef1480932",
+                        "shooterNum": -1,
+                        "shooterName": "Stenroos, Samuel",
+                        "division": "Semi Auto Open",
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "9.16",
+                        "stagePoints": "30.0000",
+                        "hitFactor": "2.1834",
+                        "points": 20,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "7eedf9ab-b700-4036-95f5-9cdfdd446bb5",
+                        "shooterNum": -1,
+                        "shooterName": "Welin, Jan",
+                        "division": "Semi Auto Open",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "90.01",
+                        "stageTimeSecs": "13.23",
+                        "stagePoints": "27.0023",
+                        "hitFactor": "1.9652",
+                        "points": 26,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "32580018-2f17-4ce9-bb6f-aa4c34d1a3c2",
+                        "shooterNum": -1,
+                        "shooterName": "Heimdahl, Patrik",
+                        "division": "Semi Auto Open",
+                        "shooterClass": "U",
+                        "stagePercent": "87.89",
+                        "stageTimeSecs": "9.38",
+                        "stagePoints": "26.3667",
+                        "hitFactor": "1.9190",
+                        "points": 18,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 4,
+                        "shooter": "a4b0bdda-bb58-4bb4-98a6-60b1e2603ae0",
+                        "shooterNum": -1,
+                        "shooterName": "Back, Jonas",
+                        "division": "Semi Auto Open",
+                        "stagePercent": "84.27",
+                        "stageTimeSecs": "14.13",
+                        "stagePoints": "25.2824",
+                        "hitFactor": "1.8401",
+                        "points": 26,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 5,
+                        "shooter": "b9f69862-ba70-462b-9086-b8440b364d48",
+                        "shooterNum": -1,
+                        "shooterName": "Linden, Jonas",
+                        "division": "Semi Auto Open",
+                        "stagePercent": "80.79",
+                        "stageTimeSecs": "9.07",
+                        "stagePoints": "24.2381",
+                        "hitFactor": "1.7641",
+                        "points": 16,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 6,
+                        "shooter": "94087d96-cf6c-4579-980f-0b75f064ccdb",
+                        "shooterNum": -1,
+                        "shooterName": "Jansson , Philip",
+                        "division": "Semi Auto Open",
+                        "stagePercent": "72.07",
+                        "stageTimeSecs": "12.71",
+                        "stagePoints": "21.6208",
+                        "hitFactor": "1.5736",
+                        "points": 20,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 7,
+                        "shooter": "f46dc481-b190-4364-aa18-ab17f401fb24",
+                        "shooterNum": -1,
+                        "shooterName": "Andersson, Fredrik",
+                        "division": "Semi Auto Open",
+                        "shooterClass": "U",
+                        "stagePercent": "44.90",
+                        "stageTimeSecs": "9.18",
+                        "stagePoints": "13.4706",
+                        "hitFactor": "0.9804",
+                        "points": 19,
+                        "penalties": -10
+                    },
+                    {
+                        "place": 8,
+                        "shooter": "5e80304e-7ffd-4b77-9cd3-3a0e4b2daa9e",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn, Gustav",
+                        "division": "Semi Auto Open",
+                        "stagePercent": "43.89",
+                        "stageTimeSecs": "11.48",
+                        "stagePoints": "13.1655",
+                        "hitFactor": "0.9582",
+                        "points": 21,
+                        "penalties": -10
+                    }
+                ]
+            },
+            {
+                "Semi Auto Open": [
+                    {
+                        "place": 1,
+                        "shooter": "e4f9a8a6-0954-4812-a33c-405ef1480932",
+                        "shooterNum": -1,
+                        "shooterName": "Stenroos, Samuel",
+                        "division": "Semi Auto Open",
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "9.16",
+                        "stagePoints": "30.0000",
+                        "hitFactor": "2.1834",
+                        "points": 20,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "7eedf9ab-b700-4036-95f5-9cdfdd446bb5",
+                        "shooterNum": -1,
+                        "shooterName": "Welin, Jan",
+                        "division": "Semi Auto Open",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "90.01",
+                        "stageTimeSecs": "13.23",
+                        "stagePoints": "27.0023",
+                        "hitFactor": "1.9652",
+                        "points": 26,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "32580018-2f17-4ce9-bb6f-aa4c34d1a3c2",
+                        "shooterNum": -1,
+                        "shooterName": "Heimdahl, Patrik",
+                        "division": "Semi Auto Open",
+                        "shooterClass": "U",
+                        "stagePercent": "87.89",
+                        "stageTimeSecs": "9.38",
+                        "stagePoints": "26.3667",
+                        "hitFactor": "1.9190",
+                        "points": 18,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 4,
+                        "shooter": "a4b0bdda-bb58-4bb4-98a6-60b1e2603ae0",
+                        "shooterNum": -1,
+                        "shooterName": "Back, Jonas",
+                        "division": "Semi Auto Open",
+                        "stagePercent": "84.27",
+                        "stageTimeSecs": "14.13",
+                        "stagePoints": "25.2824",
+                        "hitFactor": "1.8401",
+                        "points": 26,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 5,
+                        "shooter": "b9f69862-ba70-462b-9086-b8440b364d48",
+                        "shooterNum": -1,
+                        "shooterName": "Linden, Jonas",
+                        "division": "Semi Auto Open",
+                        "stagePercent": "80.79",
+                        "stageTimeSecs": "9.07",
+                        "stagePoints": "24.2381",
+                        "hitFactor": "1.7641",
+                        "points": 16,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 6,
+                        "shooter": "94087d96-cf6c-4579-980f-0b75f064ccdb",
+                        "shooterNum": -1,
+                        "shooterName": "Jansson , Philip",
+                        "division": "Semi Auto Open",
+                        "stagePercent": "72.07",
+                        "stageTimeSecs": "12.71",
+                        "stagePoints": "21.6208",
+                        "hitFactor": "1.5736",
+                        "points": 20,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 7,
+                        "shooter": "f46dc481-b190-4364-aa18-ab17f401fb24",
+                        "shooterNum": -1,
+                        "shooterName": "Andersson, Fredrik",
+                        "division": "Semi Auto Open",
+                        "shooterClass": "U",
+                        "stagePercent": "44.90",
+                        "stageTimeSecs": "9.18",
+                        "stagePoints": "13.4706",
+                        "hitFactor": "0.9804",
+                        "points": 19,
+                        "penalties": -10
+                    },
+                    {
+                        "place": 8,
+                        "shooter": "5e80304e-7ffd-4b77-9cd3-3a0e4b2daa9e",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn, Gustav",
+                        "division": "Semi Auto Open",
+                        "stagePercent": "43.89",
+                        "stageTimeSecs": "11.48",
+                        "stagePoints": "13.1655",
+                        "hitFactor": "0.9582",
+                        "points": 21,
+                        "penalties": -10
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stageUUID": "A31E4A43-36CF-4C01-846C-2E5D9400847E",
+        "Stage 2": [
+            {
+                "Overall": [
+                    {
+                        "place": 1,
+                        "shooter": "e4f9a8a6-0954-4812-a33c-405ef1480932",
+                        "shooterNum": -1,
+                        "shooterName": "Stenroos, Samuel",
+                        "division": "Semi Auto Open",
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "36.29",
+                        "stagePoints": "80.0000",
+                        "hitFactor": "1.6533",
+                        "points": 60,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "7eedf9ab-b700-4036-95f5-9cdfdd446bb5",
+                        "shooterNum": -1,
+                        "shooterName": "Welin, Jan",
+                        "division": "Semi Auto Open",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "94.44",
+                        "stageTimeSecs": "46.11",
+                        "stagePoints": "75.5550",
+                        "hitFactor": "1.5615",
+                        "points": 72,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "5e80304e-7ffd-4b77-9cd3-3a0e4b2daa9e",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn, Gustav",
+                        "division": "Semi Auto Open",
+                        "stagePercent": "92.72",
+                        "stageTimeSecs": "41.75",
+                        "stagePoints": "74.1736",
+                        "hitFactor": "1.5329",
+                        "points": 64,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 4,
+                        "shooter": "a4b0bdda-bb58-4bb4-98a6-60b1e2603ae0",
+                        "shooterNum": -1,
+                        "shooterName": "Back, Jonas",
+                        "division": "Semi Auto Open",
+                        "stagePercent": "79.20",
+                        "stageTimeSecs": "51.93",
+                        "stagePoints": "63.3602",
+                        "hitFactor": "1.3095",
+                        "points": 68,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 5,
+                        "shooter": "b9f69862-ba70-462b-9086-b8440b364d48",
+                        "shooterNum": -1,
+                        "shooterName": "Linden, Jonas",
+                        "division": "Semi Auto Open",
+                        "stagePercent": "60.69",
+                        "stageTimeSecs": "35.88",
+                        "stagePoints": "48.5485",
+                        "hitFactor": "1.0033",
+                        "points": 56,
+                        "penalties": -20
+                    },
+                    {
+                        "place": 6,
+                        "shooter": "f46dc481-b190-4364-aa18-ab17f401fb24",
+                        "shooterNum": -1,
+                        "shooterName": "Andersson, Fredrik",
+                        "division": "Semi Auto Open",
+                        "shooterClass": "U",
+                        "stagePercent": "49.00",
+                        "stageTimeSecs": "40.73",
+                        "stagePoints": "39.2035",
+                        "hitFactor": "0.8102",
+                        "points": 43,
+                        "penalties": -10
+                    },
+                    {
+                        "place": 7,
+                        "shooter": "94087d96-cf6c-4579-980f-0b75f064ccdb",
+                        "shooterNum": -1,
+                        "shooterName": "Jansson , Philip",
+                        "division": "Semi Auto Open",
+                        "stagePercent": "40.45",
+                        "stageTimeSecs": "49.34",
+                        "stagePoints": "32.3624",
+                        "hitFactor": "0.6688",
+                        "points": 43,
+                        "penalties": -10
+                    },
+                    {
+                        "place": 8,
+                        "shooter": "32580018-2f17-4ce9-bb6f-aa4c34d1a3c2",
+                        "shooterNum": -1,
+                        "shooterName": "Heimdahl, Patrik",
+                        "division": "Semi Auto Open",
+                        "shooterClass": "U",
+                        "stagePercent": "39.58",
+                        "stageTimeSecs": "53.48",
+                        "stagePoints": "31.6667",
+                        "hitFactor": "0.6545",
+                        "points": 55,
+                        "penalties": -20
+                    }
+                ]
+            },
+            {
+                "Semi Auto Open": [
+                    {
+                        "place": 1,
+                        "shooter": "e4f9a8a6-0954-4812-a33c-405ef1480932",
+                        "shooterNum": -1,
+                        "shooterName": "Stenroos, Samuel",
+                        "division": "Semi Auto Open",
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "36.29",
+                        "stagePoints": "80.0000",
+                        "hitFactor": "1.6533",
+                        "points": 60,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "7eedf9ab-b700-4036-95f5-9cdfdd446bb5",
+                        "shooterNum": -1,
+                        "shooterName": "Welin, Jan",
+                        "division": "Semi Auto Open",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "94.44",
+                        "stageTimeSecs": "46.11",
+                        "stagePoints": "75.5550",
+                        "hitFactor": "1.5615",
+                        "points": 72,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "5e80304e-7ffd-4b77-9cd3-3a0e4b2daa9e",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn, Gustav",
+                        "division": "Semi Auto Open",
+                        "stagePercent": "92.72",
+                        "stageTimeSecs": "41.75",
+                        "stagePoints": "74.1736",
+                        "hitFactor": "1.5329",
+                        "points": 64,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 4,
+                        "shooter": "a4b0bdda-bb58-4bb4-98a6-60b1e2603ae0",
+                        "shooterNum": -1,
+                        "shooterName": "Back, Jonas",
+                        "division": "Semi Auto Open",
+                        "stagePercent": "79.20",
+                        "stageTimeSecs": "51.93",
+                        "stagePoints": "63.3602",
+                        "hitFactor": "1.3095",
+                        "points": 68,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 5,
+                        "shooter": "b9f69862-ba70-462b-9086-b8440b364d48",
+                        "shooterNum": -1,
+                        "shooterName": "Linden, Jonas",
+                        "division": "Semi Auto Open",
+                        "stagePercent": "60.69",
+                        "stageTimeSecs": "35.88",
+                        "stagePoints": "48.5485",
+                        "hitFactor": "1.0033",
+                        "points": 56,
+                        "penalties": -20
+                    },
+                    {
+                        "place": 6,
+                        "shooter": "f46dc481-b190-4364-aa18-ab17f401fb24",
+                        "shooterNum": -1,
+                        "shooterName": "Andersson, Fredrik",
+                        "division": "Semi Auto Open",
+                        "shooterClass": "U",
+                        "stagePercent": "49.00",
+                        "stageTimeSecs": "40.73",
+                        "stagePoints": "39.2035",
+                        "hitFactor": "0.8102",
+                        "points": 43,
+                        "penalties": -10
+                    },
+                    {
+                        "place": 7,
+                        "shooter": "94087d96-cf6c-4579-980f-0b75f064ccdb",
+                        "shooterNum": -1,
+                        "shooterName": "Jansson , Philip",
+                        "division": "Semi Auto Open",
+                        "stagePercent": "40.45",
+                        "stageTimeSecs": "49.34",
+                        "stagePoints": "32.3624",
+                        "hitFactor": "0.6688",
+                        "points": 43,
+                        "penalties": -10
+                    },
+                    {
+                        "place": 8,
+                        "shooter": "32580018-2f17-4ce9-bb6f-aa4c34d1a3c2",
+                        "shooterNum": -1,
+                        "shooterName": "Heimdahl, Patrik",
+                        "division": "Semi Auto Open",
+                        "shooterClass": "U",
+                        "stagePercent": "39.58",
+                        "stageTimeSecs": "53.48",
+                        "stagePoints": "31.6667",
+                        "hitFactor": "0.6545",
+                        "points": 55,
+                        "penalties": -20
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stageUUID": "C1E57504-2369-4477-928E-85938F449A61",
+        "Stage 3": [
+            {
+                "Overall": [
+                    {
+                        "place": 1,
+                        "shooter": "7eedf9ab-b700-4036-95f5-9cdfdd446bb5",
+                        "shooterNum": -1,
+                        "shooterName": "Welin, Jan",
+                        "division": "Semi Auto Open",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "79.11",
+                        "stagePoints": "170.0000",
+                        "hitFactor": "1.9972",
+                        "points": 158,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "b9f69862-ba70-462b-9086-b8440b364d48",
+                        "shooterNum": -1,
+                        "shooterName": "Linden, Jonas",
+                        "division": "Semi Auto Open",
+                        "stagePercent": "92.97",
+                        "stageTimeSecs": "64.63",
+                        "stagePoints": "158.0412",
+                        "hitFactor": "1.8567",
+                        "points": 120,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "5e80304e-7ffd-4b77-9cd3-3a0e4b2daa9e",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn, Gustav",
+                        "division": "Semi Auto Open",
+                        "stagePercent": "91.34",
+                        "stageTimeSecs": "65.23",
+                        "stagePoints": "155.2826",
+                        "hitFactor": "1.8243",
+                        "points": 139,
+                        "penalties": -20
+                    },
+                    {
+                        "place": 4,
+                        "shooter": "32580018-2f17-4ce9-bb6f-aa4c34d1a3c2",
+                        "shooterNum": -1,
+                        "shooterName": "Heimdahl, Patrik",
+                        "division": "Semi Auto Open",
+                        "shooterClass": "U",
+                        "stagePercent": "87.66",
+                        "stageTimeSecs": "85.68",
+                        "stagePoints": "149.0167",
+                        "hitFactor": "1.7507",
+                        "points": 150,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 5,
+                        "shooter": "e4f9a8a6-0954-4812-a33c-405ef1480932",
+                        "shooterNum": -1,
+                        "shooterName": "Stenroos, Samuel",
+                        "division": "Semi Auto Open",
+                        "stagePercent": "87.31",
+                        "stageTimeSecs": "68.24",
+                        "stagePoints": "148.4332",
+                        "hitFactor": "1.7438",
+                        "points": 129,
+                        "penalties": -10
+                    },
+                    {
+                        "place": 6,
+                        "shooter": "f46dc481-b190-4364-aa18-ab17f401fb24",
+                        "shooterNum": -1,
+                        "shooterName": "Andersson, Fredrik",
+                        "division": "Semi Auto Open",
+                        "shooterClass": "U",
+                        "stagePercent": "82.27",
+                        "stageTimeSecs": "83.38",
+                        "stagePoints": "139.8563",
+                        "hitFactor": "1.6431",
+                        "points": 147,
+                        "penalties": -10
+                    },
+                    {
+                        "place": 7,
+                        "shooter": "a4b0bdda-bb58-4bb4-98a6-60b1e2603ae0",
+                        "shooterNum": -1,
+                        "shooterName": "Back, Jonas",
+                        "division": "Semi Auto Open",
+                        "stagePercent": "76.44",
+                        "stageTimeSecs": "81.88",
+                        "stagePoints": "129.9438",
+                        "hitFactor": "1.5266",
+                        "points": 135,
+                        "penalties": -10
+                    },
+                    {
+                        "place": 8,
+                        "shooter": "94087d96-cf6c-4579-980f-0b75f064ccdb",
+                        "shooterNum": -1,
+                        "shooterName": "Jansson , Philip",
+                        "division": "Semi Auto Open",
+                        "stagePercent": "62.58",
+                        "stageTimeSecs": "103.21",
+                        "stagePoints": "106.3876",
+                        "hitFactor": "1.2499",
+                        "points": 139,
+                        "penalties": -10
+                    }
+                ]
+            },
+            {
+                "Semi Auto Open": [
+                    {
+                        "place": 1,
+                        "shooter": "7eedf9ab-b700-4036-95f5-9cdfdd446bb5",
+                        "shooterNum": -1,
+                        "shooterName": "Welin, Jan",
+                        "division": "Semi Auto Open",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "79.11",
+                        "stagePoints": "170.0000",
+                        "hitFactor": "1.9972",
+                        "points": 158,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "b9f69862-ba70-462b-9086-b8440b364d48",
+                        "shooterNum": -1,
+                        "shooterName": "Linden, Jonas",
+                        "division": "Semi Auto Open",
+                        "stagePercent": "92.97",
+                        "stageTimeSecs": "64.63",
+                        "stagePoints": "158.0412",
+                        "hitFactor": "1.8567",
+                        "points": 120,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "5e80304e-7ffd-4b77-9cd3-3a0e4b2daa9e",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn, Gustav",
+                        "division": "Semi Auto Open",
+                        "stagePercent": "91.34",
+                        "stageTimeSecs": "65.23",
+                        "stagePoints": "155.2826",
+                        "hitFactor": "1.8243",
+                        "points": 139,
+                        "penalties": -20
+                    },
+                    {
+                        "place": 4,
+                        "shooter": "32580018-2f17-4ce9-bb6f-aa4c34d1a3c2",
+                        "shooterNum": -1,
+                        "shooterName": "Heimdahl, Patrik",
+                        "division": "Semi Auto Open",
+                        "shooterClass": "U",
+                        "stagePercent": "87.66",
+                        "stageTimeSecs": "85.68",
+                        "stagePoints": "149.0167",
+                        "hitFactor": "1.7507",
+                        "points": 150,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 5,
+                        "shooter": "e4f9a8a6-0954-4812-a33c-405ef1480932",
+                        "shooterNum": -1,
+                        "shooterName": "Stenroos, Samuel",
+                        "division": "Semi Auto Open",
+                        "stagePercent": "87.31",
+                        "stageTimeSecs": "68.24",
+                        "stagePoints": "148.4332",
+                        "hitFactor": "1.7438",
+                        "points": 129,
+                        "penalties": -10
+                    },
+                    {
+                        "place": 6,
+                        "shooter": "f46dc481-b190-4364-aa18-ab17f401fb24",
+                        "shooterNum": -1,
+                        "shooterName": "Andersson, Fredrik",
+                        "division": "Semi Auto Open",
+                        "shooterClass": "U",
+                        "stagePercent": "82.27",
+                        "stageTimeSecs": "83.38",
+                        "stagePoints": "139.8563",
+                        "hitFactor": "1.6431",
+                        "points": 147,
+                        "penalties": -10
+                    },
+                    {
+                        "place": 7,
+                        "shooter": "a4b0bdda-bb58-4bb4-98a6-60b1e2603ae0",
+                        "shooterNum": -1,
+                        "shooterName": "Back, Jonas",
+                        "division": "Semi Auto Open",
+                        "stagePercent": "76.44",
+                        "stageTimeSecs": "81.88",
+                        "stagePoints": "129.9438",
+                        "hitFactor": "1.5266",
+                        "points": 135,
+                        "penalties": -10
+                    },
+                    {
+                        "place": 8,
+                        "shooter": "94087d96-cf6c-4579-980f-0b75f064ccdb",
+                        "shooterNum": -1,
+                        "shooterName": "Jansson , Philip",
+                        "division": "Semi Auto Open",
+                        "stagePercent": "62.58",
+                        "stageTimeSecs": "103.21",
+                        "stagePoints": "106.3876",
+                        "hitFactor": "1.2499",
+                        "points": 139,
+                        "penalties": -10
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,1724 @@
+[
+    {
+        "Match": [
+            {
+                "Overall": [
+                    {
+                        "possiblePoints": 490,
+                        "shooter": "76e95648-fd04-44ef-a7f4-f60de256898d",
+                        "matchPercent": "100.00",
+                        "pscPlace": 1,
+                        "completeStages": 6,
+                        "percentOfPossible": "96.80",
+                        "matchPoints": "474.3354"
+                    },
+                    {
+                        "possiblePoints": 490,
+                        "shooter": "c494752d-902a-4612-858c-786d259caab7",
+                        "matchPercent": "80.08",
+                        "pscPlace": 2,
+                        "completeStages": 6,
+                        "percentOfPossible": "77.52",
+                        "matchPoints": "379.8526"
+                    },
+                    {
+                        "possiblePoints": 490,
+                        "shooter": "c176819a-231a-45bd-a276-1087e52d0041",
+                        "matchPercent": "76.32",
+                        "pscPlace": 3,
+                        "completeStages": 6,
+                        "percentOfPossible": "73.88",
+                        "matchPoints": "362.0104"
+                    },
+                    {
+                        "possiblePoints": 490,
+                        "shooter": "70d69bd4-47a2-4c58-9870-486e925ddfe1",
+                        "matchPercent": "66.61",
+                        "pscPlace": 4,
+                        "completeStages": 6,
+                        "percentOfPossible": "64.48",
+                        "matchPoints": "315.9672"
+                    },
+                    {
+                        "possiblePoints": 490,
+                        "shooter": "44e6d6db-525b-45ac-90a7-5f863c0f2301",
+                        "matchPercent": "66.61",
+                        "pscPlace": 5,
+                        "completeStages": 6,
+                        "percentOfPossible": "64.48",
+                        "matchPoints": "315.9507"
+                    },
+                    {
+                        "possiblePoints": 490,
+                        "shooter": "c5fdcbc8-f232-45d9-bed1-216a6256e4ee",
+                        "matchPercent": "63.45",
+                        "pscPlace": 6,
+                        "completeStages": 6,
+                        "percentOfPossible": "61.42",
+                        "matchPoints": "300.9712"
+                    },
+                    {
+                        "possiblePoints": 490,
+                        "shooter": "f8be11de-5047-4a9b-84c9-2a8ff0e6f688",
+                        "matchPercent": "53.89",
+                        "pscPlace": 7,
+                        "completeStages": 6,
+                        "percentOfPossible": "52.17",
+                        "matchPoints": "255.6109"
+                    },
+                    {
+                        "possiblePoints": 490,
+                        "shooter": "226e58a3-638f-494f-8f56-0d2ccbc96d9c",
+                        "matchPercent": "49.77",
+                        "pscPlace": 8,
+                        "completeStages": 6,
+                        "percentOfPossible": "48.18",
+                        "matchPoints": "236.0851"
+                    }
+                ]
+            },
+            {
+                "PCC Optics": [
+                    {
+                        "possiblePoints": 490,
+                        "shooter": "76e95648-fd04-44ef-a7f4-f60de256898d",
+                        "matchPercent": "100.00",
+                        "pscPlace": 1,
+                        "completeStages": 6,
+                        "percentOfPossible": "96.80",
+                        "matchPoints": "474.3354"
+                    },
+                    {
+                        "possiblePoints": 490,
+                        "shooter": "c494752d-902a-4612-858c-786d259caab7",
+                        "matchPercent": "80.08",
+                        "pscPlace": 2,
+                        "completeStages": 6,
+                        "percentOfPossible": "77.52",
+                        "matchPoints": "379.8526"
+                    },
+                    {
+                        "possiblePoints": 490,
+                        "shooter": "c176819a-231a-45bd-a276-1087e52d0041",
+                        "matchPercent": "76.32",
+                        "pscPlace": 3,
+                        "completeStages": 6,
+                        "percentOfPossible": "73.88",
+                        "matchPoints": "362.0104"
+                    },
+                    {
+                        "possiblePoints": 490,
+                        "shooter": "70d69bd4-47a2-4c58-9870-486e925ddfe1",
+                        "matchPercent": "66.61",
+                        "pscPlace": 4,
+                        "completeStages": 6,
+                        "percentOfPossible": "64.48",
+                        "matchPoints": "315.9672"
+                    },
+                    {
+                        "possiblePoints": 490,
+                        "shooter": "44e6d6db-525b-45ac-90a7-5f863c0f2301",
+                        "matchPercent": "66.61",
+                        "pscPlace": 5,
+                        "completeStages": 6,
+                        "percentOfPossible": "64.48",
+                        "matchPoints": "315.9507"
+                    },
+                    {
+                        "possiblePoints": 490,
+                        "shooter": "c5fdcbc8-f232-45d9-bed1-216a6256e4ee",
+                        "matchPercent": "63.45",
+                        "pscPlace": 6,
+                        "completeStages": 6,
+                        "percentOfPossible": "61.42",
+                        "matchPoints": "300.9712"
+                    },
+                    {
+                        "possiblePoints": 490,
+                        "shooter": "f8be11de-5047-4a9b-84c9-2a8ff0e6f688",
+                        "matchPercent": "53.89",
+                        "pscPlace": 7,
+                        "completeStages": 6,
+                        "percentOfPossible": "52.17",
+                        "matchPoints": "255.6109"
+                    },
+                    {
+                        "possiblePoints": 490,
+                        "shooter": "226e58a3-638f-494f-8f56-0d2ccbc96d9c",
+                        "matchPercent": "49.77",
+                        "pscPlace": 8,
+                        "completeStages": 6,
+                        "percentOfPossible": "48.18",
+                        "matchPoints": "236.0851"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stageUUID": "fb1ebd7c-bd36-4344-9b0b-9bbfa9a3f42c",
+        "Stage 1": [
+            {
+                "Overall": [
+                    {
+                        "place": 1,
+                        "shooter": "70d69bd4-47a2-4c58-9870-486e925ddfe1",
+                        "shooterNum": -1,
+                        "shooterName": "Welin, Simon",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "31.14",
+                        "stagePoints": "115.0000",
+                        "hitFactor": "3.3076",
+                        "points": 103,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "f8be11de-5047-4a9b-84c9-2a8ff0e6f688",
+                        "shooterNum": -1,
+                        "shooterName": "Heimdahl, Patrik",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "95.82",
+                        "stageTimeSecs": "32.50",
+                        "stagePoints": "110.1877",
+                        "hitFactor": "3.1692",
+                        "points": 103,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "226e58a3-638f-494f-8f56-0d2ccbc96d9c",
+                        "shooterNum": -1,
+                        "shooterName": "Gustafsson, Benny",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "91.17",
+                        "stageTimeSecs": "34.82",
+                        "stagePoints": "104.8431",
+                        "hitFactor": "3.0155",
+                        "points": 105,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 4,
+                        "shooter": "76e95648-fd04-44ef-a7f4-f60de256898d",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn, Gustav",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "86.98",
+                        "stageTimeSecs": "24.68",
+                        "stagePoints": "100.0213",
+                        "hitFactor": "2.8768",
+                        "points": 91,
+                        "penalties": -20
+                    },
+                    {
+                        "place": 5,
+                        "shooter": "c176819a-231a-45bd-a276-1087e52d0041",
+                        "shooterNum": -1,
+                        "shooterName": "\u00d6berg, Niclas",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "82.21",
+                        "stageTimeSecs": "40.82",
+                        "stagePoints": "94.5430",
+                        "hitFactor": "2.7193",
+                        "points": 111,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 6,
+                        "shooter": "44e6d6db-525b-45ac-90a7-5f863c0f2301",
+                        "shooterNum": -1,
+                        "shooterName": "Norkvist, Alexander",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "82.09",
+                        "stageTimeSecs": "38.67",
+                        "stagePoints": "94.4049",
+                        "hitFactor": "2.7153",
+                        "points": 105,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 7,
+                        "shooter": "c5fdcbc8-f232-45d9-bed1-216a6256e4ee",
+                        "shooterNum": -1,
+                        "shooterName": "Heinola, Linda",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Lady"
+                        ],
+                        "stagePercent": "78.15",
+                        "stageTimeSecs": "38.30",
+                        "stagePoints": "89.8702",
+                        "hitFactor": "2.5849",
+                        "points": 109,
+                        "penalties": -10
+                    },
+                    {
+                        "place": 8,
+                        "shooter": "c494752d-902a-4612-858c-786d259caab7",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn, Tomas",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "64.38",
+                        "stageTimeSecs": "35.22",
+                        "stagePoints": "74.0374",
+                        "hitFactor": "2.1295",
+                        "points": 95,
+                        "penalties": -20
+                    }
+                ]
+            },
+            {
+                "PCC Optics": [
+                    {
+                        "place": 1,
+                        "shooter": "70d69bd4-47a2-4c58-9870-486e925ddfe1",
+                        "shooterNum": -1,
+                        "shooterName": "Welin, Simon",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "31.14",
+                        "stagePoints": "115.0000",
+                        "hitFactor": "3.3076",
+                        "points": 103,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "f8be11de-5047-4a9b-84c9-2a8ff0e6f688",
+                        "shooterNum": -1,
+                        "shooterName": "Heimdahl, Patrik",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "95.82",
+                        "stageTimeSecs": "32.50",
+                        "stagePoints": "110.1877",
+                        "hitFactor": "3.1692",
+                        "points": 103,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "226e58a3-638f-494f-8f56-0d2ccbc96d9c",
+                        "shooterNum": -1,
+                        "shooterName": "Gustafsson, Benny",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "91.17",
+                        "stageTimeSecs": "34.82",
+                        "stagePoints": "104.8431",
+                        "hitFactor": "3.0155",
+                        "points": 105,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 4,
+                        "shooter": "76e95648-fd04-44ef-a7f4-f60de256898d",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn, Gustav",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "86.98",
+                        "stageTimeSecs": "24.68",
+                        "stagePoints": "100.0213",
+                        "hitFactor": "2.8768",
+                        "points": 91,
+                        "penalties": -20
+                    },
+                    {
+                        "place": 5,
+                        "shooter": "c176819a-231a-45bd-a276-1087e52d0041",
+                        "shooterNum": -1,
+                        "shooterName": "\u00d6berg, Niclas",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "82.21",
+                        "stageTimeSecs": "40.82",
+                        "stagePoints": "94.5430",
+                        "hitFactor": "2.7193",
+                        "points": 111,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 6,
+                        "shooter": "44e6d6db-525b-45ac-90a7-5f863c0f2301",
+                        "shooterNum": -1,
+                        "shooterName": "Norkvist, Alexander",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "82.09",
+                        "stageTimeSecs": "38.67",
+                        "stagePoints": "94.4049",
+                        "hitFactor": "2.7153",
+                        "points": 105,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 7,
+                        "shooter": "c5fdcbc8-f232-45d9-bed1-216a6256e4ee",
+                        "shooterNum": -1,
+                        "shooterName": "Heinola, Linda",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Lady"
+                        ],
+                        "stagePercent": "78.15",
+                        "stageTimeSecs": "38.30",
+                        "stagePoints": "89.8702",
+                        "hitFactor": "2.5849",
+                        "points": 109,
+                        "penalties": -10
+                    },
+                    {
+                        "place": 8,
+                        "shooter": "c494752d-902a-4612-858c-786d259caab7",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn, Tomas",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "64.38",
+                        "stageTimeSecs": "35.22",
+                        "stagePoints": "74.0374",
+                        "hitFactor": "2.1295",
+                        "points": 95,
+                        "penalties": -20
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stageUUID": "7e55333d-64eb-431b-addf-bb62ac00a573",
+        "Stage 2": [
+            {
+                "Overall": [
+                    {
+                        "place": 1,
+                        "shooter": "76e95648-fd04-44ef-a7f4-f60de256898d",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn, Gustav",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "6.88",
+                        "stagePoints": "55.0000",
+                        "hitFactor": "6.5407",
+                        "points": 45,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "70d69bd4-47a2-4c58-9870-486e925ddfe1",
+                        "shooterNum": -1,
+                        "shooterName": "Welin, Simon",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "89.14",
+                        "stageTimeSecs": "9.09",
+                        "stagePoints": "49.0287",
+                        "hitFactor": "5.8306",
+                        "points": 53,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "f8be11de-5047-4a9b-84c9-2a8ff0e6f688",
+                        "shooterNum": -1,
+                        "shooterName": "Heimdahl, Patrik",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "83.48",
+                        "stageTimeSecs": "9.34",
+                        "stagePoints": "45.9158",
+                        "hitFactor": "5.4604",
+                        "points": 51,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 4,
+                        "shooter": "44e6d6db-525b-45ac-90a7-5f863c0f2301",
+                        "shooterNum": -1,
+                        "shooterName": "Norkvist, Alexander",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "78.00",
+                        "stageTimeSecs": "10.78",
+                        "stagePoints": "42.9025",
+                        "hitFactor": "5.1020",
+                        "points": 55,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 5,
+                        "shooter": "c494752d-902a-4612-858c-786d259caab7",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn, Tomas",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "63.70",
+                        "stageTimeSecs": "7.68",
+                        "stagePoints": "35.0370",
+                        "hitFactor": "4.1667",
+                        "points": 42,
+                        "penalties": -10
+                    },
+                    {
+                        "place": 6,
+                        "shooter": "c5fdcbc8-f232-45d9-bed1-216a6256e4ee",
+                        "shooterNum": -1,
+                        "shooterName": "Heinola, Linda",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Lady"
+                        ],
+                        "stagePercent": "62.43",
+                        "stageTimeSecs": "10.04",
+                        "stagePoints": "34.3391",
+                        "hitFactor": "4.0837",
+                        "points": 41,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 7,
+                        "shooter": "c176819a-231a-45bd-a276-1087e52d0041",
+                        "shooterNum": -1,
+                        "shooterName": "\u00d6berg, Niclas",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "55.58",
+                        "stageTimeSecs": "14.58",
+                        "stagePoints": "30.5673",
+                        "hitFactor": "3.6351",
+                        "points": 53,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 8,
+                        "shooter": "226e58a3-638f-494f-8f56-0d2ccbc96d9c",
+                        "shooterNum": -1,
+                        "shooterName": "Gustafsson, Benny",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "46.68",
+                        "stageTimeSecs": "17.36",
+                        "stagePoints": "25.6723",
+                        "hitFactor": "3.0530",
+                        "points": 53,
+                        "penalties": 0
+                    }
+                ]
+            },
+            {
+                "PCC Optics": [
+                    {
+                        "place": 1,
+                        "shooter": "76e95648-fd04-44ef-a7f4-f60de256898d",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn, Gustav",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "6.88",
+                        "stagePoints": "55.0000",
+                        "hitFactor": "6.5407",
+                        "points": 45,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "70d69bd4-47a2-4c58-9870-486e925ddfe1",
+                        "shooterNum": -1,
+                        "shooterName": "Welin, Simon",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "89.14",
+                        "stageTimeSecs": "9.09",
+                        "stagePoints": "49.0287",
+                        "hitFactor": "5.8306",
+                        "points": 53,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "f8be11de-5047-4a9b-84c9-2a8ff0e6f688",
+                        "shooterNum": -1,
+                        "shooterName": "Heimdahl, Patrik",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "83.48",
+                        "stageTimeSecs": "9.34",
+                        "stagePoints": "45.9158",
+                        "hitFactor": "5.4604",
+                        "points": 51,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 4,
+                        "shooter": "44e6d6db-525b-45ac-90a7-5f863c0f2301",
+                        "shooterNum": -1,
+                        "shooterName": "Norkvist, Alexander",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "78.00",
+                        "stageTimeSecs": "10.78",
+                        "stagePoints": "42.9025",
+                        "hitFactor": "5.1020",
+                        "points": 55,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 5,
+                        "shooter": "c494752d-902a-4612-858c-786d259caab7",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn, Tomas",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "63.70",
+                        "stageTimeSecs": "7.68",
+                        "stagePoints": "35.0370",
+                        "hitFactor": "4.1667",
+                        "points": 42,
+                        "penalties": -10
+                    },
+                    {
+                        "place": 6,
+                        "shooter": "c5fdcbc8-f232-45d9-bed1-216a6256e4ee",
+                        "shooterNum": -1,
+                        "shooterName": "Heinola, Linda",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Lady"
+                        ],
+                        "stagePercent": "62.43",
+                        "stageTimeSecs": "10.04",
+                        "stagePoints": "34.3391",
+                        "hitFactor": "4.0837",
+                        "points": 41,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 7,
+                        "shooter": "c176819a-231a-45bd-a276-1087e52d0041",
+                        "shooterNum": -1,
+                        "shooterName": "\u00d6berg, Niclas",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "55.58",
+                        "stageTimeSecs": "14.58",
+                        "stagePoints": "30.5673",
+                        "hitFactor": "3.6351",
+                        "points": 53,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 8,
+                        "shooter": "226e58a3-638f-494f-8f56-0d2ccbc96d9c",
+                        "shooterNum": -1,
+                        "shooterName": "Gustafsson, Benny",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "46.68",
+                        "stageTimeSecs": "17.36",
+                        "stagePoints": "25.6723",
+                        "hitFactor": "3.0530",
+                        "points": 53,
+                        "penalties": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stageUUID": "18f372b3-ad44-4a4e-bdbd-63e1b4bfcc19",
+        "Stage 3": [
+            {
+                "Overall": [
+                    {
+                        "place": 1,
+                        "shooter": "c494752d-902a-4612-858c-786d259caab7",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn, Tomas",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "13.46",
+                        "stagePoints": "35.0000",
+                        "hitFactor": "2.6003",
+                        "points": 35,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "76e95648-fd04-44ef-a7f4-f60de256898d",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn, Gustav",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "98.04",
+                        "stageTimeSecs": "12.16",
+                        "stagePoints": "34.3141",
+                        "hitFactor": "2.5493",
+                        "points": 31,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "70d69bd4-47a2-4c58-9870-486e925ddfe1",
+                        "shooterNum": -1,
+                        "shooterName": "Welin, Simon",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "79.04",
+                        "stageTimeSecs": "17.03",
+                        "stagePoints": "27.6629",
+                        "hitFactor": "2.0552",
+                        "points": 35,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 4,
+                        "shooter": "f8be11de-5047-4a9b-84c9-2a8ff0e6f688",
+                        "shooterNum": -1,
+                        "shooterName": "Heimdahl, Patrik",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "75.03",
+                        "stageTimeSecs": "17.94",
+                        "stagePoints": "26.2598",
+                        "hitFactor": "1.9509",
+                        "points": 35,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 5,
+                        "shooter": "44e6d6db-525b-45ac-90a7-5f863c0f2301",
+                        "shooterNum": -1,
+                        "shooterName": "Norkvist, Alexander",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "66.40",
+                        "stageTimeSecs": "20.27",
+                        "stagePoints": "23.2412",
+                        "hitFactor": "1.7267",
+                        "points": 35,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 6,
+                        "shooter": "c176819a-231a-45bd-a276-1087e52d0041",
+                        "shooterNum": -1,
+                        "shooterName": "\u00d6berg, Niclas",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "60.87",
+                        "stageTimeSecs": "20.85",
+                        "stagePoints": "21.3036",
+                        "hitFactor": "1.5827",
+                        "points": 33,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 7,
+                        "shooter": "226e58a3-638f-494f-8f56-0d2ccbc96d9c",
+                        "shooterNum": -1,
+                        "shooterName": "Gustafsson, Benny",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "55.60",
+                        "stageTimeSecs": "24.21",
+                        "stagePoints": "19.4589",
+                        "hitFactor": "1.4457",
+                        "points": 35,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 8,
+                        "shooter": "c5fdcbc8-f232-45d9-bed1-216a6256e4ee",
+                        "shooterNum": -1,
+                        "shooterName": "Heinola, Linda",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Lady"
+                        ],
+                        "stagePercent": "32.30",
+                        "stageTimeSecs": "36.91",
+                        "stagePoints": "11.3048",
+                        "hitFactor": "0.8399",
+                        "points": 31,
+                        "penalties": 0
+                    }
+                ]
+            },
+            {
+                "PCC Optics": [
+                    {
+                        "place": 1,
+                        "shooter": "c494752d-902a-4612-858c-786d259caab7",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn, Tomas",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "13.46",
+                        "stagePoints": "35.0000",
+                        "hitFactor": "2.6003",
+                        "points": 35,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "76e95648-fd04-44ef-a7f4-f60de256898d",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn, Gustav",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "98.04",
+                        "stageTimeSecs": "12.16",
+                        "stagePoints": "34.3141",
+                        "hitFactor": "2.5493",
+                        "points": 31,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "70d69bd4-47a2-4c58-9870-486e925ddfe1",
+                        "shooterNum": -1,
+                        "shooterName": "Welin, Simon",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "79.04",
+                        "stageTimeSecs": "17.03",
+                        "stagePoints": "27.6629",
+                        "hitFactor": "2.0552",
+                        "points": 35,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 4,
+                        "shooter": "f8be11de-5047-4a9b-84c9-2a8ff0e6f688",
+                        "shooterNum": -1,
+                        "shooterName": "Heimdahl, Patrik",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "75.03",
+                        "stageTimeSecs": "17.94",
+                        "stagePoints": "26.2598",
+                        "hitFactor": "1.9509",
+                        "points": 35,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 5,
+                        "shooter": "44e6d6db-525b-45ac-90a7-5f863c0f2301",
+                        "shooterNum": -1,
+                        "shooterName": "Norkvist, Alexander",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "66.40",
+                        "stageTimeSecs": "20.27",
+                        "stagePoints": "23.2412",
+                        "hitFactor": "1.7267",
+                        "points": 35,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 6,
+                        "shooter": "c176819a-231a-45bd-a276-1087e52d0041",
+                        "shooterNum": -1,
+                        "shooterName": "\u00d6berg, Niclas",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "60.87",
+                        "stageTimeSecs": "20.85",
+                        "stagePoints": "21.3036",
+                        "hitFactor": "1.5827",
+                        "points": 33,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 7,
+                        "shooter": "226e58a3-638f-494f-8f56-0d2ccbc96d9c",
+                        "shooterNum": -1,
+                        "shooterName": "Gustafsson, Benny",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "55.60",
+                        "stageTimeSecs": "24.21",
+                        "stagePoints": "19.4589",
+                        "hitFactor": "1.4457",
+                        "points": 35,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 8,
+                        "shooter": "c5fdcbc8-f232-45d9-bed1-216a6256e4ee",
+                        "shooterNum": -1,
+                        "shooterName": "Heinola, Linda",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Lady"
+                        ],
+                        "stagePercent": "32.30",
+                        "stageTimeSecs": "36.91",
+                        "stagePoints": "11.3048",
+                        "hitFactor": "0.8399",
+                        "points": 31,
+                        "penalties": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stageUUID": "b350c821-bff0-4b05-9d6d-1189aa10116d",
+        "Stage 4": [
+            {
+                "Overall": [
+                    {
+                        "place": 1,
+                        "shooter": "76e95648-fd04-44ef-a7f4-f60de256898d",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn, Gustav",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "18.55",
+                        "stagePoints": "80.0000",
+                        "hitFactor": "4.0970",
+                        "points": 76,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "c176819a-231a-45bd-a276-1087e52d0041",
+                        "shooterNum": -1,
+                        "shooterName": "\u00d6berg, Niclas",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "87.33",
+                        "stageTimeSecs": "21.80",
+                        "stagePoints": "69.8648",
+                        "hitFactor": "3.5780",
+                        "points": 78,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "c494752d-902a-4612-858c-786d259caab7",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn, Tomas",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "81.91",
+                        "stageTimeSecs": "22.05",
+                        "stagePoints": "65.5305",
+                        "hitFactor": "3.3560",
+                        "points": 74,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 4,
+                        "shooter": "f8be11de-5047-4a9b-84c9-2a8ff0e6f688",
+                        "shooterNum": -1,
+                        "shooterName": "Heimdahl, Patrik",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "75.57",
+                        "stageTimeSecs": "23.90",
+                        "stagePoints": "60.4580",
+                        "hitFactor": "3.0962",
+                        "points": 74,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 5,
+                        "shooter": "44e6d6db-525b-45ac-90a7-5f863c0f2301",
+                        "shooterNum": -1,
+                        "shooterName": "Norkvist, Alexander",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "66.64",
+                        "stageTimeSecs": "26.37",
+                        "stagePoints": "53.3142",
+                        "hitFactor": "2.7304",
+                        "points": 72,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 6,
+                        "shooter": "226e58a3-638f-494f-8f56-0d2ccbc96d9c",
+                        "shooterNum": -1,
+                        "shooterName": "Gustafsson, Benny",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "46.55",
+                        "stageTimeSecs": "40.90",
+                        "stagePoints": "37.2385",
+                        "hitFactor": "1.9071",
+                        "points": 78,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 7,
+                        "shooter": "70d69bd4-47a2-4c58-9870-486e925ddfe1",
+                        "shooterNum": -1,
+                        "shooterName": "Welin, Simon",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "40.64",
+                        "stageTimeSecs": "32.43",
+                        "stagePoints": "32.5138",
+                        "hitFactor": "1.6651",
+                        "points": 74,
+                        "penalties": -20
+                    },
+                    {
+                        "place": 8,
+                        "shooter": "c5fdcbc8-f232-45d9-bed1-216a6256e4ee",
+                        "shooterNum": -1,
+                        "shooterName": "Heinola, Linda",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Lady"
+                        ],
+                        "stagePercent": "37.40",
+                        "stageTimeSecs": "35.89",
+                        "stagePoints": "29.9233",
+                        "hitFactor": "1.5325",
+                        "points": 65,
+                        "penalties": -10
+                    }
+                ]
+            },
+            {
+                "PCC Optics": [
+                    {
+                        "place": 1,
+                        "shooter": "76e95648-fd04-44ef-a7f4-f60de256898d",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn, Gustav",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "18.55",
+                        "stagePoints": "80.0000",
+                        "hitFactor": "4.0970",
+                        "points": 76,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "c176819a-231a-45bd-a276-1087e52d0041",
+                        "shooterNum": -1,
+                        "shooterName": "\u00d6berg, Niclas",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "87.33",
+                        "stageTimeSecs": "21.80",
+                        "stagePoints": "69.8648",
+                        "hitFactor": "3.5780",
+                        "points": 78,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "c494752d-902a-4612-858c-786d259caab7",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn, Tomas",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "81.91",
+                        "stageTimeSecs": "22.05",
+                        "stagePoints": "65.5305",
+                        "hitFactor": "3.3560",
+                        "points": 74,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 4,
+                        "shooter": "f8be11de-5047-4a9b-84c9-2a8ff0e6f688",
+                        "shooterNum": -1,
+                        "shooterName": "Heimdahl, Patrik",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "75.57",
+                        "stageTimeSecs": "23.90",
+                        "stagePoints": "60.4580",
+                        "hitFactor": "3.0962",
+                        "points": 74,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 5,
+                        "shooter": "44e6d6db-525b-45ac-90a7-5f863c0f2301",
+                        "shooterNum": -1,
+                        "shooterName": "Norkvist, Alexander",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "66.64",
+                        "stageTimeSecs": "26.37",
+                        "stagePoints": "53.3142",
+                        "hitFactor": "2.7304",
+                        "points": 72,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 6,
+                        "shooter": "226e58a3-638f-494f-8f56-0d2ccbc96d9c",
+                        "shooterNum": -1,
+                        "shooterName": "Gustafsson, Benny",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "46.55",
+                        "stageTimeSecs": "40.90",
+                        "stagePoints": "37.2385",
+                        "hitFactor": "1.9071",
+                        "points": 78,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 7,
+                        "shooter": "70d69bd4-47a2-4c58-9870-486e925ddfe1",
+                        "shooterNum": -1,
+                        "shooterName": "Welin, Simon",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "40.64",
+                        "stageTimeSecs": "32.43",
+                        "stagePoints": "32.5138",
+                        "hitFactor": "1.6651",
+                        "points": 74,
+                        "penalties": -20
+                    },
+                    {
+                        "place": 8,
+                        "shooter": "c5fdcbc8-f232-45d9-bed1-216a6256e4ee",
+                        "shooterNum": -1,
+                        "shooterName": "Heinola, Linda",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Lady"
+                        ],
+                        "stagePercent": "37.40",
+                        "stageTimeSecs": "35.89",
+                        "stagePoints": "29.9233",
+                        "hitFactor": "1.5325",
+                        "points": 65,
+                        "penalties": -10
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stageUUID": "5aa6444a-d879-4c41-af16-205621b3f383",
+        "Stage 5": [
+            {
+                "Overall": [
+                    {
+                        "place": 1,
+                        "shooter": "76e95648-fd04-44ef-a7f4-f60de256898d",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn, Gustav",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "8.94",
+                        "stagePoints": "55.0000",
+                        "hitFactor": "5.9284",
+                        "points": 53,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "70d69bd4-47a2-4c58-9870-486e925ddfe1",
+                        "shooterNum": -1,
+                        "shooterName": "Welin, Simon",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "83.06",
+                        "stageTimeSecs": "11.17",
+                        "stagePoints": "45.6808",
+                        "hitFactor": "4.9239",
+                        "points": 55,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "c494752d-902a-4612-858c-786d259caab7",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn, Tomas",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "77.71",
+                        "stageTimeSecs": "11.07",
+                        "stagePoints": "42.7412",
+                        "hitFactor": "4.6070",
+                        "points": 51,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 4,
+                        "shooter": "c5fdcbc8-f232-45d9-bed1-216a6256e4ee",
+                        "shooterNum": -1,
+                        "shooterName": "Heinola, Linda",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Lady"
+                        ],
+                        "stagePercent": "67.14",
+                        "stageTimeSecs": "12.31",
+                        "stagePoints": "36.9286",
+                        "hitFactor": "3.9805",
+                        "points": 49,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 5,
+                        "shooter": "c176819a-231a-45bd-a276-1087e52d0041",
+                        "shooterNum": -1,
+                        "shooterName": "\u00d6berg, Niclas",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "53.80",
+                        "stageTimeSecs": "15.99",
+                        "stagePoints": "29.5901",
+                        "hitFactor": "3.1895",
+                        "points": 51,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 6,
+                        "shooter": "226e58a3-638f-494f-8f56-0d2ccbc96d9c",
+                        "shooterNum": -1,
+                        "shooterName": "Gustafsson, Benny",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "43.21",
+                        "stageTimeSecs": "21.47",
+                        "stagePoints": "23.7659",
+                        "hitFactor": "2.5617",
+                        "points": 55,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 7,
+                        "shooter": "44e6d6db-525b-45ac-90a7-5f863c0f2301",
+                        "shooterNum": -1,
+                        "shooterName": "Norkvist, Alexander",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "41.95",
+                        "stageTimeSecs": "21.31",
+                        "stagePoints": "23.0737",
+                        "hitFactor": "2.4871",
+                        "points": 53,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 8,
+                        "shooter": "f8be11de-5047-4a9b-84c9-2a8ff0e6f688",
+                        "shooterNum": -1,
+                        "shooterName": "Heimdahl, Patrik",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "23.25",
+                        "stageTimeSecs": "9.43",
+                        "stagePoints": "12.7896",
+                        "hitFactor": "1.3786",
+                        "points": 43,
+                        "penalties": -30
+                    }
+                ]
+            },
+            {
+                "PCC Optics": [
+                    {
+                        "place": 1,
+                        "shooter": "76e95648-fd04-44ef-a7f4-f60de256898d",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn, Gustav",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "8.94",
+                        "stagePoints": "55.0000",
+                        "hitFactor": "5.9284",
+                        "points": 53,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "70d69bd4-47a2-4c58-9870-486e925ddfe1",
+                        "shooterNum": -1,
+                        "shooterName": "Welin, Simon",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "83.06",
+                        "stageTimeSecs": "11.17",
+                        "stagePoints": "45.6808",
+                        "hitFactor": "4.9239",
+                        "points": 55,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "c494752d-902a-4612-858c-786d259caab7",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn, Tomas",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "77.71",
+                        "stageTimeSecs": "11.07",
+                        "stagePoints": "42.7412",
+                        "hitFactor": "4.6070",
+                        "points": 51,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 4,
+                        "shooter": "c5fdcbc8-f232-45d9-bed1-216a6256e4ee",
+                        "shooterNum": -1,
+                        "shooterName": "Heinola, Linda",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Lady"
+                        ],
+                        "stagePercent": "67.14",
+                        "stageTimeSecs": "12.31",
+                        "stagePoints": "36.9286",
+                        "hitFactor": "3.9805",
+                        "points": 49,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 5,
+                        "shooter": "c176819a-231a-45bd-a276-1087e52d0041",
+                        "shooterNum": -1,
+                        "shooterName": "\u00d6berg, Niclas",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "53.80",
+                        "stageTimeSecs": "15.99",
+                        "stagePoints": "29.5901",
+                        "hitFactor": "3.1895",
+                        "points": 51,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 6,
+                        "shooter": "226e58a3-638f-494f-8f56-0d2ccbc96d9c",
+                        "shooterNum": -1,
+                        "shooterName": "Gustafsson, Benny",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "43.21",
+                        "stageTimeSecs": "21.47",
+                        "stagePoints": "23.7659",
+                        "hitFactor": "2.5617",
+                        "points": 55,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 7,
+                        "shooter": "44e6d6db-525b-45ac-90a7-5f863c0f2301",
+                        "shooterNum": -1,
+                        "shooterName": "Norkvist, Alexander",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "41.95",
+                        "stageTimeSecs": "21.31",
+                        "stagePoints": "23.0737",
+                        "hitFactor": "2.4871",
+                        "points": 53,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 8,
+                        "shooter": "f8be11de-5047-4a9b-84c9-2a8ff0e6f688",
+                        "shooterNum": -1,
+                        "shooterName": "Heimdahl, Patrik",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "23.25",
+                        "stageTimeSecs": "9.43",
+                        "stagePoints": "12.7896",
+                        "hitFactor": "1.3786",
+                        "points": 43,
+                        "penalties": -30
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stageUUID": "44f5b2d6-12dd-4101-9d66-c12a5ac67bc3",
+        "Stage 6": [
+            {
+                "Overall": [
+                    {
+                        "place": 1,
+                        "shooter": "76e95648-fd04-44ef-a7f4-f60de256898d",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn, Gustav",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "19.67",
+                        "stagePoints": "150.0000",
+                        "hitFactor": "7.3208",
+                        "points": 144,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "c494752d-902a-4612-858c-786d259caab7",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn, Tomas",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "85.00",
+                        "stageTimeSecs": "23.14",
+                        "stagePoints": "127.5065",
+                        "hitFactor": "6.2230",
+                        "points": 144,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "c176819a-231a-45bd-a276-1087e52d0041",
+                        "shooterNum": -1,
+                        "shooterName": "\u00d6berg, Niclas",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "77.43",
+                        "stageTimeSecs": "26.11",
+                        "stagePoints": "116.1416",
+                        "hitFactor": "5.6683",
+                        "points": 148,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 4,
+                        "shooter": "c5fdcbc8-f232-45d9-bed1-216a6256e4ee",
+                        "shooterNum": -1,
+                        "shooterName": "Heinola, Linda",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Lady"
+                        ],
+                        "stagePercent": "65.74",
+                        "stageTimeSecs": "28.26",
+                        "stagePoints": "98.6052",
+                        "hitFactor": "4.8125",
+                        "points": 136,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 5,
+                        "shooter": "44e6d6db-525b-45ac-90a7-5f863c0f2301",
+                        "shooterNum": -1,
+                        "shooterName": "Norkvist, Alexander",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "52.68",
+                        "stageTimeSecs": "37.86",
+                        "stagePoints": "79.0142",
+                        "hitFactor": "3.8563",
+                        "points": 146,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 6,
+                        "shooter": "70d69bd4-47a2-4c58-9870-486e925ddfe1",
+                        "shooterNum": -1,
+                        "shooterName": "Welin, Simon",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "30.72",
+                        "stageTimeSecs": "62.25",
+                        "stagePoints": "46.0810",
+                        "hitFactor": "2.2490",
+                        "points": 150,
+                        "penalties": -10
+                    },
+                    {
+                        "place": 7,
+                        "shooter": "226e58a3-638f-494f-8f56-0d2ccbc96d9c",
+                        "shooterNum": -1,
+                        "shooterName": "Gustafsson, Benny",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "16.74",
+                        "stageTimeSecs": "58.76",
+                        "stagePoints": "25.1064",
+                        "hitFactor": "1.2253",
+                        "points": 122,
+                        "penalties": -50
+                    },
+                    {
+                        "place": 8,
+                        "shooter": "f8be11de-5047-4a9b-84c9-2a8ff0e6f688",
+                        "shooterNum": -1,
+                        "shooterName": "Heimdahl, Patrik",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "0.00",
+                        "stageTimeSecs": "52.08",
+                        "stagePoints": "0.0000",
+                        "hitFactor": "0.0000",
+                        "points": 95,
+                        "penalties": -180
+                    }
+                ]
+            },
+            {
+                "PCC Optics": [
+                    {
+                        "place": 1,
+                        "shooter": "76e95648-fd04-44ef-a7f4-f60de256898d",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn, Gustav",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "19.67",
+                        "stagePoints": "150.0000",
+                        "hitFactor": "7.3208",
+                        "points": 144,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "c494752d-902a-4612-858c-786d259caab7",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn, Tomas",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "85.00",
+                        "stageTimeSecs": "23.14",
+                        "stagePoints": "127.5065",
+                        "hitFactor": "6.2230",
+                        "points": 144,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "c176819a-231a-45bd-a276-1087e52d0041",
+                        "shooterNum": -1,
+                        "shooterName": "\u00d6berg, Niclas",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "77.43",
+                        "stageTimeSecs": "26.11",
+                        "stagePoints": "116.1416",
+                        "hitFactor": "5.6683",
+                        "points": 148,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 4,
+                        "shooter": "c5fdcbc8-f232-45d9-bed1-216a6256e4ee",
+                        "shooterNum": -1,
+                        "shooterName": "Heinola, Linda",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Lady"
+                        ],
+                        "stagePercent": "65.74",
+                        "stageTimeSecs": "28.26",
+                        "stagePoints": "98.6052",
+                        "hitFactor": "4.8125",
+                        "points": 136,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 5,
+                        "shooter": "44e6d6db-525b-45ac-90a7-5f863c0f2301",
+                        "shooterNum": -1,
+                        "shooterName": "Norkvist, Alexander",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "52.68",
+                        "stageTimeSecs": "37.86",
+                        "stagePoints": "79.0142",
+                        "hitFactor": "3.8563",
+                        "points": 146,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 6,
+                        "shooter": "70d69bd4-47a2-4c58-9870-486e925ddfe1",
+                        "shooterNum": -1,
+                        "shooterName": "Welin, Simon",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "30.72",
+                        "stageTimeSecs": "62.25",
+                        "stagePoints": "46.0810",
+                        "hitFactor": "2.2490",
+                        "points": 150,
+                        "penalties": -10
+                    },
+                    {
+                        "place": 7,
+                        "shooter": "226e58a3-638f-494f-8f56-0d2ccbc96d9c",
+                        "shooterNum": -1,
+                        "shooterName": "Gustafsson, Benny",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "16.74",
+                        "stageTimeSecs": "58.76",
+                        "stagePoints": "25.1064",
+                        "hitFactor": "1.2253",
+                        "points": 122,
+                        "penalties": -50
+                    },
+                    {
+                        "place": 8,
+                        "shooter": "f8be11de-5047-4a9b-84c9-2a8ff0e6f688",
+                        "shooterNum": -1,
+                        "shooterName": "Heimdahl, Patrik",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "0.00",
+                        "stageTimeSecs": "52.08",
+                        "stagePoints": "0.0000",
+                        "hitFactor": "0.0000",
+                        "points": 95,
+                        "penalties": -180
+                    }
+                ]
+            }
+        ]
+    }
+]

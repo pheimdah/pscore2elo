@@ -1,0 +1,2860 @@
+[
+    {
+        "Match": [
+            {
+                "Overall": [
+                    {
+                        "possiblePoints": 540,
+                        "shooter": "889f9599-a02a-474a-9826-7c0d85ac9ad1",
+                        "matchPercent": "100.00",
+                        "pscPlace": 1,
+                        "completeStages": 6,
+                        "percentOfPossible": "92.94",
+                        "matchPoints": "501.8934"
+                    },
+                    {
+                        "possiblePoints": 540,
+                        "shooter": "ab14b3fd-48c8-408a-a4e8-40b04d601ad1",
+                        "matchPercent": "97.37",
+                        "pscPlace": 2,
+                        "completeStages": 6,
+                        "percentOfPossible": "90.50",
+                        "matchPoints": "488.6906"
+                    },
+                    {
+                        "possiblePoints": 540,
+                        "shooter": "2c0eeb07-e781-447f-873d-d36745819997",
+                        "matchPercent": "90.41",
+                        "pscPlace": 3,
+                        "completeStages": 6,
+                        "percentOfPossible": "84.03",
+                        "matchPoints": "453.7439"
+                    },
+                    {
+                        "possiblePoints": 540,
+                        "shooter": "bca8abc8-8534-44e5-9ca9-e4b67c6410b2",
+                        "matchPercent": "85.69",
+                        "pscPlace": 4,
+                        "completeStages": 6,
+                        "percentOfPossible": "79.64",
+                        "matchPoints": "430.0502"
+                    },
+                    {
+                        "possiblePoints": 540,
+                        "shooter": "932105a1-b8d3-474b-8364-bc71e8859492",
+                        "matchPercent": "68.65",
+                        "pscPlace": 5,
+                        "completeStages": 6,
+                        "percentOfPossible": "63.80",
+                        "matchPoints": "344.5459"
+                    },
+                    {
+                        "possiblePoints": 540,
+                        "shooter": "51b92770-4cb5-4921-8fc5-a5f9ab54508d",
+                        "matchPercent": "68.23",
+                        "pscPlace": 6,
+                        "completeStages": 6,
+                        "percentOfPossible": "63.41",
+                        "matchPoints": "342.4315"
+                    },
+                    {
+                        "possiblePoints": 540,
+                        "shooter": "02492ce6-c174-4dad-b2e1-72f3fcedec41",
+                        "matchPercent": "65.70",
+                        "pscPlace": 7,
+                        "completeStages": 6,
+                        "percentOfPossible": "61.06",
+                        "matchPoints": "329.7194"
+                    },
+                    {
+                        "possiblePoints": 540,
+                        "shooter": "79057979-21ce-4fe4-8c54-e8b22595b3d9",
+                        "matchPercent": "59.60",
+                        "pscPlace": 8,
+                        "completeStages": 6,
+                        "percentOfPossible": "55.39",
+                        "matchPoints": "299.1199"
+                    },
+                    {
+                        "possiblePoints": 540,
+                        "shooter": "53f64286-4ce4-4f52-a4dd-99720628198f",
+                        "matchPercent": "52.62",
+                        "pscPlace": 9,
+                        "completeStages": 6,
+                        "percentOfPossible": "48.91",
+                        "matchPoints": "264.1123"
+                    },
+                    {
+                        "possiblePoints": 540,
+                        "shooter": "807089e9-8083-4d18-bf8c-f201d40f0e9d",
+                        "matchPercent": "51.53",
+                        "pscPlace": 10,
+                        "completeStages": 6,
+                        "percentOfPossible": "47.89",
+                        "matchPoints": "258.6230"
+                    },
+                    {
+                        "possiblePoints": 540,
+                        "shooter": "99efd3bc-9b8d-415d-b4b2-677b9c61746d",
+                        "matchPercent": "51.20",
+                        "pscPlace": 11,
+                        "completeStages": 6,
+                        "percentOfPossible": "47.59",
+                        "matchPoints": "256.9631"
+                    },
+                    {
+                        "possiblePoints": 540,
+                        "shooter": "9e3cc9fd-7451-4e4d-a458-800903592252",
+                        "matchPercent": "42.59",
+                        "pscPlace": 12,
+                        "completeStages": 6,
+                        "percentOfPossible": "39.59",
+                        "matchPoints": "213.7775"
+                    },
+                    {
+                        "possiblePoints": 540,
+                        "shooter": "d3ad5fad-815b-410f-b83e-f88c31db71c8",
+                        "matchPercent": "41.45",
+                        "pscPlace": 13,
+                        "completeStages": 6,
+                        "percentOfPossible": "38.53",
+                        "matchPoints": "208.0391"
+                    },
+                    {
+                        "possiblePoints": 540,
+                        "shooter": "bcfb998a-86c5-424a-90a7-b0f993611c89",
+                        "matchPercent": "29.53",
+                        "pscPlace": 14,
+                        "completeStages": 6,
+                        "percentOfPossible": "27.45",
+                        "matchPoints": "148.2222"
+                    }
+                ]
+            },
+            {
+                "Classic": [
+                    {
+                        "possiblePoints": 540,
+                        "shooter": "79057979-21ce-4fe4-8c54-e8b22595b3d9",
+                        "matchPercent": "100.00",
+                        "pscPlace": 1,
+                        "completeStages": 6,
+                        "percentOfPossible": "97.15",
+                        "matchPoints": "524.6033"
+                    },
+                    {
+                        "possiblePoints": 540,
+                        "shooter": "9e3cc9fd-7451-4e4d-a458-800903592252",
+                        "matchPercent": "72.82",
+                        "pscPlace": 2,
+                        "completeStages": 6,
+                        "percentOfPossible": "70.74",
+                        "matchPoints": "382.0209"
+                    }
+                ]
+            },
+            {
+                "Production": [
+                    {
+                        "possiblePoints": 540,
+                        "shooter": "ab14b3fd-48c8-408a-a4e8-40b04d601ad1",
+                        "matchPercent": "100.00",
+                        "pscPlace": 1,
+                        "completeStages": 6,
+                        "percentOfPossible": "96.43",
+                        "matchPoints": "520.7264"
+                    },
+                    {
+                        "possiblePoints": 540,
+                        "shooter": "bca8abc8-8534-44e5-9ca9-e4b67c6410b2",
+                        "matchPercent": "86.88",
+                        "pscPlace": 2,
+                        "completeStages": 6,
+                        "percentOfPossible": "83.78",
+                        "matchPoints": "452.4160"
+                    },
+                    {
+                        "possiblePoints": 540,
+                        "shooter": "932105a1-b8d3-474b-8364-bc71e8859492",
+                        "matchPercent": "70.00",
+                        "pscPlace": 3,
+                        "completeStages": 6,
+                        "percentOfPossible": "67.50",
+                        "matchPoints": "364.4846"
+                    },
+                    {
+                        "possiblePoints": 540,
+                        "shooter": "02492ce6-c174-4dad-b2e1-72f3fcedec41",
+                        "matchPercent": "68.91",
+                        "pscPlace": 4,
+                        "completeStages": 6,
+                        "percentOfPossible": "66.45",
+                        "matchPoints": "358.8335"
+                    },
+                    {
+                        "possiblePoints": 540,
+                        "shooter": "53f64286-4ce4-4f52-a4dd-99720628198f",
+                        "matchPercent": "54.64",
+                        "pscPlace": 5,
+                        "completeStages": 6,
+                        "percentOfPossible": "52.69",
+                        "matchPoints": "284.5464"
+                    },
+                    {
+                        "possiblePoints": 540,
+                        "shooter": "807089e9-8083-4d18-bf8c-f201d40f0e9d",
+                        "matchPercent": "53.53",
+                        "pscPlace": 6,
+                        "completeStages": 6,
+                        "percentOfPossible": "51.62",
+                        "matchPoints": "278.7453"
+                    },
+                    {
+                        "possiblePoints": 540,
+                        "shooter": "99efd3bc-9b8d-415d-b4b2-677b9c61746d",
+                        "matchPercent": "50.48",
+                        "pscPlace": 7,
+                        "completeStages": 6,
+                        "percentOfPossible": "48.67",
+                        "matchPoints": "262.8411"
+                    },
+                    {
+                        "possiblePoints": 540,
+                        "shooter": "d3ad5fad-815b-410f-b83e-f88c31db71c8",
+                        "matchPercent": "43.63",
+                        "pscPlace": 8,
+                        "completeStages": 6,
+                        "percentOfPossible": "42.07",
+                        "matchPoints": "227.1878"
+                    },
+                    {
+                        "possiblePoints": 540,
+                        "shooter": "bcfb998a-86c5-424a-90a7-b0f993611c89",
+                        "matchPercent": "29.98",
+                        "pscPlace": 9,
+                        "completeStages": 6,
+                        "percentOfPossible": "28.91",
+                        "matchPoints": "156.1015"
+                    }
+                ]
+            },
+            {
+                "Production Optics": [
+                    {
+                        "possiblePoints": 540,
+                        "shooter": "889f9599-a02a-474a-9826-7c0d85ac9ad1",
+                        "matchPercent": "100.00",
+                        "pscPlace": 1,
+                        "completeStages": 6,
+                        "percentOfPossible": "97.78",
+                        "matchPoints": "528.0282"
+                    },
+                    {
+                        "possiblePoints": 540,
+                        "shooter": "2c0eeb07-e781-447f-873d-d36745819997",
+                        "matchPercent": "90.63",
+                        "pscPlace": 2,
+                        "completeStages": 6,
+                        "percentOfPossible": "88.62",
+                        "matchPoints": "478.5668"
+                    },
+                    {
+                        "possiblePoints": 540,
+                        "shooter": "51b92770-4cb5-4921-8fc5-a5f9ab54508d",
+                        "matchPercent": "68.34",
+                        "pscPlace": 3,
+                        "completeStages": 6,
+                        "percentOfPossible": "66.82",
+                        "matchPoints": "360.8439"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stageUUID": "8c497fd3-79e3-4854-a44a-3655922904e1",
+        "Stage 1": [
+            {
+                "Overall": [
+                    {
+                        "place": 1,
+                        "shooter": "2c0eeb07-e781-447f-873d-d36745819997",
+                        "shooterNum": -1,
+                        "shooterName": "Lindholm, John",
+                        "division": "Production Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "7.56",
+                        "stagePoints": "50.0000",
+                        "hitFactor": "5.0265",
+                        "points": 38,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "bca8abc8-8534-44e5-9ca9-e4b67c6410b2",
+                        "shooterNum": -1,
+                        "shooterName": "Pettersson, Emil",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "96.31",
+                        "stageTimeSecs": "7.85",
+                        "stagePoints": "48.1529",
+                        "hitFactor": "4.8408",
+                        "points": 38,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "889f9599-a02a-474a-9826-7c0d85ac9ad1",
+                        "shooterNum": -1,
+                        "shooterName": "Bonn, Tobias",
+                        "division": "Production Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "93.35",
+                        "stageTimeSecs": "10.23",
+                        "stagePoints": "46.6739",
+                        "hitFactor": "4.6921",
+                        "points": 48,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 4,
+                        "shooter": "932105a1-b8d3-474b-8364-bc71e8859492",
+                        "shooterNum": -1,
+                        "shooterName": "Heimdahl, Patrik",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "87.91",
+                        "stageTimeSecs": "10.41",
+                        "stagePoints": "43.9557",
+                        "hitFactor": "4.4188",
+                        "points": 46,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 5,
+                        "shooter": "ab14b3fd-48c8-408a-a4e8-40b04d601ad1",
+                        "shooterNum": -1,
+                        "shooterName": "Lind\u00e9n, Jonas",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "80.65",
+                        "stageTimeSecs": "10.36",
+                        "stagePoints": "40.3272",
+                        "hitFactor": "4.0541",
+                        "points": 42,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 6,
+                        "shooter": "99efd3bc-9b8d-415d-b4b2-677b9c61746d",
+                        "shooterNum": -1,
+                        "shooterName": "Welin, Jan",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "66.36",
+                        "stageTimeSecs": "14.99",
+                        "stagePoints": "33.1800",
+                        "hitFactor": "3.3356",
+                        "points": 50,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 7,
+                        "shooter": "79057979-21ce-4fe4-8c54-e8b22595b3d9",
+                        "shooterNum": -1,
+                        "shooterName": "Svensson, Anders",
+                        "division": "Classic",
+                        "shooterClass": "U",
+                        "stagePercent": "55.10",
+                        "stageTimeSecs": "16.61",
+                        "stagePoints": "27.5484",
+                        "hitFactor": "2.7694",
+                        "points": 46,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 8,
+                        "shooter": "02492ce6-c174-4dad-b2e1-72f3fcedec41",
+                        "shooterNum": -1,
+                        "shooterName": "Welin, Simon",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "51.33",
+                        "stageTimeSecs": "16.28",
+                        "stagePoints": "25.6627",
+                        "hitFactor": "2.5799",
+                        "points": 42,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 9,
+                        "shooter": "51b92770-4cb5-4921-8fc5-a5f9ab54508d",
+                        "shooterNum": -1,
+                        "shooterName": "Back, Daniela",
+                        "division": "Production Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Lady"
+                        ],
+                        "stagePercent": "51.14",
+                        "stageTimeSecs": "11.67",
+                        "stagePoints": "25.5716",
+                        "hitFactor": "2.5707",
+                        "points": 30,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 10,
+                        "shooter": "53f64286-4ce4-4f52-a4dd-99720628198f",
+                        "shooterNum": -1,
+                        "shooterName": "Norkvist, Alexander",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "38.23",
+                        "stageTimeSecs": "15.09",
+                        "stagePoints": "19.1169",
+                        "hitFactor": "1.9218",
+                        "points": 39,
+                        "penalties": -10
+                    },
+                    {
+                        "place": 11,
+                        "shooter": "9e3cc9fd-7451-4e4d-a458-800903592252",
+                        "shooterNum": -1,
+                        "shooterName": "Andersson, Fredrik",
+                        "division": "Classic",
+                        "shooterClass": "U",
+                        "stagePercent": "33.31",
+                        "stageTimeSecs": "26.28",
+                        "stagePoints": "16.6547",
+                        "hitFactor": "1.6743",
+                        "points": 44,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 12,
+                        "shooter": "d3ad5fad-815b-410f-b83e-f88c31db71c8",
+                        "shooterNum": -1,
+                        "shooterName": "Degerth, Frank",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "31.73",
+                        "stageTimeSecs": "22.57",
+                        "stagePoints": "15.8664",
+                        "hitFactor": "1.5950",
+                        "points": 36,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 13,
+                        "shooter": "807089e9-8083-4d18-bf8c-f201d40f0e9d",
+                        "shooterNum": -1,
+                        "shooterName": "H\u00e4ggblom , Nils",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "27.63",
+                        "stageTimeSecs": "25.92",
+                        "stagePoints": "13.8158",
+                        "hitFactor": "1.3889",
+                        "points": 36,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 14,
+                        "shooter": "bcfb998a-86c5-424a-90a7-b0f993611c89",
+                        "shooterNum": -1,
+                        "shooterName": "Heinola, Linda",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Lady"
+                        ],
+                        "stagePercent": "4.81",
+                        "stageTimeSecs": "24.84",
+                        "stagePoints": "2.4027",
+                        "hitFactor": "0.2415",
+                        "points": 26,
+                        "penalties": -20
+                    }
+                ]
+            },
+            {
+                "Classic": [
+                    {
+                        "place": 1,
+                        "shooter": "79057979-21ce-4fe4-8c54-e8b22595b3d9",
+                        "shooterNum": -1,
+                        "shooterName": "Svensson, Anders",
+                        "division": "Classic",
+                        "shooterClass": "U",
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "16.61",
+                        "stagePoints": "50.0000",
+                        "hitFactor": "2.7694",
+                        "points": 46,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "9e3cc9fd-7451-4e4d-a458-800903592252",
+                        "shooterNum": -1,
+                        "shooterName": "Andersson, Fredrik",
+                        "division": "Classic",
+                        "shooterClass": "U",
+                        "stagePercent": "60.46",
+                        "stageTimeSecs": "26.28",
+                        "stagePoints": "30.2280",
+                        "hitFactor": "1.6743",
+                        "points": 44,
+                        "penalties": 0
+                    }
+                ]
+            },
+            {
+                "Production": [
+                    {
+                        "place": 1,
+                        "shooter": "bca8abc8-8534-44e5-9ca9-e4b67c6410b2",
+                        "shooterNum": -1,
+                        "shooterName": "Pettersson, Emil",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "7.85",
+                        "stagePoints": "50.0000",
+                        "hitFactor": "4.8408",
+                        "points": 38,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "932105a1-b8d3-474b-8364-bc71e8859492",
+                        "shooterNum": -1,
+                        "shooterName": "Heimdahl, Patrik",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "91.28",
+                        "stageTimeSecs": "10.41",
+                        "stagePoints": "45.6418",
+                        "hitFactor": "4.4188",
+                        "points": 46,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "ab14b3fd-48c8-408a-a4e8-40b04d601ad1",
+                        "shooterNum": -1,
+                        "shooterName": "Lind\u00e9n, Jonas",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "83.75",
+                        "stageTimeSecs": "10.36",
+                        "stagePoints": "41.8741",
+                        "hitFactor": "4.0541",
+                        "points": 42,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 4,
+                        "shooter": "99efd3bc-9b8d-415d-b4b2-677b9c61746d",
+                        "shooterNum": -1,
+                        "shooterName": "Welin, Jan",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "68.91",
+                        "stageTimeSecs": "14.99",
+                        "stagePoints": "34.4528",
+                        "hitFactor": "3.3356",
+                        "points": 50,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 5,
+                        "shooter": "02492ce6-c174-4dad-b2e1-72f3fcedec41",
+                        "shooterNum": -1,
+                        "shooterName": "Welin, Simon",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "53.29",
+                        "stageTimeSecs": "16.28",
+                        "stagePoints": "26.6472",
+                        "hitFactor": "2.5799",
+                        "points": 42,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 6,
+                        "shooter": "53f64286-4ce4-4f52-a4dd-99720628198f",
+                        "shooterNum": -1,
+                        "shooterName": "Norkvist, Alexander",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "39.70",
+                        "stageTimeSecs": "15.09",
+                        "stagePoints": "19.8502",
+                        "hitFactor": "1.9218",
+                        "points": 39,
+                        "penalties": -10
+                    },
+                    {
+                        "place": 7,
+                        "shooter": "d3ad5fad-815b-410f-b83e-f88c31db71c8",
+                        "shooterNum": -1,
+                        "shooterName": "Degerth, Frank",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "32.95",
+                        "stageTimeSecs": "22.57",
+                        "stagePoints": "16.4751",
+                        "hitFactor": "1.5950",
+                        "points": 36,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 8,
+                        "shooter": "807089e9-8083-4d18-bf8c-f201d40f0e9d",
+                        "shooterNum": -1,
+                        "shooterName": "H\u00e4ggblom , Nils",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "28.69",
+                        "stageTimeSecs": "25.92",
+                        "stagePoints": "14.3458",
+                        "hitFactor": "1.3889",
+                        "points": 36,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 9,
+                        "shooter": "bcfb998a-86c5-424a-90a7-b0f993611c89",
+                        "shooterNum": -1,
+                        "shooterName": "Heinola, Linda",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Lady"
+                        ],
+                        "stagePercent": "4.99",
+                        "stageTimeSecs": "24.84",
+                        "stagePoints": "2.4949",
+                        "hitFactor": "0.2415",
+                        "points": 26,
+                        "penalties": -20
+                    }
+                ]
+            },
+            {
+                "Production Optics": [
+                    {
+                        "place": 1,
+                        "shooter": "2c0eeb07-e781-447f-873d-d36745819997",
+                        "shooterNum": -1,
+                        "shooterName": "Lindholm, John",
+                        "division": "Production Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "7.56",
+                        "stagePoints": "50.0000",
+                        "hitFactor": "5.0265",
+                        "points": 38,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "889f9599-a02a-474a-9826-7c0d85ac9ad1",
+                        "shooterNum": -1,
+                        "shooterName": "Bonn, Tobias",
+                        "division": "Production Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "93.35",
+                        "stageTimeSecs": "10.23",
+                        "stagePoints": "46.6739",
+                        "hitFactor": "4.6921",
+                        "points": 48,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "51b92770-4cb5-4921-8fc5-a5f9ab54508d",
+                        "shooterNum": -1,
+                        "shooterName": "Back, Daniela",
+                        "division": "Production Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Lady"
+                        ],
+                        "stagePercent": "51.14",
+                        "stageTimeSecs": "11.67",
+                        "stagePoints": "25.5716",
+                        "hitFactor": "2.5707",
+                        "points": 30,
+                        "penalties": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stageUUID": "3bbd0864-76c3-4c44-a2f6-bed4d7b7415e",
+        "Stage 2": [
+            {
+                "Overall": [
+                    {
+                        "place": 1,
+                        "shooter": "889f9599-a02a-474a-9826-7c0d85ac9ad1",
+                        "shooterNum": -1,
+                        "shooterName": "Bonn, Tobias",
+                        "division": "Production Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "11.78",
+                        "stagePoints": "50.0000",
+                        "hitFactor": "4.2445",
+                        "points": 50,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "ab14b3fd-48c8-408a-a4e8-40b04d601ad1",
+                        "shooterNum": -1,
+                        "shooterName": "Lind\u00e9n, Jonas",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "88.01",
+                        "stageTimeSecs": "12.85",
+                        "stagePoints": "44.0031",
+                        "hitFactor": "3.7354",
+                        "points": 48,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "51b92770-4cb5-4921-8fc5-a5f9ab54508d",
+                        "shooterNum": -1,
+                        "shooterName": "Back, Daniela",
+                        "division": "Production Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Lady"
+                        ],
+                        "stagePercent": "76.05",
+                        "stageTimeSecs": "15.49",
+                        "stagePoints": "38.0245",
+                        "hitFactor": "3.2279",
+                        "points": 50,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 4,
+                        "shooter": "bca8abc8-8534-44e5-9ca9-e4b67c6410b2",
+                        "shooterNum": -1,
+                        "shooterName": "Pettersson, Emil",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "64.93",
+                        "stageTimeSecs": "15.24",
+                        "stagePoints": "32.4646",
+                        "hitFactor": "2.7559",
+                        "points": 42,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 5,
+                        "shooter": "2c0eeb07-e781-447f-873d-d36745819997",
+                        "shooterNum": -1,
+                        "shooterName": "Lindholm, John",
+                        "division": "Production Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "58.32",
+                        "stageTimeSecs": "19.39",
+                        "stagePoints": "29.1614",
+                        "hitFactor": "2.4755",
+                        "points": 48,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 6,
+                        "shooter": "807089e9-8083-4d18-bf8c-f201d40f0e9d",
+                        "shooterNum": -1,
+                        "shooterName": "H\u00e4ggblom , Nils",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "56.46",
+                        "stageTimeSecs": "18.36",
+                        "stagePoints": "28.2309",
+                        "hitFactor": "2.3965",
+                        "points": 44,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 7,
+                        "shooter": "932105a1-b8d3-474b-8364-bc71e8859492",
+                        "shooterNum": -1,
+                        "shooterName": "Heimdahl, Patrik",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "51.78",
+                        "stageTimeSecs": "20.93",
+                        "stagePoints": "25.8901",
+                        "hitFactor": "2.1978",
+                        "points": 46,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 8,
+                        "shooter": "02492ce6-c174-4dad-b2e1-72f3fcedec41",
+                        "shooterNum": -1,
+                        "shooterName": "Welin, Simon",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "47.55",
+                        "stageTimeSecs": "21.80",
+                        "stagePoints": "23.7761",
+                        "hitFactor": "2.0183",
+                        "points": 44,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 9,
+                        "shooter": "99efd3bc-9b8d-415d-b4b2-677b9c61746d",
+                        "shooterNum": -1,
+                        "shooterName": "Welin, Jan",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "44.57",
+                        "stageTimeSecs": "22.20",
+                        "stagePoints": "22.2865",
+                        "hitFactor": "1.8919",
+                        "points": 42,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 10,
+                        "shooter": "79057979-21ce-4fe4-8c54-e8b22595b3d9",
+                        "shooterNum": -1,
+                        "shooterName": "Svensson, Anders",
+                        "division": "Classic",
+                        "shooterClass": "U",
+                        "stagePercent": "42.40",
+                        "stageTimeSecs": "26.67",
+                        "stagePoints": "21.2013",
+                        "hitFactor": "1.7998",
+                        "points": 48,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 11,
+                        "shooter": "53f64286-4ce4-4f52-a4dd-99720628198f",
+                        "shooterNum": -1,
+                        "shooterName": "Norkvist, Alexander",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "34.57",
+                        "stageTimeSecs": "21.13",
+                        "stagePoints": "17.2825",
+                        "hitFactor": "1.4671",
+                        "points": 41,
+                        "penalties": -10
+                    },
+                    {
+                        "place": 12,
+                        "shooter": "bcfb998a-86c5-424a-90a7-b0f993611c89",
+                        "shooterNum": -1,
+                        "shooterName": "Heinola, Linda",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Lady"
+                        ],
+                        "stagePercent": "32.85",
+                        "stageTimeSecs": "32.99",
+                        "stagePoints": "16.4256",
+                        "hitFactor": "1.3944",
+                        "points": 46,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 13,
+                        "shooter": "9e3cc9fd-7451-4e4d-a458-800903592252",
+                        "shooterNum": -1,
+                        "shooterName": "Andersson, Fredrik",
+                        "division": "Classic",
+                        "shooterClass": "U",
+                        "stagePercent": "29.37",
+                        "stageTimeSecs": "32.09",
+                        "stagePoints": "14.6837",
+                        "hitFactor": "1.2465",
+                        "points": 40,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 14,
+                        "shooter": "d3ad5fad-815b-410f-b83e-f88c31db71c8",
+                        "shooterNum": -1,
+                        "shooterName": "Degerth, Frank",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "21.97",
+                        "stageTimeSecs": "22.52",
+                        "stagePoints": "10.9849",
+                        "hitFactor": "0.9325",
+                        "points": 41,
+                        "penalties": -20
+                    }
+                ]
+            },
+            {
+                "Classic": [
+                    {
+                        "place": 1,
+                        "shooter": "79057979-21ce-4fe4-8c54-e8b22595b3d9",
+                        "shooterNum": -1,
+                        "shooterName": "Svensson, Anders",
+                        "division": "Classic",
+                        "shooterClass": "U",
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "26.67",
+                        "stagePoints": "50.0000",
+                        "hitFactor": "1.7998",
+                        "points": 48,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "9e3cc9fd-7451-4e4d-a458-800903592252",
+                        "shooterNum": -1,
+                        "shooterName": "Andersson, Fredrik",
+                        "division": "Classic",
+                        "shooterClass": "U",
+                        "stagePercent": "69.26",
+                        "stageTimeSecs": "32.09",
+                        "stagePoints": "34.6292",
+                        "hitFactor": "1.2465",
+                        "points": 40,
+                        "penalties": 0
+                    }
+                ]
+            },
+            {
+                "Production": [
+                    {
+                        "place": 1,
+                        "shooter": "ab14b3fd-48c8-408a-a4e8-40b04d601ad1",
+                        "shooterNum": -1,
+                        "shooterName": "Lind\u00e9n, Jonas",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "12.85",
+                        "stagePoints": "50.0000",
+                        "hitFactor": "3.7354",
+                        "points": 48,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "bca8abc8-8534-44e5-9ca9-e4b67c6410b2",
+                        "shooterNum": -1,
+                        "shooterName": "Pettersson, Emil",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "73.78",
+                        "stageTimeSecs": "15.24",
+                        "stagePoints": "36.8889",
+                        "hitFactor": "2.7559",
+                        "points": 42,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "807089e9-8083-4d18-bf8c-f201d40f0e9d",
+                        "shooterNum": -1,
+                        "shooterName": "H\u00e4ggblom , Nils",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "64.16",
+                        "stageTimeSecs": "18.36",
+                        "stagePoints": "32.0783",
+                        "hitFactor": "2.3965",
+                        "points": 44,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 4,
+                        "shooter": "932105a1-b8d3-474b-8364-bc71e8859492",
+                        "shooterNum": -1,
+                        "shooterName": "Heimdahl, Patrik",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "58.84",
+                        "stageTimeSecs": "20.93",
+                        "stagePoints": "29.4185",
+                        "hitFactor": "2.1978",
+                        "points": 46,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 5,
+                        "shooter": "02492ce6-c174-4dad-b2e1-72f3fcedec41",
+                        "shooterNum": -1,
+                        "shooterName": "Welin, Simon",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "54.03",
+                        "stageTimeSecs": "21.80",
+                        "stagePoints": "27.0164",
+                        "hitFactor": "2.0183",
+                        "points": 44,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 6,
+                        "shooter": "99efd3bc-9b8d-415d-b4b2-677b9c61746d",
+                        "shooterNum": -1,
+                        "shooterName": "Welin, Jan",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "50.65",
+                        "stageTimeSecs": "22.20",
+                        "stagePoints": "25.3238",
+                        "hitFactor": "1.8919",
+                        "points": 42,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 7,
+                        "shooter": "53f64286-4ce4-4f52-a4dd-99720628198f",
+                        "shooterNum": -1,
+                        "shooterName": "Norkvist, Alexander",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "39.28",
+                        "stageTimeSecs": "21.13",
+                        "stagePoints": "19.6379",
+                        "hitFactor": "1.4671",
+                        "points": 41,
+                        "penalties": -10
+                    },
+                    {
+                        "place": 8,
+                        "shooter": "bcfb998a-86c5-424a-90a7-b0f993611c89",
+                        "shooterNum": -1,
+                        "shooterName": "Heinola, Linda",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Lady"
+                        ],
+                        "stagePercent": "37.33",
+                        "stageTimeSecs": "32.99",
+                        "stagePoints": "18.6641",
+                        "hitFactor": "1.3944",
+                        "points": 46,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 9,
+                        "shooter": "d3ad5fad-815b-410f-b83e-f88c31db71c8",
+                        "shooterNum": -1,
+                        "shooterName": "Degerth, Frank",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "24.96",
+                        "stageTimeSecs": "22.52",
+                        "stagePoints": "12.4820",
+                        "hitFactor": "0.9325",
+                        "points": 41,
+                        "penalties": -20
+                    }
+                ]
+            },
+            {
+                "Production Optics": [
+                    {
+                        "place": 1,
+                        "shooter": "889f9599-a02a-474a-9826-7c0d85ac9ad1",
+                        "shooterNum": -1,
+                        "shooterName": "Bonn, Tobias",
+                        "division": "Production Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "11.78",
+                        "stagePoints": "50.0000",
+                        "hitFactor": "4.2445",
+                        "points": 50,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "51b92770-4cb5-4921-8fc5-a5f9ab54508d",
+                        "shooterNum": -1,
+                        "shooterName": "Back, Daniela",
+                        "division": "Production Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Lady"
+                        ],
+                        "stagePercent": "76.05",
+                        "stageTimeSecs": "15.49",
+                        "stagePoints": "38.0245",
+                        "hitFactor": "3.2279",
+                        "points": 50,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "2c0eeb07-e781-447f-873d-d36745819997",
+                        "shooterNum": -1,
+                        "shooterName": "Lindholm, John",
+                        "division": "Production Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "58.32",
+                        "stageTimeSecs": "19.39",
+                        "stagePoints": "29.1614",
+                        "hitFactor": "2.4755",
+                        "points": 48,
+                        "penalties": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stageUUID": "d1f0fc60-2124-408d-90b1-197e289e307a",
+        "Stage 3": [
+            {
+                "Overall": [
+                    {
+                        "place": 1,
+                        "shooter": "ab14b3fd-48c8-408a-a4e8-40b04d601ad1",
+                        "shooterNum": -1,
+                        "shooterName": "Lind\u00e9n, Jonas",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "21.31",
+                        "stagePoints": "110.0000",
+                        "hitFactor": "4.9742",
+                        "points": 106,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "889f9599-a02a-474a-9826-7c0d85ac9ad1",
+                        "shooterNum": -1,
+                        "shooterName": "Bonn, Tobias",
+                        "division": "Production Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "88.95",
+                        "stageTimeSecs": "24.41",
+                        "stagePoints": "97.8422",
+                        "hitFactor": "4.4244",
+                        "points": 108,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "2c0eeb07-e781-447f-873d-d36745819997",
+                        "shooterNum": -1,
+                        "shooterName": "Lindholm, John",
+                        "division": "Production Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "85.00",
+                        "stageTimeSecs": "25.07",
+                        "stagePoints": "93.5022",
+                        "hitFactor": "4.2282",
+                        "points": 106,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 4,
+                        "shooter": "bca8abc8-8534-44e5-9ca9-e4b67c6410b2",
+                        "shooterNum": -1,
+                        "shooterName": "Pettersson, Emil",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "72.78",
+                        "stageTimeSecs": "23.48",
+                        "stagePoints": "80.0555",
+                        "hitFactor": "3.6201",
+                        "points": 95,
+                        "penalties": -10
+                    },
+                    {
+                        "place": 5,
+                        "shooter": "932105a1-b8d3-474b-8364-bc71e8859492",
+                        "shooterNum": -1,
+                        "shooterName": "Heimdahl, Patrik",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "68.64",
+                        "stageTimeSecs": "30.46",
+                        "stagePoints": "75.5047",
+                        "hitFactor": "3.4143",
+                        "points": 104,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 6,
+                        "shooter": "79057979-21ce-4fe4-8c54-e8b22595b3d9",
+                        "shooterNum": -1,
+                        "shooterName": "Svensson, Anders",
+                        "division": "Classic",
+                        "shooterClass": "U",
+                        "stagePercent": "68.37",
+                        "stageTimeSecs": "31.17",
+                        "stagePoints": "75.2037",
+                        "hitFactor": "3.4007",
+                        "points": 106,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 7,
+                        "shooter": "51b92770-4cb5-4921-8fc5-a5f9ab54508d",
+                        "shooterNum": -1,
+                        "shooterName": "Back, Daniela",
+                        "division": "Production Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Lady"
+                        ],
+                        "stagePercent": "65.73",
+                        "stageTimeSecs": "29.36",
+                        "stagePoints": "72.3079",
+                        "hitFactor": "3.2698",
+                        "points": 96,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 8,
+                        "shooter": "99efd3bc-9b8d-415d-b4b2-677b9c61746d",
+                        "shooterNum": -1,
+                        "shooterName": "Welin, Jan",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "60.83",
+                        "stageTimeSecs": "33.05",
+                        "stagePoints": "66.9112",
+                        "hitFactor": "3.0257",
+                        "points": 100,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 9,
+                        "shooter": "807089e9-8083-4d18-bf8c-f201d40f0e9d",
+                        "shooterNum": -1,
+                        "shooterName": "H\u00e4ggblom , Nils",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "59.67",
+                        "stageTimeSecs": "30.32",
+                        "stagePoints": "65.6423",
+                        "hitFactor": "2.9683",
+                        "points": 90,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 10,
+                        "shooter": "02492ce6-c174-4dad-b2e1-72f3fcedec41",
+                        "shooterNum": -1,
+                        "shooterName": "Welin, Simon",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "54.15",
+                        "stageTimeSecs": "33.04",
+                        "stagePoints": "59.5690",
+                        "hitFactor": "2.6937",
+                        "points": 99,
+                        "penalties": -10
+                    },
+                    {
+                        "place": 11,
+                        "shooter": "9e3cc9fd-7451-4e4d-a458-800903592252",
+                        "shooterNum": -1,
+                        "shooterName": "Andersson, Fredrik",
+                        "division": "Classic",
+                        "shooterClass": "U",
+                        "stagePercent": "52.66",
+                        "stageTimeSecs": "36.65",
+                        "stagePoints": "57.9252",
+                        "hitFactor": "2.6194",
+                        "points": 96,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 12,
+                        "shooter": "bcfb998a-86c5-424a-90a7-b0f993611c89",
+                        "shooterNum": -1,
+                        "shooterName": "Heinola, Linda",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Lady"
+                        ],
+                        "stagePercent": "45.24",
+                        "stageTimeSecs": "31.11",
+                        "stagePoints": "49.7586",
+                        "hitFactor": "2.2501",
+                        "points": 80,
+                        "penalties": -10
+                    },
+                    {
+                        "place": 13,
+                        "shooter": "d3ad5fad-815b-410f-b83e-f88c31db71c8",
+                        "shooterNum": -1,
+                        "shooterName": "Degerth, Frank",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "42.80",
+                        "stageTimeSecs": "34.76",
+                        "stagePoints": "47.0785",
+                        "hitFactor": "2.1289",
+                        "points": 94,
+                        "penalties": -20
+                    },
+                    {
+                        "place": 14,
+                        "shooter": "53f64286-4ce4-4f52-a4dd-99720628198f",
+                        "shooterNum": -1,
+                        "shooterName": "Norkvist, Alexander",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "41.40",
+                        "stageTimeSecs": "30.11",
+                        "stagePoints": "45.5356",
+                        "hitFactor": "2.0591",
+                        "points": 92,
+                        "penalties": -30
+                    }
+                ]
+            },
+            {
+                "Classic": [
+                    {
+                        "place": 1,
+                        "shooter": "79057979-21ce-4fe4-8c54-e8b22595b3d9",
+                        "shooterNum": -1,
+                        "shooterName": "Svensson, Anders",
+                        "division": "Classic",
+                        "shooterClass": "U",
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "31.17",
+                        "stagePoints": "110.0000",
+                        "hitFactor": "3.4007",
+                        "points": 106,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "9e3cc9fd-7451-4e4d-a458-800903592252",
+                        "shooterNum": -1,
+                        "shooterName": "Andersson, Fredrik",
+                        "division": "Classic",
+                        "shooterClass": "U",
+                        "stagePercent": "77.02",
+                        "stageTimeSecs": "36.65",
+                        "stagePoints": "84.7268",
+                        "hitFactor": "2.6194",
+                        "points": 96,
+                        "penalties": 0
+                    }
+                ]
+            },
+            {
+                "Production": [
+                    {
+                        "place": 1,
+                        "shooter": "ab14b3fd-48c8-408a-a4e8-40b04d601ad1",
+                        "shooterNum": -1,
+                        "shooterName": "Lind\u00e9n, Jonas",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "21.31",
+                        "stagePoints": "110.0000",
+                        "hitFactor": "4.9742",
+                        "points": 106,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "bca8abc8-8534-44e5-9ca9-e4b67c6410b2",
+                        "shooterNum": -1,
+                        "shooterName": "Pettersson, Emil",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "72.78",
+                        "stageTimeSecs": "23.48",
+                        "stagePoints": "80.0555",
+                        "hitFactor": "3.6201",
+                        "points": 95,
+                        "penalties": -10
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "932105a1-b8d3-474b-8364-bc71e8859492",
+                        "shooterNum": -1,
+                        "shooterName": "Heimdahl, Patrik",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "68.64",
+                        "stageTimeSecs": "30.46",
+                        "stagePoints": "75.5047",
+                        "hitFactor": "3.4143",
+                        "points": 104,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 4,
+                        "shooter": "99efd3bc-9b8d-415d-b4b2-677b9c61746d",
+                        "shooterNum": -1,
+                        "shooterName": "Welin, Jan",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "60.83",
+                        "stageTimeSecs": "33.05",
+                        "stagePoints": "66.9112",
+                        "hitFactor": "3.0257",
+                        "points": 100,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 5,
+                        "shooter": "807089e9-8083-4d18-bf8c-f201d40f0e9d",
+                        "shooterNum": -1,
+                        "shooterName": "H\u00e4ggblom , Nils",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "59.67",
+                        "stageTimeSecs": "30.32",
+                        "stagePoints": "65.6423",
+                        "hitFactor": "2.9683",
+                        "points": 90,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 6,
+                        "shooter": "02492ce6-c174-4dad-b2e1-72f3fcedec41",
+                        "shooterNum": -1,
+                        "shooterName": "Welin, Simon",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "54.15",
+                        "stageTimeSecs": "33.04",
+                        "stagePoints": "59.5690",
+                        "hitFactor": "2.6937",
+                        "points": 99,
+                        "penalties": -10
+                    },
+                    {
+                        "place": 7,
+                        "shooter": "bcfb998a-86c5-424a-90a7-b0f993611c89",
+                        "shooterNum": -1,
+                        "shooterName": "Heinola, Linda",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Lady"
+                        ],
+                        "stagePercent": "45.24",
+                        "stageTimeSecs": "31.11",
+                        "stagePoints": "49.7586",
+                        "hitFactor": "2.2501",
+                        "points": 80,
+                        "penalties": -10
+                    },
+                    {
+                        "place": 8,
+                        "shooter": "d3ad5fad-815b-410f-b83e-f88c31db71c8",
+                        "shooterNum": -1,
+                        "shooterName": "Degerth, Frank",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "42.80",
+                        "stageTimeSecs": "34.76",
+                        "stagePoints": "47.0785",
+                        "hitFactor": "2.1289",
+                        "points": 94,
+                        "penalties": -20
+                    },
+                    {
+                        "place": 9,
+                        "shooter": "53f64286-4ce4-4f52-a4dd-99720628198f",
+                        "shooterNum": -1,
+                        "shooterName": "Norkvist, Alexander",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "41.40",
+                        "stageTimeSecs": "30.11",
+                        "stagePoints": "45.5356",
+                        "hitFactor": "2.0591",
+                        "points": 92,
+                        "penalties": -30
+                    }
+                ]
+            },
+            {
+                "Production Optics": [
+                    {
+                        "place": 1,
+                        "shooter": "889f9599-a02a-474a-9826-7c0d85ac9ad1",
+                        "shooterNum": -1,
+                        "shooterName": "Bonn, Tobias",
+                        "division": "Production Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "24.41",
+                        "stagePoints": "110.0000",
+                        "hitFactor": "4.4244",
+                        "points": 108,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "2c0eeb07-e781-447f-873d-d36745819997",
+                        "shooterNum": -1,
+                        "shooterName": "Lindholm, John",
+                        "division": "Production Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "95.56",
+                        "stageTimeSecs": "25.07",
+                        "stagePoints": "105.1207",
+                        "hitFactor": "4.2282",
+                        "points": 106,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "51b92770-4cb5-4921-8fc5-a5f9ab54508d",
+                        "shooterNum": -1,
+                        "shooterName": "Back, Daniela",
+                        "division": "Production Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Lady"
+                        ],
+                        "stagePercent": "73.90",
+                        "stageTimeSecs": "29.36",
+                        "stagePoints": "81.2928",
+                        "hitFactor": "3.2698",
+                        "points": 96,
+                        "penalties": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stageUUID": "2af37939-337f-4ce7-9057-7ea8a7832531",
+        "Stage 4": [
+            {
+                "Overall": [
+                    {
+                        "place": 1,
+                        "shooter": "ab14b3fd-48c8-408a-a4e8-40b04d601ad1",
+                        "shooterNum": -1,
+                        "shooterName": "Lind\u00e9n, Jonas",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "15.18",
+                        "stagePoints": "60.0000",
+                        "hitFactor": "3.5573",
+                        "points": 54,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "bca8abc8-8534-44e5-9ca9-e4b67c6410b2",
+                        "shooterNum": -1,
+                        "shooterName": "Pettersson, Emil",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "90.57",
+                        "stageTimeSecs": "16.14",
+                        "stagePoints": "54.3412",
+                        "hitFactor": "3.2218",
+                        "points": 52,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "2c0eeb07-e781-447f-873d-d36745819997",
+                        "shooterNum": -1,
+                        "shooterName": "Lindholm, John",
+                        "division": "Production Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "87.65",
+                        "stageTimeSecs": "17.96",
+                        "stagePoints": "52.5909",
+                        "hitFactor": "3.1180",
+                        "points": 56,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 4,
+                        "shooter": "02492ce6-c174-4dad-b2e1-72f3fcedec41",
+                        "shooterNum": -1,
+                        "shooterName": "Welin, Simon",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "79.77",
+                        "stageTimeSecs": "19.03",
+                        "stagePoints": "47.8613",
+                        "hitFactor": "2.8376",
+                        "points": 54,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 5,
+                        "shooter": "889f9599-a02a-474a-9826-7c0d85ac9ad1",
+                        "shooterNum": -1,
+                        "shooterName": "Bonn, Tobias",
+                        "division": "Production Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "77.09",
+                        "stageTimeSecs": "21.15",
+                        "stagePoints": "46.2537",
+                        "hitFactor": "2.7423",
+                        "points": 58,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 6,
+                        "shooter": "932105a1-b8d3-474b-8364-bc71e8859492",
+                        "shooterNum": -1,
+                        "shooterName": "Heimdahl, Patrik",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "73.18",
+                        "stageTimeSecs": "17.67",
+                        "stagePoints": "43.9087",
+                        "hitFactor": "2.6033",
+                        "points": 46,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 7,
+                        "shooter": "99efd3bc-9b8d-415d-b4b2-677b9c61746d",
+                        "shooterNum": -1,
+                        "shooterName": "Welin, Jan",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "70.97",
+                        "stageTimeSecs": "22.18",
+                        "stagePoints": "42.5849",
+                        "hitFactor": "2.5248",
+                        "points": 56,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 8,
+                        "shooter": "807089e9-8083-4d18-bf8c-f201d40f0e9d",
+                        "shooterNum": -1,
+                        "shooterName": "H\u00e4ggblom , Nils",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "60.69",
+                        "stageTimeSecs": "23.16",
+                        "stagePoints": "36.4134",
+                        "hitFactor": "2.1589",
+                        "points": 50,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 9,
+                        "shooter": "79057979-21ce-4fe4-8c54-e8b22595b3d9",
+                        "shooterNum": -1,
+                        "shooterName": "Svensson, Anders",
+                        "division": "Classic",
+                        "shooterClass": "U",
+                        "stagePercent": "52.53",
+                        "stageTimeSecs": "27.83",
+                        "stagePoints": "31.5152",
+                        "hitFactor": "1.8685",
+                        "points": 52,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 10,
+                        "shooter": "51b92770-4cb5-4921-8fc5-a5f9ab54508d",
+                        "shooterNum": -1,
+                        "shooterName": "Back, Daniela",
+                        "division": "Production Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Lady"
+                        ],
+                        "stagePercent": "45.59",
+                        "stageTimeSecs": "27.13",
+                        "stagePoints": "27.3547",
+                        "hitFactor": "1.6218",
+                        "points": 54,
+                        "penalties": -10
+                    },
+                    {
+                        "place": 11,
+                        "shooter": "53f64286-4ce4-4f52-a4dd-99720628198f",
+                        "shooterNum": -1,
+                        "shooterName": "Norkvist, Alexander",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "42.92",
+                        "stageTimeSecs": "28.82",
+                        "stagePoints": "25.7506",
+                        "hitFactor": "1.5267",
+                        "points": 54,
+                        "penalties": -10
+                    },
+                    {
+                        "place": 12,
+                        "shooter": "9e3cc9fd-7451-4e4d-a458-800903592252",
+                        "shooterNum": -1,
+                        "shooterName": "Andersson, Fredrik",
+                        "division": "Classic",
+                        "shooterClass": "U",
+                        "stagePercent": "17.92",
+                        "stageTimeSecs": "34.52",
+                        "stagePoints": "10.7493",
+                        "hitFactor": "0.6373",
+                        "points": 42,
+                        "penalties": -20
+                    },
+                    {
+                        "place": 13,
+                        "shooter": "d3ad5fad-815b-410f-b83e-f88c31db71c8",
+                        "shooterNum": -1,
+                        "shooterName": "Degerth, Frank",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "12.82",
+                        "stageTimeSecs": "26.32",
+                        "stagePoints": "7.6900",
+                        "hitFactor": "0.4559",
+                        "points": 42,
+                        "penalties": -30
+                    },
+                    {
+                        "place": 14,
+                        "shooter": "bcfb998a-86c5-424a-90a7-b0f993611c89",
+                        "shooterNum": -1,
+                        "shooterName": "Heinola, Linda",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Lady"
+                        ],
+                        "stagePercent": "11.77",
+                        "stageTimeSecs": "23.88",
+                        "stagePoints": "7.0631",
+                        "hitFactor": "0.4188",
+                        "points": 40,
+                        "penalties": -30
+                    }
+                ]
+            },
+            {
+                "Classic": [
+                    {
+                        "place": 1,
+                        "shooter": "79057979-21ce-4fe4-8c54-e8b22595b3d9",
+                        "shooterNum": -1,
+                        "shooterName": "Svensson, Anders",
+                        "division": "Classic",
+                        "shooterClass": "U",
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "27.83",
+                        "stagePoints": "60.0000",
+                        "hitFactor": "1.8685",
+                        "points": 52,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "9e3cc9fd-7451-4e4d-a458-800903592252",
+                        "shooterNum": -1,
+                        "shooterName": "Andersson, Fredrik",
+                        "division": "Classic",
+                        "shooterClass": "U",
+                        "stagePercent": "34.11",
+                        "stageTimeSecs": "34.52",
+                        "stagePoints": "20.4651",
+                        "hitFactor": "0.6373",
+                        "points": 42,
+                        "penalties": -20
+                    }
+                ]
+            },
+            {
+                "Production": [
+                    {
+                        "place": 1,
+                        "shooter": "ab14b3fd-48c8-408a-a4e8-40b04d601ad1",
+                        "shooterNum": -1,
+                        "shooterName": "Lind\u00e9n, Jonas",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "15.18",
+                        "stagePoints": "60.0000",
+                        "hitFactor": "3.5573",
+                        "points": 54,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "bca8abc8-8534-44e5-9ca9-e4b67c6410b2",
+                        "shooterNum": -1,
+                        "shooterName": "Pettersson, Emil",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "90.57",
+                        "stageTimeSecs": "16.14",
+                        "stagePoints": "54.3412",
+                        "hitFactor": "3.2218",
+                        "points": 52,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "02492ce6-c174-4dad-b2e1-72f3fcedec41",
+                        "shooterNum": -1,
+                        "shooterName": "Welin, Simon",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "79.77",
+                        "stageTimeSecs": "19.03",
+                        "stagePoints": "47.8613",
+                        "hitFactor": "2.8376",
+                        "points": 54,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 4,
+                        "shooter": "932105a1-b8d3-474b-8364-bc71e8859492",
+                        "shooterNum": -1,
+                        "shooterName": "Heimdahl, Patrik",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "73.18",
+                        "stageTimeSecs": "17.67",
+                        "stagePoints": "43.9087",
+                        "hitFactor": "2.6033",
+                        "points": 46,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 5,
+                        "shooter": "99efd3bc-9b8d-415d-b4b2-677b9c61746d",
+                        "shooterNum": -1,
+                        "shooterName": "Welin, Jan",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "70.97",
+                        "stageTimeSecs": "22.18",
+                        "stagePoints": "42.5849",
+                        "hitFactor": "2.5248",
+                        "points": 56,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 6,
+                        "shooter": "807089e9-8083-4d18-bf8c-f201d40f0e9d",
+                        "shooterNum": -1,
+                        "shooterName": "H\u00e4ggblom , Nils",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "60.69",
+                        "stageTimeSecs": "23.16",
+                        "stagePoints": "36.4134",
+                        "hitFactor": "2.1589",
+                        "points": 50,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 7,
+                        "shooter": "53f64286-4ce4-4f52-a4dd-99720628198f",
+                        "shooterNum": -1,
+                        "shooterName": "Norkvist, Alexander",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "42.92",
+                        "stageTimeSecs": "28.82",
+                        "stagePoints": "25.7506",
+                        "hitFactor": "1.5267",
+                        "points": 54,
+                        "penalties": -10
+                    },
+                    {
+                        "place": 8,
+                        "shooter": "d3ad5fad-815b-410f-b83e-f88c31db71c8",
+                        "shooterNum": -1,
+                        "shooterName": "Degerth, Frank",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "12.82",
+                        "stageTimeSecs": "26.32",
+                        "stagePoints": "7.6900",
+                        "hitFactor": "0.4559",
+                        "points": 42,
+                        "penalties": -30
+                    },
+                    {
+                        "place": 9,
+                        "shooter": "bcfb998a-86c5-424a-90a7-b0f993611c89",
+                        "shooterNum": -1,
+                        "shooterName": "Heinola, Linda",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Lady"
+                        ],
+                        "stagePercent": "11.77",
+                        "stageTimeSecs": "23.88",
+                        "stagePoints": "7.0631",
+                        "hitFactor": "0.4188",
+                        "points": 40,
+                        "penalties": -30
+                    }
+                ]
+            },
+            {
+                "Production Optics": [
+                    {
+                        "place": 1,
+                        "shooter": "2c0eeb07-e781-447f-873d-d36745819997",
+                        "shooterNum": -1,
+                        "shooterName": "Lindholm, John",
+                        "division": "Production Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "17.96",
+                        "stagePoints": "60.0000",
+                        "hitFactor": "3.1180",
+                        "points": 56,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "889f9599-a02a-474a-9826-7c0d85ac9ad1",
+                        "shooterNum": -1,
+                        "shooterName": "Bonn, Tobias",
+                        "division": "Production Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "87.95",
+                        "stageTimeSecs": "21.15",
+                        "stagePoints": "52.7700",
+                        "hitFactor": "2.7423",
+                        "points": 58,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "51b92770-4cb5-4921-8fc5-a5f9ab54508d",
+                        "shooterNum": -1,
+                        "shooterName": "Back, Daniela",
+                        "division": "Production Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Lady"
+                        ],
+                        "stagePercent": "52.01",
+                        "stageTimeSecs": "27.13",
+                        "stagePoints": "31.2085",
+                        "hitFactor": "1.6218",
+                        "points": 54,
+                        "penalties": -10
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stageUUID": "1e513359-1a7f-4071-82e8-c1dd2d85b8aa",
+        "Stage 5": [
+            {
+                "Overall": [
+                    {
+                        "place": 1,
+                        "shooter": "2c0eeb07-e781-447f-873d-d36745819997",
+                        "shooterNum": -1,
+                        "shooterName": "Lindholm, John",
+                        "division": "Production Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "23.28",
+                        "stagePoints": "110.0000",
+                        "hitFactor": "4.2096",
+                        "points": 98,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "889f9599-a02a-474a-9826-7c0d85ac9ad1",
+                        "shooterNum": -1,
+                        "shooterName": "Bonn, Tobias",
+                        "division": "Production Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "98.71",
+                        "stageTimeSecs": "25.99",
+                        "stagePoints": "108.5843",
+                        "hitFactor": "4.1554",
+                        "points": 108,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "02492ce6-c174-4dad-b2e1-72f3fcedec41",
+                        "shooterNum": -1,
+                        "shooterName": "Welin, Simon",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "77.37",
+                        "stageTimeSecs": "31.93",
+                        "stagePoints": "85.1107",
+                        "hitFactor": "3.2571",
+                        "points": 104,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 4,
+                        "shooter": "ab14b3fd-48c8-408a-a4e8-40b04d601ad1",
+                        "shooterNum": -1,
+                        "shooterName": "Lind\u00e9n, Jonas",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "76.14",
+                        "stageTimeSecs": "23.40",
+                        "stagePoints": "83.7520",
+                        "hitFactor": "3.2051",
+                        "points": 85,
+                        "penalties": -10
+                    },
+                    {
+                        "place": 5,
+                        "shooter": "51b92770-4cb5-4921-8fc5-a5f9ab54508d",
+                        "shooterNum": -1,
+                        "shooterName": "Back, Daniela",
+                        "division": "Production Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Lady"
+                        ],
+                        "stagePercent": "59.29",
+                        "stageTimeSecs": "29.25",
+                        "stagePoints": "65.2149",
+                        "hitFactor": "2.4957",
+                        "points": 93,
+                        "penalties": -20
+                    },
+                    {
+                        "place": 6,
+                        "shooter": "53f64286-4ce4-4f52-a4dd-99720628198f",
+                        "shooterNum": -1,
+                        "shooterName": "Norkvist, Alexander",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "53.92",
+                        "stageTimeSecs": "40.09",
+                        "stagePoints": "59.3137",
+                        "hitFactor": "2.2699",
+                        "points": 101,
+                        "penalties": -10
+                    },
+                    {
+                        "place": 7,
+                        "shooter": "d3ad5fad-815b-410f-b83e-f88c31db71c8",
+                        "shooterNum": -1,
+                        "shooterName": "Degerth, Frank",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "52.98",
+                        "stageTimeSecs": "41.25",
+                        "stagePoints": "58.2792",
+                        "hitFactor": "2.2303",
+                        "points": 92,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 8,
+                        "shooter": "bca8abc8-8534-44e5-9ca9-e4b67c6410b2",
+                        "shooterNum": -1,
+                        "shooterName": "Pettersson, Emil",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "50.03",
+                        "stageTimeSecs": "22.79",
+                        "stagePoints": "55.0360",
+                        "hitFactor": "2.1062",
+                        "points": 78,
+                        "penalties": -30
+                    },
+                    {
+                        "place": 9,
+                        "shooter": "807089e9-8083-4d18-bf8c-f201d40f0e9d",
+                        "shooterNum": -1,
+                        "shooterName": "H\u00e4ggblom , Nils",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "48.95",
+                        "stageTimeSecs": "43.68",
+                        "stagePoints": "53.8405",
+                        "hitFactor": "2.0604",
+                        "points": 90,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 10,
+                        "shooter": "932105a1-b8d3-474b-8364-bc71e8859492",
+                        "shooterNum": -1,
+                        "shooterName": "Heimdahl, Patrik",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "45.77",
+                        "stageTimeSecs": "45.67",
+                        "stagePoints": "50.3502",
+                        "hitFactor": "1.9269",
+                        "points": 88,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 11,
+                        "shooter": "9e3cc9fd-7451-4e4d-a458-800903592252",
+                        "shooterNum": -1,
+                        "shooterName": "Andersson, Fredrik",
+                        "division": "Classic",
+                        "shooterClass": "U",
+                        "stagePercent": "44.69",
+                        "stageTimeSecs": "49.97",
+                        "stagePoints": "49.1550",
+                        "hitFactor": "1.8811",
+                        "points": 94,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 12,
+                        "shooter": "79057979-21ce-4fe4-8c54-e8b22595b3d9",
+                        "shooterNum": -1,
+                        "shooterName": "Svensson, Anders",
+                        "division": "Classic",
+                        "shooterClass": "U",
+                        "stagePercent": "38.43",
+                        "stageTimeSecs": "32.76",
+                        "stagePoints": "42.2748",
+                        "hitFactor": "1.6178",
+                        "points": 83,
+                        "penalties": -30
+                    },
+                    {
+                        "place": 13,
+                        "shooter": "bcfb998a-86c5-424a-90a7-b0f993611c89",
+                        "shooterNum": -1,
+                        "shooterName": "Heinola, Linda",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Lady"
+                        ],
+                        "stagePercent": "17.25",
+                        "stageTimeSecs": "44.07",
+                        "stagePoints": "18.9739",
+                        "hitFactor": "0.7261",
+                        "points": 62,
+                        "penalties": -30
+                    },
+                    {
+                        "place": 14,
+                        "shooter": "99efd3bc-9b8d-415d-b4b2-677b9c61746d",
+                        "shooterNum": -1,
+                        "shooterName": "Welin, Jan",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "4.87",
+                        "stageTimeSecs": "38.99",
+                        "stagePoints": "5.3615",
+                        "hitFactor": "0.2052",
+                        "points": 78,
+                        "penalties": -70
+                    }
+                ]
+            },
+            {
+                "Classic": [
+                    {
+                        "place": 1,
+                        "shooter": "9e3cc9fd-7451-4e4d-a458-800903592252",
+                        "shooterNum": -1,
+                        "shooterName": "Andersson, Fredrik",
+                        "division": "Classic",
+                        "shooterClass": "U",
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "49.97",
+                        "stagePoints": "110.0000",
+                        "hitFactor": "1.8811",
+                        "points": 94,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "79057979-21ce-4fe4-8c54-e8b22595b3d9",
+                        "shooterNum": -1,
+                        "shooterName": "Svensson, Anders",
+                        "division": "Classic",
+                        "shooterClass": "U",
+                        "stagePercent": "86.00",
+                        "stageTimeSecs": "32.76",
+                        "stagePoints": "94.6033",
+                        "hitFactor": "1.6178",
+                        "points": 83,
+                        "penalties": -30
+                    }
+                ]
+            },
+            {
+                "Production": [
+                    {
+                        "place": 1,
+                        "shooter": "02492ce6-c174-4dad-b2e1-72f3fcedec41",
+                        "shooterNum": -1,
+                        "shooterName": "Welin, Simon",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "31.93",
+                        "stagePoints": "110.0000",
+                        "hitFactor": "3.2571",
+                        "points": 104,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "ab14b3fd-48c8-408a-a4e8-40b04d601ad1",
+                        "shooterNum": -1,
+                        "shooterName": "Lind\u00e9n, Jonas",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "98.40",
+                        "stageTimeSecs": "23.40",
+                        "stagePoints": "108.2440",
+                        "hitFactor": "3.2051",
+                        "points": 85,
+                        "penalties": -10
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "53f64286-4ce4-4f52-a4dd-99720628198f",
+                        "shooterNum": -1,
+                        "shooterName": "Norkvist, Alexander",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "69.69",
+                        "stageTimeSecs": "40.09",
+                        "stagePoints": "76.6591",
+                        "hitFactor": "2.2699",
+                        "points": 101,
+                        "penalties": -10
+                    },
+                    {
+                        "place": 4,
+                        "shooter": "d3ad5fad-815b-410f-b83e-f88c31db71c8",
+                        "shooterNum": -1,
+                        "shooterName": "Degerth, Frank",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "68.47",
+                        "stageTimeSecs": "41.25",
+                        "stagePoints": "75.3221",
+                        "hitFactor": "2.2303",
+                        "points": 92,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 5,
+                        "shooter": "bca8abc8-8534-44e5-9ca9-e4b67c6410b2",
+                        "shooterNum": -1,
+                        "shooterName": "Pettersson, Emil",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "64.66",
+                        "stageTimeSecs": "22.79",
+                        "stagePoints": "71.1304",
+                        "hitFactor": "2.1062",
+                        "points": 78,
+                        "penalties": -30
+                    },
+                    {
+                        "place": 6,
+                        "shooter": "807089e9-8083-4d18-bf8c-f201d40f0e9d",
+                        "shooterNum": -1,
+                        "shooterName": "H\u00e4ggblom , Nils",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "63.26",
+                        "stageTimeSecs": "43.68",
+                        "stagePoints": "69.5854",
+                        "hitFactor": "2.0604",
+                        "points": 90,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 7,
+                        "shooter": "932105a1-b8d3-474b-8364-bc71e8859492",
+                        "shooterNum": -1,
+                        "shooterName": "Heimdahl, Patrik",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "59.16",
+                        "stageTimeSecs": "45.67",
+                        "stagePoints": "65.0744",
+                        "hitFactor": "1.9269",
+                        "points": 88,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 8,
+                        "shooter": "bcfb998a-86c5-424a-90a7-b0f993611c89",
+                        "shooterNum": -1,
+                        "shooterName": "Heinola, Linda",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Lady"
+                        ],
+                        "stagePercent": "22.29",
+                        "stageTimeSecs": "44.07",
+                        "stagePoints": "24.5225",
+                        "hitFactor": "0.7261",
+                        "points": 62,
+                        "penalties": -30
+                    },
+                    {
+                        "place": 9,
+                        "shooter": "99efd3bc-9b8d-415d-b4b2-677b9c61746d",
+                        "shooterNum": -1,
+                        "shooterName": "Welin, Jan",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "6.30",
+                        "stageTimeSecs": "38.99",
+                        "stagePoints": "6.9294",
+                        "hitFactor": "0.2052",
+                        "points": 78,
+                        "penalties": -70
+                    }
+                ]
+            },
+            {
+                "Production Optics": [
+                    {
+                        "place": 1,
+                        "shooter": "2c0eeb07-e781-447f-873d-d36745819997",
+                        "shooterNum": -1,
+                        "shooterName": "Lindholm, John",
+                        "division": "Production Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "23.28",
+                        "stagePoints": "110.0000",
+                        "hitFactor": "4.2096",
+                        "points": 98,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "889f9599-a02a-474a-9826-7c0d85ac9ad1",
+                        "shooterNum": -1,
+                        "shooterName": "Bonn, Tobias",
+                        "division": "Production Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "98.71",
+                        "stageTimeSecs": "25.99",
+                        "stagePoints": "108.5843",
+                        "hitFactor": "4.1554",
+                        "points": 108,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "51b92770-4cb5-4921-8fc5-a5f9ab54508d",
+                        "shooterNum": -1,
+                        "shooterName": "Back, Daniela",
+                        "division": "Production Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Lady"
+                        ],
+                        "stagePercent": "59.29",
+                        "stageTimeSecs": "29.25",
+                        "stagePoints": "65.2149",
+                        "hitFactor": "2.4957",
+                        "points": 93,
+                        "penalties": -20
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stageUUID": "f2993263-6728-4a9c-8396-cddbb4045bcb",
+        "Stage 6": [
+            {
+                "Overall": [
+                    {
+                        "place": 1,
+                        "shooter": "bca8abc8-8534-44e5-9ca9-e4b67c6410b2",
+                        "shooterNum": -1,
+                        "shooterName": "Pettersson, Emil",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "24.43",
+                        "stagePoints": "160.0000",
+                        "hitFactor": "5.9763",
+                        "points": 146,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "889f9599-a02a-474a-9826-7c0d85ac9ad1",
+                        "shooterNum": -1,
+                        "shooterName": "Bonn, Tobias",
+                        "division": "Production Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "95.34",
+                        "stageTimeSecs": "27.38",
+                        "stagePoints": "152.5393",
+                        "hitFactor": "5.6976",
+                        "points": 156,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "ab14b3fd-48c8-408a-a4e8-40b04d601ad1",
+                        "shooterNum": -1,
+                        "shooterName": "Lind\u00e9n, Jonas",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "94.13",
+                        "stageTimeSecs": "27.02",
+                        "stagePoints": "150.6083",
+                        "hitFactor": "5.6255",
+                        "points": 152,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 4,
+                        "shooter": "2c0eeb07-e781-447f-873d-d36745819997",
+                        "shooterNum": -1,
+                        "shooterName": "Lindholm, John",
+                        "division": "Production Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "74.06",
+                        "stageTimeSecs": "35.70",
+                        "stagePoints": "118.4894",
+                        "hitFactor": "4.4258",
+                        "points": 158,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 5,
+                        "shooter": "51b92770-4cb5-4921-8fc5-a5f9ab54508d",
+                        "shooterNum": -1,
+                        "shooterName": "Back, Daniela",
+                        "division": "Production Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Lady"
+                        ],
+                        "stagePercent": "71.22",
+                        "stageTimeSecs": "35.71",
+                        "stagePoints": "113.9579",
+                        "hitFactor": "4.2565",
+                        "points": 152,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 6,
+                        "shooter": "932105a1-b8d3-474b-8364-bc71e8859492",
+                        "shooterNum": -1,
+                        "shooterName": "Heimdahl, Patrik",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "65.59",
+                        "stageTimeSecs": "38.78",
+                        "stagePoints": "104.9365",
+                        "hitFactor": "3.9195",
+                        "points": 152,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 7,
+                        "shooter": "79057979-21ce-4fe4-8c54-e8b22595b3d9",
+                        "shooterNum": -1,
+                        "shooterName": "Svensson, Anders",
+                        "division": "Classic",
+                        "shooterClass": "U",
+                        "stagePercent": "63.36",
+                        "stageTimeSecs": "40.67",
+                        "stagePoints": "101.3765",
+                        "hitFactor": "3.7866",
+                        "points": 154,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 8,
+                        "shooter": "53f64286-4ce4-4f52-a4dd-99720628198f",
+                        "shooterNum": -1,
+                        "shooterName": "Norkvist, Alexander",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "60.70",
+                        "stageTimeSecs": "40.25",
+                        "stagePoints": "97.1130",
+                        "hitFactor": "3.6273",
+                        "points": 156,
+                        "penalties": -10
+                    },
+                    {
+                        "place": 9,
+                        "shooter": "02492ce6-c174-4dad-b2e1-72f3fcedec41",
+                        "shooterNum": -1,
+                        "shooterName": "Welin, Simon",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "54.84",
+                        "stageTimeSecs": "44.55",
+                        "stagePoints": "87.7396",
+                        "hitFactor": "3.2772",
+                        "points": 156,
+                        "penalties": -10
+                    },
+                    {
+                        "place": 10,
+                        "shooter": "99efd3bc-9b8d-415d-b4b2-677b9c61746d",
+                        "shooterNum": -1,
+                        "shooterName": "Welin, Jan",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "54.15",
+                        "stageTimeSecs": "46.97",
+                        "stagePoints": "86.6390",
+                        "hitFactor": "3.2361",
+                        "points": 152,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 11,
+                        "shooter": "d3ad5fad-815b-410f-b83e-f88c31db71c8",
+                        "shooterNum": -1,
+                        "shooterName": "Degerth, Frank",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "42.59",
+                        "stageTimeSecs": "58.15",
+                        "stagePoints": "68.1401",
+                        "hitFactor": "2.5451",
+                        "points": 148,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 12,
+                        "shooter": "9e3cc9fd-7451-4e4d-a458-800903592252",
+                        "shooterNum": -1,
+                        "shooterName": "Andersson, Fredrik",
+                        "division": "Classic",
+                        "shooterClass": "U",
+                        "stagePercent": "40.38",
+                        "stageTimeSecs": "59.67",
+                        "stagePoints": "64.6096",
+                        "hitFactor": "2.4133",
+                        "points": 144,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 13,
+                        "shooter": "807089e9-8083-4d18-bf8c-f201d40f0e9d",
+                        "shooterNum": -1,
+                        "shooterName": "H\u00e4ggblom , Nils",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "37.93",
+                        "stageTimeSecs": "40.15",
+                        "stagePoints": "60.6801",
+                        "hitFactor": "2.2665",
+                        "points": 141,
+                        "penalties": -50
+                    },
+                    {
+                        "place": 14,
+                        "shooter": "bcfb998a-86c5-424a-90a7-b0f993611c89",
+                        "shooterNum": -1,
+                        "shooterName": "Heinola, Linda",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Lady"
+                        ],
+                        "stagePercent": "33.50",
+                        "stageTimeSecs": "50.45",
+                        "stagePoints": "53.5983",
+                        "hitFactor": "2.0020",
+                        "points": 121,
+                        "penalties": -20
+                    }
+                ]
+            },
+            {
+                "Classic": [
+                    {
+                        "place": 1,
+                        "shooter": "79057979-21ce-4fe4-8c54-e8b22595b3d9",
+                        "shooterNum": -1,
+                        "shooterName": "Svensson, Anders",
+                        "division": "Classic",
+                        "shooterClass": "U",
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "40.67",
+                        "stagePoints": "160.0000",
+                        "hitFactor": "3.7866",
+                        "points": 154,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "9e3cc9fd-7451-4e4d-a458-800903592252",
+                        "shooterNum": -1,
+                        "shooterName": "Andersson, Fredrik",
+                        "division": "Classic",
+                        "shooterClass": "U",
+                        "stagePercent": "63.73",
+                        "stageTimeSecs": "59.67",
+                        "stagePoints": "101.9718",
+                        "hitFactor": "2.4133",
+                        "points": 144,
+                        "penalties": 0
+                    }
+                ]
+            },
+            {
+                "Production": [
+                    {
+                        "place": 1,
+                        "shooter": "bca8abc8-8534-44e5-9ca9-e4b67c6410b2",
+                        "shooterNum": -1,
+                        "shooterName": "Pettersson, Emil",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "24.43",
+                        "stagePoints": "160.0000",
+                        "hitFactor": "5.9763",
+                        "points": 146,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "ab14b3fd-48c8-408a-a4e8-40b04d601ad1",
+                        "shooterNum": -1,
+                        "shooterName": "Lind\u00e9n, Jonas",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "94.13",
+                        "stageTimeSecs": "27.02",
+                        "stagePoints": "150.6083",
+                        "hitFactor": "5.6255",
+                        "points": 152,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "932105a1-b8d3-474b-8364-bc71e8859492",
+                        "shooterNum": -1,
+                        "shooterName": "Heimdahl, Patrik",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "65.59",
+                        "stageTimeSecs": "38.78",
+                        "stagePoints": "104.9365",
+                        "hitFactor": "3.9195",
+                        "points": 152,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 4,
+                        "shooter": "53f64286-4ce4-4f52-a4dd-99720628198f",
+                        "shooterNum": -1,
+                        "shooterName": "Norkvist, Alexander",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "60.70",
+                        "stageTimeSecs": "40.25",
+                        "stagePoints": "97.1130",
+                        "hitFactor": "3.6273",
+                        "points": 156,
+                        "penalties": -10
+                    },
+                    {
+                        "place": 5,
+                        "shooter": "02492ce6-c174-4dad-b2e1-72f3fcedec41",
+                        "shooterNum": -1,
+                        "shooterName": "Welin, Simon",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "54.84",
+                        "stageTimeSecs": "44.55",
+                        "stagePoints": "87.7396",
+                        "hitFactor": "3.2772",
+                        "points": 156,
+                        "penalties": -10
+                    },
+                    {
+                        "place": 6,
+                        "shooter": "99efd3bc-9b8d-415d-b4b2-677b9c61746d",
+                        "shooterNum": -1,
+                        "shooterName": "Welin, Jan",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "54.15",
+                        "stageTimeSecs": "46.97",
+                        "stagePoints": "86.6390",
+                        "hitFactor": "3.2361",
+                        "points": 152,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 7,
+                        "shooter": "d3ad5fad-815b-410f-b83e-f88c31db71c8",
+                        "shooterNum": -1,
+                        "shooterName": "Degerth, Frank",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "42.59",
+                        "stageTimeSecs": "58.15",
+                        "stagePoints": "68.1401",
+                        "hitFactor": "2.5451",
+                        "points": 148,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 8,
+                        "shooter": "807089e9-8083-4d18-bf8c-f201d40f0e9d",
+                        "shooterNum": -1,
+                        "shooterName": "H\u00e4ggblom , Nils",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "stagePercent": "37.93",
+                        "stageTimeSecs": "40.15",
+                        "stagePoints": "60.6801",
+                        "hitFactor": "2.2665",
+                        "points": 141,
+                        "penalties": -50
+                    },
+                    {
+                        "place": 9,
+                        "shooter": "bcfb998a-86c5-424a-90a7-b0f993611c89",
+                        "shooterNum": -1,
+                        "shooterName": "Heinola, Linda",
+                        "division": "Production",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Lady"
+                        ],
+                        "stagePercent": "33.50",
+                        "stageTimeSecs": "50.45",
+                        "stagePoints": "53.5983",
+                        "hitFactor": "2.0020",
+                        "points": 121,
+                        "penalties": -20
+                    }
+                ]
+            },
+            {
+                "Production Optics": [
+                    {
+                        "place": 1,
+                        "shooter": "889f9599-a02a-474a-9826-7c0d85ac9ad1",
+                        "shooterNum": -1,
+                        "shooterName": "Bonn, Tobias",
+                        "division": "Production Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "27.38",
+                        "stagePoints": "160.0000",
+                        "hitFactor": "5.6976",
+                        "points": 156,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "2c0eeb07-e781-447f-873d-d36745819997",
+                        "shooterNum": -1,
+                        "shooterName": "Lindholm, John",
+                        "division": "Production Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "77.68",
+                        "stageTimeSecs": "35.70",
+                        "stagePoints": "124.2847",
+                        "hitFactor": "4.4258",
+                        "points": 158,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "51b92770-4cb5-4921-8fc5-a5f9ab54508d",
+                        "shooterNum": -1,
+                        "shooterName": "Back, Daniela",
+                        "division": "Production Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Lady"
+                        ],
+                        "stagePercent": "74.71",
+                        "stageTimeSecs": "35.71",
+                        "stagePoints": "119.5316",
+                        "hitFactor": "4.2565",
+                        "points": 152,
+                        "penalties": 0
+                    }
+                ]
+            }
+        ]
+    }
+]
