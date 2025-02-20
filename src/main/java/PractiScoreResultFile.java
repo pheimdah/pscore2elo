@@ -15,7 +15,7 @@ import main.java.model.Stage;
 import main.java.model.StageResult;
 
 public class PractiScoreResultFile {
-
+	
 	List<Stage> stages = new ArrayList<>();
 
 	@SuppressWarnings("unchecked")
@@ -53,6 +53,7 @@ public class PractiScoreResultFile {
 						// Fix shooter name
 						String shooterName = bar.get("shooterName");
 						shooterName = shooterName.replaceAll(" , ", ", ");
+						shooterName = shooterName.replaceAll("  ", " ");
 						shooterName = shooterName.replaceAll("Heimdal", "Heimdahl");
 
 						// Fix hit factor
@@ -79,7 +80,6 @@ public class PractiScoreResultFile {
 				}
 			}
 		}
-
 	}
 
 	public List<Stage> getStages() {

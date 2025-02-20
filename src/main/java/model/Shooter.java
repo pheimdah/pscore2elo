@@ -62,12 +62,4 @@ public class Shooter {
 		return transformedRating / (transformedRating + opponentTransformedRating);
 	}
 
-//	public void recordWin(int opponentEloRating) {
-//		double updatedRating = eloRating + 10 /* k-factor */ * (1 - this.expectedScore(opponentEloRating));
-//		this.eloRating = (int) Math.round(updatedRating);
-//	}
-//
-//	public void recordLoss(int opponentEloRating) {
-//
-//	}
 }

@@ -17,7 +17,6 @@ public class Main {
 		Shooters shooters = new Shooters();
 
 		try {
-
 			List<Stage> allStages = new ArrayList<>();
 
 			List<Stage> handgunStages = new ArrayList<>();
@@ -28,7 +27,31 @@ public class Main {
 			System.out.println("Loaded " + handgunStages.size() + " handgun stages");
 			allStages.addAll(handgunStages);
 
+			/*
+			 * Mini Rifle
+			 */
+			List<Stage> miniRifleStages = new ArrayList<>();
+			for (File rifleMatchResultFile : new File("src/main/resources/2024_results/mini_rifle/").listFiles()) {
+				PractiScoreResultFile resultFile = new PractiScoreResultFile(rifleMatchResultFile);
+				miniRifleStages.addAll(resultFile.getStages());
+			}
+			System.out.println("Loaded " + miniRifleStages.size() + " mini rifle stages");
+			allStages.addAll(miniRifleStages);
 
+			/*
+			 * PCC
+			 */
+			List<Stage> pccStages = new ArrayList<>();
+			for (File rifleMatchResultFile : new File("src/main/resources/2024_results/pcc/").listFiles()) {
+				PractiScoreResultFile resultFile = new PractiScoreResultFile(rifleMatchResultFile);
+				pccStages.addAll(resultFile.getStages());
+			}
+			System.out.println("Loaded " + pccStages.size() + " PCC stages");
+			allStages.addAll(pccStages);
+
+			/*
+			 * RIFLE
+			 */
 			List<Stage> rifleStages = new ArrayList<>();
 			for (File rifleMatchResultFile : new File("src/main/resources/2024_results/rifle/").listFiles()) {
 				PractiScoreResultFile resultFile = new PractiScoreResultFile(rifleMatchResultFile);
@@ -36,7 +59,6 @@ public class Main {
 			}
 			System.out.println("Loaded " + rifleStages.size() + " rifle stages");
 			allStages.addAll(rifleStages);
-
 
 			/*
 			 * Transform stages into multiple 1v1 matches
@@ -59,9 +81,6 @@ public class Main {
 						for (int j = i + 1; j < results.size(); j++) {
 							StageResult loser = results.get(j);
 
-							// System.out.println(winner.getShooterName() + " won against " +
-							// loser.getShooterName());
-
 							// Ensure that we know about each shooter
 							shooters.createShooter(division, winner.getShooterName());
 							shooters.createShooter(division, loser.getShooterName());
@@ -70,18 +89,39 @@ public class Main {
 
 							one_v_ones++;
 						}
-
 					}
-
 				}
 
 				// Re-calculate ELO after each stage
 				shooters.applyEloScoreAdjustment();
-				System.out.println("ELO updated. Current ad-hoc ranking: "
-						+ shooters.getRankedListOfShooters(IpscDivision.HANDGUN_CLASSIC));
+				// System.out.println("ELO updated. Current ad-hoc ranking: "
+				// + shooters.getRankedListOfShooters(IpscDivision.MINI_RIFLE_OPEN));
 			}
-			System.out.println("One-on-ones matches: " + one_v_ones);
 
+			System.out.println("");
+			System.out.println("IPSC HANDGUN");
+			System.out.println("- Classic: " + shooters.getRankedListOfShooters(IpscDivision.HANDGUN_CLASSIC));
+			System.out.println("- Open: " + shooters.getRankedListOfShooters(IpscDivision.HANDGUN_OPEN));
+			System.out.println("- Production: " + shooters.getRankedListOfShooters(IpscDivision.HANDGUN_PRODUCTION));
+			System.out.println(
+					"- Production Optics: " + shooters.getRankedListOfShooters(IpscDivision.HANDGUN_PRODUCTION_OPTICS));
+			System.out.println("- Standard: " + shooters.getRankedListOfShooters(IpscDivision.HANDGUN_STANDARD));
+			System.out.println("");
+			System.out.println("IPSC Mini Rifle");
+			System.out.println("- Open: " + shooters.getRankedListOfShooters(IpscDivision.MINI_RIFLE_OPEN));
+			System.out.println("- Standard: " + shooters.getRankedListOfShooters(IpscDivision.MINI_RIFLE_STANDARD));
+			System.out.println("");
+			System.out.println("IPSC PCC");
+			System.out.println("- Iron: " + shooters.getRankedListOfShooters(IpscDivision.PCC_IRON));
+			System.out.println("- Optics: " + shooters.getRankedListOfShooters(IpscDivision.PCC_OPTICS));
+			System.out.println("");
+			System.out.println("IPSC Rifle");
+			System.out.println("- MAB: " + shooters.getRankedListOfShooters(IpscDivision.RIFLE_MAB));
+			System.out.println("- MAC: " + shooters.getRankedListOfShooters(IpscDivision.RIFLE_MAC));
+			System.out.println("- SAO: " + shooters.getRankedListOfShooters(IpscDivision.RIFLE_SAO));
+			System.out.println("- SAS: " + shooters.getRankedListOfShooters(IpscDivision.RIFLE_SAS));
+			System.out.println("");
+			System.out.println("1-v-1 encounters: " + one_v_ones);
 
 		} catch (Exception e) {
 			// TODO Auto-generated catch block

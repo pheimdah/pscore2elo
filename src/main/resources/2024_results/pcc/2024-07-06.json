@@ -1,0 +1,741 @@
+[
+    {
+        "Match": [
+            {
+                "Overall": [
+                    {
+                        "possiblePoints": 395,
+                        "shooter": "e7bc3c06-96f5-4734-9b0f-6c0db0ea4491",
+                        "matchPercent": "100.00",
+                        "pscPlace": 1,
+                        "completeStages": 5,
+                        "percentOfPossible": "87.58",
+                        "matchPoints": "345.9246"
+                    },
+                    {
+                        "possiblePoints": 395,
+                        "shooter": "215fc095-5b93-4b4f-9dd9-0769006efe91",
+                        "matchPercent": "96.50",
+                        "pscPlace": 2,
+                        "completeStages": 5,
+                        "percentOfPossible": "84.51",
+                        "matchPoints": "333.8098"
+                    },
+                    {
+                        "possiblePoints": 395,
+                        "shooter": "5e41a957-74e0-4558-a956-bd38b39e631f",
+                        "matchPercent": "70.61",
+                        "pscPlace": 3,
+                        "completeStages": 5,
+                        "percentOfPossible": "61.83",
+                        "matchPoints": "244.2481"
+                    },
+                    {
+                        "possiblePoints": 395,
+                        "shooter": "d12b3877-7fb2-491d-a3a4-2cb25c0b1455",
+                        "matchPercent": "68.28",
+                        "pscPlace": 4,
+                        "completeStages": 5,
+                        "percentOfPossible": "59.80",
+                        "matchPoints": "236.2019"
+                    }
+                ]
+            },
+            {
+                "PCC Optics": [
+                    {
+                        "possiblePoints": 395,
+                        "shooter": "e7bc3c06-96f5-4734-9b0f-6c0db0ea4491",
+                        "matchPercent": "100.00",
+                        "pscPlace": 1,
+                        "completeStages": 5,
+                        "percentOfPossible": "87.58",
+                        "matchPoints": "345.9246"
+                    },
+                    {
+                        "possiblePoints": 395,
+                        "shooter": "215fc095-5b93-4b4f-9dd9-0769006efe91",
+                        "matchPercent": "96.50",
+                        "pscPlace": 2,
+                        "completeStages": 5,
+                        "percentOfPossible": "84.51",
+                        "matchPoints": "333.8098"
+                    },
+                    {
+                        "possiblePoints": 395,
+                        "shooter": "5e41a957-74e0-4558-a956-bd38b39e631f",
+                        "matchPercent": "70.61",
+                        "pscPlace": 3,
+                        "completeStages": 5,
+                        "percentOfPossible": "61.83",
+                        "matchPoints": "244.2481"
+                    },
+                    {
+                        "possiblePoints": 395,
+                        "shooter": "d12b3877-7fb2-491d-a3a4-2cb25c0b1455",
+                        "matchPercent": "68.28",
+                        "pscPlace": 4,
+                        "completeStages": 5,
+                        "percentOfPossible": "59.80",
+                        "matchPoints": "236.2019"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stageUUID": "c3e38538-1aeb-4772-9125-1e836c183192",
+        "Stage 1": [
+            {
+                "Overall": [
+                    {
+                        "place": 1,
+                        "shooter": "5e41a957-74e0-4558-a956-bd38b39e631f",
+                        "shooterNum": 0,
+                        "shooterName": "Andersson, Fredrik",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "11.71",
+                        "stagePoints": "40.0000",
+                        "hitFactor": "3.4159",
+                        "points": 40,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "e7bc3c06-96f5-4734-9b0f-6c0db0ea4491",
+                        "shooterNum": 0,
+                        "shooterName": "M\u00f6rn, Tomas",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "88.85",
+                        "stageTimeSecs": "13.18",
+                        "stagePoints": "35.5387",
+                        "hitFactor": "3.0349",
+                        "points": 40,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "215fc095-5b93-4b4f-9dd9-0769006efe91",
+                        "shooterNum": 0,
+                        "shooterName": "M\u00f6rn, Gustav",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "71.66",
+                        "stageTimeSecs": "16.34",
+                        "stagePoints": "28.6659",
+                        "hitFactor": "2.4480",
+                        "points": 40,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 4,
+                        "shooter": "d12b3877-7fb2-491d-a3a4-2cb25c0b1455",
+                        "shooterNum": 0,
+                        "shooterName": "Svensson, Anders",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "65.64",
+                        "stageTimeSecs": "17.84",
+                        "stagePoints": "26.2556",
+                        "hitFactor": "2.2422",
+                        "points": 40,
+                        "penalties": 0
+                    }
+                ]
+            },
+            {
+                "PCC Optics": [
+                    {
+                        "place": 1,
+                        "shooter": "5e41a957-74e0-4558-a956-bd38b39e631f",
+                        "shooterNum": 0,
+                        "shooterName": "Andersson, Fredrik",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "11.71",
+                        "stagePoints": "40.0000",
+                        "hitFactor": "3.4159",
+                        "points": 40,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "e7bc3c06-96f5-4734-9b0f-6c0db0ea4491",
+                        "shooterNum": 0,
+                        "shooterName": "M\u00f6rn, Tomas",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "88.85",
+                        "stageTimeSecs": "13.18",
+                        "stagePoints": "35.5387",
+                        "hitFactor": "3.0349",
+                        "points": 40,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "215fc095-5b93-4b4f-9dd9-0769006efe91",
+                        "shooterNum": 0,
+                        "shooterName": "M\u00f6rn, Gustav",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "71.66",
+                        "stageTimeSecs": "16.34",
+                        "stagePoints": "28.6659",
+                        "hitFactor": "2.4480",
+                        "points": 40,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 4,
+                        "shooter": "d12b3877-7fb2-491d-a3a4-2cb25c0b1455",
+                        "shooterNum": 0,
+                        "shooterName": "Svensson, Anders",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "65.64",
+                        "stageTimeSecs": "17.84",
+                        "stagePoints": "26.2556",
+                        "hitFactor": "2.2422",
+                        "points": 40,
+                        "penalties": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stageUUID": "1b809826-edb3-4d96-8e62-fde67f336606",
+        "Stage 2": [
+            {
+                "Overall": [
+                    {
+                        "place": 1,
+                        "shooter": "215fc095-5b93-4b4f-9dd9-0769006efe91",
+                        "shooterNum": 0,
+                        "shooterName": "M\u00f6rn, Gustav",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "27.36",
+                        "stagePoints": "150.0000",
+                        "hitFactor": "4.8977",
+                        "points": 134,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "e7bc3c06-96f5-4734-9b0f-6c0db0ea4491",
+                        "shooterNum": 0,
+                        "shooterName": "M\u00f6rn, Tomas",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "86.46",
+                        "stageTimeSecs": "33.06",
+                        "stagePoints": "129.6963",
+                        "hitFactor": "4.2347",
+                        "points": 140,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "5e41a957-74e0-4558-a956-bd38b39e631f",
+                        "shooterNum": 0,
+                        "shooterName": "Andersson, Fredrik",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "65.26",
+                        "stageTimeSecs": "42.55",
+                        "stagePoints": "97.8908",
+                        "hitFactor": "3.1962",
+                        "points": 136,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 4,
+                        "shooter": "d12b3877-7fb2-491d-a3a4-2cb25c0b1455",
+                        "shooterNum": 0,
+                        "shooterName": "Svensson, Anders",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "54.02",
+                        "stageTimeSecs": "51.40",
+                        "stagePoints": "81.0361",
+                        "hitFactor": "2.6459",
+                        "points": 136,
+                        "penalties": 0
+                    }
+                ]
+            },
+            {
+                "PCC Optics": [
+                    {
+                        "place": 1,
+                        "shooter": "215fc095-5b93-4b4f-9dd9-0769006efe91",
+                        "shooterNum": 0,
+                        "shooterName": "M\u00f6rn, Gustav",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "27.36",
+                        "stagePoints": "150.0000",
+                        "hitFactor": "4.8977",
+                        "points": 134,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "e7bc3c06-96f5-4734-9b0f-6c0db0ea4491",
+                        "shooterNum": 0,
+                        "shooterName": "M\u00f6rn, Tomas",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "86.46",
+                        "stageTimeSecs": "33.06",
+                        "stagePoints": "129.6963",
+                        "hitFactor": "4.2347",
+                        "points": 140,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "5e41a957-74e0-4558-a956-bd38b39e631f",
+                        "shooterNum": 0,
+                        "shooterName": "Andersson, Fredrik",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "65.26",
+                        "stageTimeSecs": "42.55",
+                        "stagePoints": "97.8908",
+                        "hitFactor": "3.1962",
+                        "points": 136,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 4,
+                        "shooter": "d12b3877-7fb2-491d-a3a4-2cb25c0b1455",
+                        "shooterNum": 0,
+                        "shooterName": "Svensson, Anders",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "54.02",
+                        "stageTimeSecs": "51.40",
+                        "stagePoints": "81.0361",
+                        "hitFactor": "2.6459",
+                        "points": 136,
+                        "penalties": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stageUUID": "b25f9978-723c-43d7-8b1b-9c1d8d54ddc4",
+        "Stage 3": [
+            {
+                "Overall": [
+                    {
+                        "place": 1,
+                        "shooter": "215fc095-5b93-4b4f-9dd9-0769006efe91",
+                        "shooterNum": 0,
+                        "shooterName": "M\u00f6rn, Gustav",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "15.99",
+                        "stagePoints": "65.0000",
+                        "hitFactor": "3.3146",
+                        "points": 63,
+                        "penalties": -10
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "e7bc3c06-96f5-4734-9b0f-6c0db0ea4491",
+                        "shooterNum": 0,
+                        "shooterName": "M\u00f6rn, Tomas",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "96.41",
+                        "stageTimeSecs": "15.96",
+                        "stagePoints": "62.6647",
+                        "hitFactor": "3.1955",
+                        "points": 51,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "5e41a957-74e0-4558-a956-bd38b39e631f",
+                        "shooterNum": 0,
+                        "shooterName": "Andersson, Fredrik",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "60.86",
+                        "stageTimeSecs": "23.30",
+                        "stagePoints": "39.5574",
+                        "hitFactor": "2.0172",
+                        "points": 57,
+                        "penalties": -10
+                    },
+                    {
+                        "place": 4,
+                        "shooter": "d12b3877-7fb2-491d-a3a4-2cb25c0b1455",
+                        "shooterNum": 0,
+                        "shooterName": "Svensson, Anders",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "47.71",
+                        "stageTimeSecs": "24.03",
+                        "stagePoints": "31.0110",
+                        "hitFactor": "1.5814",
+                        "points": 58,
+                        "penalties": -20
+                    }
+                ]
+            },
+            {
+                "PCC Optics": [
+                    {
+                        "place": 1,
+                        "shooter": "215fc095-5b93-4b4f-9dd9-0769006efe91",
+                        "shooterNum": 0,
+                        "shooterName": "M\u00f6rn, Gustav",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "15.99",
+                        "stagePoints": "65.0000",
+                        "hitFactor": "3.3146",
+                        "points": 63,
+                        "penalties": -10
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "e7bc3c06-96f5-4734-9b0f-6c0db0ea4491",
+                        "shooterNum": 0,
+                        "shooterName": "M\u00f6rn, Tomas",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "96.41",
+                        "stageTimeSecs": "15.96",
+                        "stagePoints": "62.6647",
+                        "hitFactor": "3.1955",
+                        "points": 51,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "5e41a957-74e0-4558-a956-bd38b39e631f",
+                        "shooterNum": 0,
+                        "shooterName": "Andersson, Fredrik",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "60.86",
+                        "stageTimeSecs": "23.30",
+                        "stagePoints": "39.5574",
+                        "hitFactor": "2.0172",
+                        "points": 57,
+                        "penalties": -10
+                    },
+                    {
+                        "place": 4,
+                        "shooter": "d12b3877-7fb2-491d-a3a4-2cb25c0b1455",
+                        "shooterNum": 0,
+                        "shooterName": "Svensson, Anders",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "47.71",
+                        "stageTimeSecs": "24.03",
+                        "stagePoints": "31.0110",
+                        "hitFactor": "1.5814",
+                        "points": 58,
+                        "penalties": -20
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stageUUID": "025b0cf6-8667-4c30-bd05-be38e87751c0",
+        "Stage 4": [
+            {
+                "Overall": [
+                    {
+                        "place": 1,
+                        "shooter": "215fc095-5b93-4b4f-9dd9-0769006efe91",
+                        "shooterNum": 0,
+                        "shooterName": "M\u00f6rn, Gustav",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "14.95",
+                        "stagePoints": "75.0000",
+                        "hitFactor": "5.0167",
+                        "points": 75,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "e7bc3c06-96f5-4734-9b0f-6c0db0ea4491",
+                        "shooterNum": 0,
+                        "shooterName": "M\u00f6rn, Tomas",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "99.96",
+                        "stageTimeSecs": "13.76",
+                        "stagePoints": "74.9673",
+                        "hitFactor": "5.0145",
+                        "points": 69,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "5e41a957-74e0-4558-a956-bd38b39e631f",
+                        "shooterNum": 0,
+                        "shooterName": "Andersson, Fredrik",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "89.07",
+                        "stageTimeSecs": "15.89",
+                        "stagePoints": "66.7999",
+                        "hitFactor": "4.4682",
+                        "points": 71,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 4,
+                        "shooter": "d12b3877-7fb2-491d-a3a4-2cb25c0b1455",
+                        "shooterNum": 0,
+                        "shooterName": "Svensson, Anders",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "43.87",
+                        "stageTimeSecs": "19.54",
+                        "stagePoints": "32.8992",
+                        "hitFactor": "2.2006",
+                        "points": 63,
+                        "penalties": -20
+                    }
+                ]
+            },
+            {
+                "PCC Optics": [
+                    {
+                        "place": 1,
+                        "shooter": "215fc095-5b93-4b4f-9dd9-0769006efe91",
+                        "shooterNum": 0,
+                        "shooterName": "M\u00f6rn, Gustav",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "14.95",
+                        "stagePoints": "75.0000",
+                        "hitFactor": "5.0167",
+                        "points": 75,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "e7bc3c06-96f5-4734-9b0f-6c0db0ea4491",
+                        "shooterNum": 0,
+                        "shooterName": "M\u00f6rn, Tomas",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "99.96",
+                        "stageTimeSecs": "13.76",
+                        "stagePoints": "74.9673",
+                        "hitFactor": "5.0145",
+                        "points": 69,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "5e41a957-74e0-4558-a956-bd38b39e631f",
+                        "shooterNum": 0,
+                        "shooterName": "Andersson, Fredrik",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "89.07",
+                        "stageTimeSecs": "15.89",
+                        "stagePoints": "66.7999",
+                        "hitFactor": "4.4682",
+                        "points": 71,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 4,
+                        "shooter": "d12b3877-7fb2-491d-a3a4-2cb25c0b1455",
+                        "shooterNum": 0,
+                        "shooterName": "Svensson, Anders",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "43.87",
+                        "stageTimeSecs": "19.54",
+                        "stagePoints": "32.8992",
+                        "hitFactor": "2.2006",
+                        "points": 63,
+                        "penalties": -20
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stageUUID": "29fd8602-b202-4a86-a164-a28eeb518027",
+        "Stage 5": [
+            {
+                "Overall": [
+                    {
+                        "place": 1,
+                        "shooter": "d12b3877-7fb2-491d-a3a4-2cb25c0b1455",
+                        "shooterNum": 0,
+                        "shooterName": "Svensson, Anders",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "24.02",
+                        "stagePoints": "65.0000",
+                        "hitFactor": "1.9151",
+                        "points": 56,
+                        "penalties": -10
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "e7bc3c06-96f5-4734-9b0f-6c0db0ea4491",
+                        "shooterNum": 0,
+                        "shooterName": "M\u00f6rn, Tomas",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "66.24",
+                        "stageTimeSecs": "22.86",
+                        "stagePoints": "43.0576",
+                        "hitFactor": "1.2686",
+                        "points": 49,
+                        "penalties": -20
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "215fc095-5b93-4b4f-9dd9-0769006efe91",
+                        "shooterNum": 0,
+                        "shooterName": "M\u00f6rn, Gustav",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "23.30",
+                        "stageTimeSecs": "17.93",
+                        "stagePoints": "15.1439",
+                        "hitFactor": "0.4462",
+                        "points": 38,
+                        "penalties": -30
+                    },
+                    {
+                        "place": 4,
+                        "shooter": "5e41a957-74e0-4558-a956-bd38b39e631f",
+                        "shooterNum": 0,
+                        "shooterName": "Andersson, Fredrik",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "0.00",
+                        "stageTimeSecs": "22.28",
+                        "stagePoints": "0.0000",
+                        "hitFactor": "0.0000",
+                        "points": 38,
+                        "penalties": -40
+                    }
+                ]
+            },
+            {
+                "PCC Optics": [
+                    {
+                        "place": 1,
+                        "shooter": "d12b3877-7fb2-491d-a3a4-2cb25c0b1455",
+                        "shooterNum": 0,
+                        "shooterName": "Svensson, Anders",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "24.02",
+                        "stagePoints": "65.0000",
+                        "hitFactor": "1.9151",
+                        "points": 56,
+                        "penalties": -10
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "e7bc3c06-96f5-4734-9b0f-6c0db0ea4491",
+                        "shooterNum": 0,
+                        "shooterName": "M\u00f6rn, Tomas",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "66.24",
+                        "stageTimeSecs": "22.86",
+                        "stagePoints": "43.0576",
+                        "hitFactor": "1.2686",
+                        "points": 49,
+                        "penalties": -20
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "215fc095-5b93-4b4f-9dd9-0769006efe91",
+                        "shooterNum": 0,
+                        "shooterName": "M\u00f6rn, Gustav",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "23.30",
+                        "stageTimeSecs": "17.93",
+                        "stagePoints": "15.1439",
+                        "hitFactor": "0.4462",
+                        "points": 38,
+                        "penalties": -30
+                    },
+                    {
+                        "place": 4,
+                        "shooter": "5e41a957-74e0-4558-a956-bd38b39e631f",
+                        "shooterNum": 0,
+                        "shooterName": "Andersson, Fredrik",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "0.00",
+                        "stageTimeSecs": "22.28",
+                        "stagePoints": "0.0000",
+                        "hitFactor": "0.0000",
+                        "points": 38,
+                        "penalties": -40
+                    }
+                ]
+            }
+        ]
+    }
+]
