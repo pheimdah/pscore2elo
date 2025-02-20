@@ -109,7 +109,7 @@ public class Main {
 			}
 
 			System.out.println("");
-			System.out.println("IPSC HANDGUN");
+			System.out.println("IPSC Handgun");
 			System.out.println("- Classic: " + shooters.getRankedListOfShooters(IpscDivision.HANDGUN_CLASSIC));
 			System.out.println("- Open: " + shooters.getRankedListOfShooters(IpscDivision.HANDGUN_OPEN));
 			System.out.println("- Production: " + shooters.getRankedListOfShooters(IpscDivision.HANDGUN_PRODUCTION));

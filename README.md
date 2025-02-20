@@ -33,7 +33,7 @@ Loaded 23 mini rifle stages
 Loaded 14 PCC stages
 Loaded 18 rifle stages
 
-IPSC HANDGUN
+IPSC Handgun
 - Classic: [Andersson Fredrik (947), Svensson Anders (1054)]
 - Open: []
 - Production: [Heinola Linda (727), Stjernlöf Tony (821), Degerth Frank (863), Welin Jan (914), Häggblom Nils (935), Jansson Philip (950), Norkvist Alexander (981), Häger Andreas (1022), Fyrqvist Jonas (1032), Heimdahl Patrik (1081), Welin Simon (1094), Nordqvist Tommy (1129), Pettersson Emil (1214), Lindén Jonas (1273)]
@@ -61,5 +61,4 @@ IPSC Shotgun
 - Standard Manual: []
 
 1-v-1 encounters: 2680
-
 ```
