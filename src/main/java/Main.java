@@ -77,6 +77,16 @@ public class Main {
 					for (int i = 0; i < results.size(); i++) {
 						StageResult winner = results.get(i);
 
+						/*
+						 * DQs affect the rating enormously. DQ status is not in the data so we can't
+						 * exclude it even if we wanted to.
+						 */
+
+						if (winner.getHitFactor() == 0) {
+							// Combined last place, no winners there
+							continue;
+						}
+
 						// Losers
 						for (int j = i + 1; j < results.size(); j++) {
 							StageResult loser = results.get(j);

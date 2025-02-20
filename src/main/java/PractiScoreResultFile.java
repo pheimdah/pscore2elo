@@ -51,11 +51,11 @@ public class PractiScoreResultFile {
 					for (LinkedTreeMap<String, String> bar : res) {
 
 						// Fix shooter name
-						String shooterName = bar.get("shooterName");
-						shooterName = shooterName.replaceAll(" , ", ", ");
-						shooterName = shooterName.replaceAll("  ", " ");
+						String shooterName = bar.get("shooterName").trim();
+						shooterName = shooterName.replaceAll(",", ""); // Remove ,
+						shooterName = shooterName.replaceAll(" +", " "); // Remove extra spaces
 						shooterName = shooterName.replaceAll("Heimdal", "Heimdahl");
-
+						
 						// Fix hit factor
 						String sHitFactor = bar.get("hitFactor");
 						sHitFactor = sHitFactor.replaceAll(",", "."); // Some files have ',' decimal separators

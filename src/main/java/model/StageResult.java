@@ -19,7 +19,7 @@ public class StageResult implements Comparable<StageResult> {
 		return shooterName;
 	}
 
-	public float getHitFactor() {
+	public double getHitFactor() {
 		return hitFactor;
 	}
 

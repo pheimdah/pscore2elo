@@ -5,7 +5,7 @@ import java.util.Objects;
 public class Shooter {
 
 	private String name;
-	private int eloRating = 2000;
+	private int eloRating = 1000;
 	private IpscDivision ipscDivision;
 	private int pendingEloScoreAdjustment = 0;
 
@@ -49,17 +49,11 @@ public class Shooter {
 		return Objects.hash(name);
 	}
 
-	public double getTransformedRating() {
-		return Math.pow(10, (this.eloRating / 400));
-	}
-
-//
 	public double getExpectedScore(int opponentRating) {
 
-		double transformedRating = Math.pow(10, (this.eloRating / 400));
-		double opponentTransformedRating = Math.pow(10, (opponentRating / 400));
+		double Ea = (double) 1 / (1 + Math.pow(10.0, ((double) (opponentRating - eloRating) / 400)));
 
-		return transformedRating / (transformedRating + opponentTransformedRating);
+		return Ea;
 	}
 
 }
