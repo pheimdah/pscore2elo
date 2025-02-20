@@ -1,8 +1,10 @@
-# pscore2elo
+# ÅSSF IPSC ELO ratings
 
 Match results are grabbed from the web and stored in JSON files.
 
 Each match is divided into divisions and stages. Each stage is divided into separate encounters. Each encounter has a winner and a loser.
+
+Shooters start the season with 1000 ELO rank.
 
 ## Example
 
