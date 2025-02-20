@@ -49,10 +49,17 @@ IPSC PCC
 - Optics: [Gustafsson Benny (857), Svensson Anders (897), Heimdahl Patrik (897), Heinola Linda (924), Norkvist Alexander (938), Andersson Fredrik (944), Öberg Niclas (1040), Welin Simon (1042), Lindén Jonas (1075), Mörn Tomas (1118), Mörn Gustav (1289)]
 
 IPSC Rifle
-- MAB: []
-- MAC: []
-- SAO: [Andersson Fredrik (552), Heinola Linda (571), Granlund Brage (716), Sundblom Peter (749), Jansson Philip (842), Grönqvist Jonathan (866), Granlund Nick (903), Fyrqvist Jonas (918), Svensson Anders (983), Grönkvist Jonathan (984), Häggblom Nils (987), Norqvist Alexander (1015), Back Jonas (1018), Back Daniela (1022), Linden Jonas (1048), Welin Jan (1080), Mörn Gustav (1091), Heimdahl Patrik (1122), Stenroos Samuel (1190), Häger Andreas (1231), Öberg Nicklas (1285), Mörn Tomas (1450), Welin Simon (1472)]
-- SAS: [Heinola Linda (976), Gustafson Dan (977), Heimdahl Patrik (1003), Cederberg Sebastian (1048)]
+- Manual Action Bolt: []
+- Manual Action Contemporary: []
+- Semi-Auto Open: [Andersson Fredrik (552), Heinola Linda (571), Granlund Brage (716), Sundblom Peter (749), Jansson Philip (842), Grönqvist Jonathan (866), Granlund Nick (903), Fyrqvist Jonas (918), Svensson Anders (983), Grönkvist Jonathan (984), Häggblom Nils (987), Norqvist Alexander (1015), Back Jonas (1018), Back Daniela (1022), Linden Jonas (1048), Welin Jan (1080), Mörn Gustav (1091), Heimdahl Patrik (1122), Stenroos Samuel (1190), Häger Andreas (1231), Öberg Nicklas (1285), Mörn Tomas (1450), Welin Simon (1472)]
+- Semi-Auto Standard: [Heinola Linda (976), Gustafson Dan (977), Heimdahl Patrik (1003), Cederberg Sebastian (1048)]
+
+IPSC Shotgun
+- Modified: []
+- Open: []
+- Standard: []
+- Standard Manual: []
 
 1-v-1 encounters: 2680
+
 ```

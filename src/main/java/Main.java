@@ -126,10 +126,18 @@ public class Main {
 			System.out.println("- Optics: " + shooters.getRankedListOfShooters(IpscDivision.PCC_OPTICS));
 			System.out.println("");
 			System.out.println("IPSC Rifle");
-			System.out.println("- MAB: " + shooters.getRankedListOfShooters(IpscDivision.RIFLE_MAB));
-			System.out.println("- MAC: " + shooters.getRankedListOfShooters(IpscDivision.RIFLE_MAC));
-			System.out.println("- SAO: " + shooters.getRankedListOfShooters(IpscDivision.RIFLE_SAO));
-			System.out.println("- SAS: " + shooters.getRankedListOfShooters(IpscDivision.RIFLE_SAS));
+			System.out.println("- Manual Action Bolt: " + shooters.getRankedListOfShooters(IpscDivision.RIFLE_MAB));
+			System.out.println(
+					"- Manual Action Contemporary: " + shooters.getRankedListOfShooters(IpscDivision.RIFLE_MAC));
+			System.out.println("- Semi-Auto Open: " + shooters.getRankedListOfShooters(IpscDivision.RIFLE_SAO));
+			System.out.println("- Semi-Auto Standard: " + shooters.getRankedListOfShooters(IpscDivision.RIFLE_SAS));
+			System.out.println("");
+			System.out.println("IPSC Shotgun");
+			System.out.println("- Modified: " + shooters.getRankedListOfShooters(IpscDivision.SHOTGUN_MODIFIED));
+			System.out.println("- Open: " + shooters.getRankedListOfShooters(IpscDivision.SHOTGUN_OPEN));
+			System.out.println("- Standard: " + shooters.getRankedListOfShooters(IpscDivision.SHOTGUN_STANDARD));
+			System.out.println(
+					"- Standard Manual: " + shooters.getRankedListOfShooters(IpscDivision.SHOTGUN_STANDARD_MANUAL));
 			System.out.println("");
 			System.out.println("1-v-1 encounters: " + one_v_ones);
 
