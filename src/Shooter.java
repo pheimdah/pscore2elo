@@ -1,5 +1,3 @@
-package main.java;
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
@@ -23,7 +21,7 @@ public class Shooter {
 		char firstNameInitial = firstName.charAt(0);
 
 		shooterNameComponents.removeFirst();
-		shooterNameComponents.addFirst(String.valueOf(firstNameInitial)+".");
+		shooterNameComponents.addFirst(String.valueOf(firstNameInitial) + ".");
 
 		this.displayName = String.join(" ", shooterNameComponents);
 

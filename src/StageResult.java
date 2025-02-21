@@ -1,5 +1,3 @@
-package main.java;
-
 public class StageResult implements Comparable<StageResult> {
 
 	final String shooterName;
