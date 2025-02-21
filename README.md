@@ -4,7 +4,7 @@ Match results are grabbed from the web and stored in JSON files.
 
 Each match is divided into divisions and stages. Each stage is divided into separate encounters. Each encounter has a winner and a loser. Hit factor is disregarded except for determining a winner and a loser.
 
-Shooters start with an ELO rank of 1000. A shooter's K-factor is 40 for 30 stages, then 20 until an ELO rating of 2400 is achieved, after which K is lowered to 10.
+Shooters start with an ELO rank of 1000. A shooter's K-factor is 40 for 30 encounters, then 20 until an ELO rating of 2400 is achieved, after which K is lowered to 10.
 
 <details>
 <summary>Example</summary>
