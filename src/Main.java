@@ -32,7 +32,7 @@ public class Main {
 			}
 
 			/*
-			 * Transform stages into multiple 1v1 matches
+			 * Transform stages into multiple 1v1 encounters
 			 */
 			int one_v_ones = 0;
 			int one_v_ones_ignored = 0;

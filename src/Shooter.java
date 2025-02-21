@@ -7,7 +7,7 @@ public class Shooter {
 	private String displayName;
 	private int eloRating = 1000;
 	private int pendingEloScoreAdjustment = 0;
-	private int nrStagesShot = 0;
+	private int nrEncounters= 0;
 
 	public Shooter(String displayName) {
 
@@ -29,26 +29,45 @@ public class Shooter {
 	}
 
 	public int getKFactor() {
-		return 24;
+
+		/*
+		 * https://en.wikipedia.org/wiki/Elo_rating_system
+		 * 
+		 * See "Combating deflation"
+		 */
+
+		int K = 20;
+
+		if (nrEncounters <= 30) {
+			K = 40;
+		} else if (eloRating > 2400) {
+			K = 10;
+		}
+
+		return K;
 	}
 
 	public void addPendingEloScoreAdjustment(int a) {
-		this.pendingEloScoreAdjustment += a;
-		this.nrStagesShot += 1;
+		pendingEloScoreAdjustment += a;
+		nrEncounters += 1;
 	}
 
 	public void applyPendingEloScoreAdjustment() {
-		this.eloRating += this.pendingEloScoreAdjustment;
-		this.pendingEloScoreAdjustment = 0;
+		eloRating += pendingEloScoreAdjustment;
+		pendingEloScoreAdjustment = 0;
+
+		if (eloRating < 100) {
+			eloRating = 100;
+		}
 	}
 
 	public int getEloRating() {
-		return this.eloRating;
+		return eloRating;
 	}
 
 	@Override
 	public String toString() {
-		return String.format("**%s** (ELO rating of %d after %d stages)", displayName, eloRating, nrStagesShot);
+		return String.format("**%s** (ELO rating of %d after %d encounters)", displayName, eloRating, nrEncounters);
 	}
 
 	public double getExpectedScore(int opponentRating) {
