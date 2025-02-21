@@ -7,6 +7,7 @@ public class Shooter {
 	private String displayName;
 	private int eloRating = 1000;
 	private int pendingEloScoreAdjustment = 0;
+	private int nrStagesShot = 0;
 
 	public Shooter(String displayName) {
 
@@ -29,6 +30,7 @@ public class Shooter {
 
 	public void addPendingEloScoreAdjustment(int a) {
 		this.pendingEloScoreAdjustment += a;
+		this.nrStagesShot += 1;
 	}
 
 	public void applyPendingEloScoreAdjustment() {
@@ -42,7 +44,7 @@ public class Shooter {
 
 	@Override
 	public String toString() {
-		return String.format("%s (%d)", displayName, eloRating);
+		return String.format("%s (ELO rating of %d based on %d stages)", displayName, eloRating, nrStagesShot);
 	}
 
 	public double getExpectedScore(int opponentRating) {
