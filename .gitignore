@@ -3,6 +3,9 @@
 bin/
 .classpath
 .project
+lib/*-javadoc.jar
+lib/*-sources.jar
+
 
 # Compiled class file
 *.class
