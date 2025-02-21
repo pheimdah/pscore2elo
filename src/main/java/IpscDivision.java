@@ -12,8 +12,8 @@ public enum IpscDivision {
 
 	PCC_IRON("PCC Iron"), PCC_OPTICS("PCC Optics"),
 
-	RIFLE_MAB("Manual Action Bolt"), RIFLE_MAC("Manual Action Contemporary"), RIFLE_SAO("Semi Auto Open"),
-	RIFLE_SAS("Semi Auto Standard"),
+	RIFLE_MAB("Rifle Manual Action Bolt"), RIFLE_MAC("Rifle Manual Action Contemporary"),
+	RIFLE_SAO("Rifle Semi Auto Open"), RIFLE_SAS("Rifle Semi Auto Standard"),
 
 	SHOTGUN_MODIFIED("Shotgun Modified"), SHOTGUN_OPEN("Shotgun Open"), SHOTGUN_STANDARD("Shotgun Standard"),
 	SHOTGUN_STANDARD_MANUAL("Shotgun Standard Manual");

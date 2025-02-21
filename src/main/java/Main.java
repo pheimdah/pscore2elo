@@ -11,54 +11,33 @@ public class Main {
 
 		Shooters shooters = new Shooters();
 
+		String resultsDirectoryName = "2025_results";
+
 		try {
+
 			List<Stage> allStages = new ArrayList<>();
 
-			List<Stage> handgunStages = new ArrayList<>();
-			for (File handgunMatchResultFile : new File("src/main/resources/2024_results/handgun/").listFiles()) {
-				PractiScoreResultFile resultFile = new PractiScoreResultFile(handgunMatchResultFile);
-				handgunStages.addAll(resultFile.getStages());
-			}
-			System.out.println("Loaded " + handgunStages.size() + " handgun stages");
-			allStages.addAll(handgunStages);
+			for (String discipline : List.of("handgun", "mini_rifle", "pcc", "rifle", "shotgun")) {
 
-			/*
-			 * Mini Rifle
-			 */
-			List<Stage> miniRifleStages = new ArrayList<>();
-			for (File rifleMatchResultFile : new File("src/main/resources/2024_results/mini_rifle/").listFiles()) {
-				PractiScoreResultFile resultFile = new PractiScoreResultFile(rifleMatchResultFile);
-				miniRifleStages.addAll(resultFile.getStages());
-			}
-			System.out.println("Loaded " + miniRifleStages.size() + " mini rifle stages");
-			allStages.addAll(miniRifleStages);
+				List<Stage> disciplineStages = new ArrayList<>();
 
-			/*
-			 * PCC
-			 */
-			List<Stage> pccStages = new ArrayList<>();
-			for (File rifleMatchResultFile : new File("src/main/resources/2024_results/pcc/").listFiles()) {
-				PractiScoreResultFile resultFile = new PractiScoreResultFile(rifleMatchResultFile);
-				pccStages.addAll(resultFile.getStages());
-			}
-			System.out.println("Loaded " + pccStages.size() + " PCC stages");
-			allStages.addAll(pccStages);
+				File resultsDirectory = new File(
+						String.format("src/main/resources/%s/%s", resultsDirectoryName, discipline));
 
-			/*
-			 * RIFLE
-			 */
-			List<Stage> rifleStages = new ArrayList<>();
-			for (File rifleMatchResultFile : new File("src/main/resources/2024_results/rifle/").listFiles()) {
-				PractiScoreResultFile resultFile = new PractiScoreResultFile(rifleMatchResultFile);
-				rifleStages.addAll(resultFile.getStages());
+				for (File matchResultFile : resultsDirectory.listFiles()) {
+					PractiScoreResultFile resultFile = new PractiScoreResultFile(matchResultFile);
+					disciplineStages.addAll(resultFile.getStages());
+				}
+
+				System.out.println(String.format("Loaded %d %s stages", disciplineStages.size(), discipline));
+				allStages.addAll(disciplineStages);
 			}
-			System.out.println("Loaded " + rifleStages.size() + " rifle stages");
-			allStages.addAll(rifleStages);
 
 			/*
 			 * Transform stages into multiple 1v1 matches
 			 */
 			int one_v_ones = 0;
+			int one_v_ones_ignored = 0;
 			for (Stage stage : allStages) {
 				for (IpscDivision division : stage.getDivisions()) {
 
@@ -79,6 +58,7 @@ public class Main {
 
 						if (winner.getHitFactor() == 0) {
 							// Combined last place, no winners there
+							one_v_ones_ignored++;
 							continue;
 						}
 
@@ -104,37 +84,55 @@ public class Main {
 			}
 
 			System.out.println("");
-			System.out.println("IPSC Handgun");
-			System.out.println("- Classic: " + shooters.getRankedListOfShooters(IpscDivision.HANDGUN_CLASSIC));
-			System.out.println("- Open: " + shooters.getRankedListOfShooters(IpscDivision.HANDGUN_OPEN));
-			System.out.println("- Production: " + shooters.getRankedListOfShooters(IpscDivision.HANDGUN_PRODUCTION));
-			System.out.println(
-					"- Production Optics: " + shooters.getRankedListOfShooters(IpscDivision.HANDGUN_PRODUCTION_OPTICS));
-			System.out.println("- Standard: " + shooters.getRankedListOfShooters(IpscDivision.HANDGUN_STANDARD));
+			for (IpscDivision division : IpscDivision.values()) {
+
+				System.out.print(String.format("%-28s", division.getResultFileDivisionName()));
+				System.out.println(shooters.getRankedListOfShooters(division));
+			}
+			/*
+			 * System.out.println(""); System.out.println("IPSC Handgun");
+			 * System.out.println("- Classic: " +
+			 * shooters.getRankedListOfShooters(IpscDivision.HANDGUN_CLASSIC));
+			 * System.out.println("- Open: " +
+			 * shooters.getRankedListOfShooters(IpscDivision.HANDGUN_OPEN));
+			 * System.out.println("- Production: " +
+			 * shooters.getRankedListOfShooters(IpscDivision.HANDGUN_PRODUCTION));
+			 * System.out.println( "- Production Optics: " +
+			 * shooters.getRankedListOfShooters(IpscDivision.HANDGUN_PRODUCTION_OPTICS));
+			 * System.out.println("- Standard: " +
+			 * shooters.getRankedListOfShooters(IpscDivision.HANDGUN_STANDARD));
+			 * System.out.println(""); System.out.println("IPSC Mini Rifle");
+			 * System.out.println("- Open: " +
+			 * shooters.getRankedListOfShooters(IpscDivision.MINI_RIFLE_OPEN));
+			 * System.out.println("- Standard: " +
+			 * shooters.getRankedListOfShooters(IpscDivision.MINI_RIFLE_STANDARD));
+			 * System.out.println(""); System.out.println("IPSC PCC");
+			 * System.out.println("- Iron: " +
+			 * shooters.getRankedListOfShooters(IpscDivision.PCC_IRON));
+			 * System.out.println("- Optics: " +
+			 * shooters.getRankedListOfShooters(IpscDivision.PCC_OPTICS));
+			 * System.out.println(""); System.out.println("IPSC Rifle");
+			 * System.out.println("- Manual Action Bolt: " +
+			 * shooters.getRankedListOfShooters(IpscDivision.RIFLE_MAB));
+			 * System.out.println( "- Manual Action Contemporary: " +
+			 * shooters.getRankedListOfShooters(IpscDivision.RIFLE_MAC));
+			 * System.out.println("- Semi-Auto Open: " +
+			 * shooters.getRankedListOfShooters(IpscDivision.RIFLE_SAO));
+			 * System.out.println("- Semi-Auto Standard: " +
+			 * shooters.getRankedListOfShooters(IpscDivision.RIFLE_SAS));
+			 * System.out.println(""); System.out.println("IPSC Shotgun");
+			 * System.out.println("- Modified: " +
+			 * shooters.getRankedListOfShooters(IpscDivision.SHOTGUN_MODIFIED));
+			 * System.out.println("- Open: " +
+			 * shooters.getRankedListOfShooters(IpscDivision.SHOTGUN_OPEN));
+			 * System.out.println("- Standard: " +
+			 * shooters.getRankedListOfShooters(IpscDivision.SHOTGUN_STANDARD));
+			 * System.out.println( "- Standard Manual: " +
+			 * shooters.getRankedListOfShooters(IpscDivision.SHOTGUN_STANDARD_MANUAL));
+			 */
 			System.out.println("");
-			System.out.println("IPSC Mini Rifle");
-			System.out.println("- Open: " + shooters.getRankedListOfShooters(IpscDivision.MINI_RIFLE_OPEN));
-			System.out.println("- Standard: " + shooters.getRankedListOfShooters(IpscDivision.MINI_RIFLE_STANDARD));
-			System.out.println("");
-			System.out.println("IPSC PCC");
-			System.out.println("- Iron: " + shooters.getRankedListOfShooters(IpscDivision.PCC_IRON));
-			System.out.println("- Optics: " + shooters.getRankedListOfShooters(IpscDivision.PCC_OPTICS));
-			System.out.println("");
-			System.out.println("IPSC Rifle");
-			System.out.println("- Manual Action Bolt: " + shooters.getRankedListOfShooters(IpscDivision.RIFLE_MAB));
-			System.out.println(
-					"- Manual Action Contemporary: " + shooters.getRankedListOfShooters(IpscDivision.RIFLE_MAC));
-			System.out.println("- Semi-Auto Open: " + shooters.getRankedListOfShooters(IpscDivision.RIFLE_SAO));
-			System.out.println("- Semi-Auto Standard: " + shooters.getRankedListOfShooters(IpscDivision.RIFLE_SAS));
-			System.out.println("");
-			System.out.println("IPSC Shotgun");
-			System.out.println("- Modified: " + shooters.getRankedListOfShooters(IpscDivision.SHOTGUN_MODIFIED));
-			System.out.println("- Open: " + shooters.getRankedListOfShooters(IpscDivision.SHOTGUN_OPEN));
-			System.out.println("- Standard: " + shooters.getRankedListOfShooters(IpscDivision.SHOTGUN_STANDARD));
-			System.out.println(
-					"- Standard Manual: " + shooters.getRankedListOfShooters(IpscDivision.SHOTGUN_STANDARD_MANUAL));
-			System.out.println("");
-			System.out.println("1-v-1 encounters: " + one_v_ones);
+			System.out.println("1v1 encounters: " + one_v_ones);
+			System.out.println("1v1 ignored encounters (shared last place at HF 0): " + one_v_ones_ignored);
 
 		} catch (Exception e) {
 			// TODO Auto-generated catch block

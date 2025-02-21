@@ -31,36 +31,60 @@ This also means that a DQ has an enormous effect. Given a match with 10 shooters
 ## 2024 season result
 ```
 Loaded 19 handgun stages
-Loaded 23 mini rifle stages
-Loaded 14 PCC stages
+Loaded 23 mini_rifle stages
+Loaded 14 pcc stages
 Loaded 18 rifle stages
+Loaded 0 shotgun stages
 
-IPSC Handgun
-- Classic: [Andersson Fredrik (947), Svensson Anders (1054)]
-- Open: []
-- Production: [Heinola Linda (727), Stjernlöf Tony (821), Degerth Frank (863), Welin Jan (914), Häggblom Nils (935), Jansson Philip (950), Norkvist Alexander (981), Häger Andreas (1022), Fyrqvist Jonas (1032), Heimdahl Patrik (1081), Welin Simon (1094), Nordqvist Tommy (1129), Pettersson Emil (1214), Lindén Jonas (1273)]
-- Production Optics: [Back Daniela (854), Öberg Nicklas (919), Back Jonas (962), Welin Simon (999), Fyrqvist Jonas (1030), Pettersson Emil (1040), Lindholm John (1051), Bonn Tobias (1155)]
-- Standard: [Heinola Linda (782), Granlund Brage (818), Sundblom Peter (819), Mörn Gustav (945), Nordqvist Tommy (953), Welin Jan (970), Eklund Dimi (1002), Berlin Tomas (1008), Pettersson Linus (1014), Norqvist Alexander (1065), Stenroos Samuel (1156), Heimdahl Patrik (1216), Mörn Tomas (1295)]
+Handgun Classic             [Fredrik A (947), Anders S (1054)]
+Handgun Open                []
+Handgun Production          [Linda H (735), Tony S (821), Frank D (869), Nils H (902), Jan W (921), Philip J (955), Nils H (980), Alexander N (987), Andreas H (1022), Jonas F (1032), Patrik H (1092), Simon W (1098), Tommy N (1129), Emil P (1221), Jonas L (1278)]
+Handgun Production Optics   [Daniela B (854), Nicklas Ö (949), Jonas B (962), Nicklas Ö (965), Simon W (999), Jonas F (1036), Emil P (1040), John L (1051), Tobias B (1155)]
+Handgun Standard            [Linda H (782), Brage G (818), Peter S (819), Gustav M (945), Tommy N (953), Jan W (970), Dimi E (1002), Tomas B (1008), Linus P (1014), Alexander N (1065), Samuel S (1156), Patrik H (1216), Tomas M (1295)]
+Mini Rifle Open             [Dan G (750), Brage G (758), Alexander N (789), Linda H (805), Tobias D (981), Daniela B (1004), Peter S (1013), Fredrik A (1014), Patrik H (1018), Anders S (1025), Nick G (1092), Jan W (1102), Tomas M (1103), Simon W (1218), Jonas L (1346)]
+Mini Rifle Standard         []
+PCC Iron                    []
+PCC Optics                  [Benny G (857), Patrik H (897), Anders S (897), Linda H (924), Alexander N (938), Fredrik A (944), Niclas Ö (1040), Simon W (1042), Jonas L (1075), Tomas M (1118), Gustav M (1289)]
+Rifle Manual Action Bolt    []
+Rifle Manual Action Contemporary[]
+Rifle Semi Auto Open        [Fredrik A (558), Linda H (576), Brage G (722), Peter S (755), Philip J (850), Jonathan G (866), Philip J (890), Nick G (903), Jonas F (923), Anders S (983), Jonathan G (990), Nils H (993), Alexander N (1020), Jonas B (1023), Daniela B (1029), Jonas L (1055), Jan W (1083), Gustav M (1099), Patrik H (1127), Samuel S (1195), Andreas H (1236), Nicklas Ö (1290), Tomas M (1454), Simon W (1476)]
+Rifle Semi Auto Standard    [Linda H (976), Dan G (977), Patrik H (1003), Sebastian C (1048)]
+Shotgun Modified            []
+Shotgun Open                []
+Shotgun Standard            []
+Shotgun Standard Manual     []
 
-IPSC Mini Rifle
-- Open: [Gustafson Dan (750), Granlund Brage (758), Norqvist Alexander (789), Heinola Linda (805), Dahlman Tobias (981), Back Daniela (1004), Sundblom Peter (1013), Andersson Fredrik (1014), Heimdahl Patrik (1018), Svensson Anders (1025), Granlund Nick (1092), Welin Jan (1102), Mörn Tomas (1103), Welin Simon (1218), Linden Jonas (1346)]
-- Standard: []
+1v1 encounters: 2680
+1v1 ignored encounters (shared last place at HF 0): 65
 
-IPSC PCC
-- Iron: []
-- Optics: [Gustafsson Benny (857), Svensson Anders (897), Heimdahl Patrik (897), Heinola Linda (924), Norkvist Alexander (938), Andersson Fredrik (944), Öberg Niclas (1040), Welin Simon (1042), Lindén Jonas (1075), Mörn Tomas (1118), Mörn Gustav (1289)]
+```
 
-IPSC Rifle
-- Manual Action Bolt: []
-- Manual Action Contemporary: []
-- Semi-Auto Open: [Andersson Fredrik (552), Heinola Linda (571), Granlund Brage (716), Sundblom Peter (749), Jansson Philip (842), Grönqvist Jonathan (866), Granlund Nick (903), Fyrqvist Jonas (918), Svensson Anders (983), Grönkvist Jonathan (984), Häggblom Nils (987), Norqvist Alexander (1015), Back Jonas (1018), Back Daniela (1022), Linden Jonas (1048), Welin Jan (1080), Mörn Gustav (1091), Heimdahl Patrik (1122), Stenroos Samuel (1190), Häger Andreas (1231), Öberg Nicklas (1285), Mörn Tomas (1450), Welin Simon (1472)]
-- Semi-Auto Standard: [Heinola Linda (976), Gustafson Dan (977), Heimdahl Patrik (1003), Cederberg Sebastian (1048)]
+## 2025 season results
+```
+Loaded 4 handgun stages
+Loaded 0 mini_rifle stages
+Loaded 4 pcc stages
+Loaded 0 rifle stages
+Loaded 0 shotgun stages
 
-IPSC Shotgun
-- Modified: []
-- Open: []
-- Standard: []
-- Standard Manual: []
+Handgun Classic             []
+Handgun Open                []
+Handgun Production          [Morgan N (795), Dan G (876), Anders S (948), Philip J (961), Nils H (973), Gustav M (1126), Patrik H (1146), Tommy N (1202)]
+Handgun Production Optics   [Nicklas Ö (938), Daniela B (1023), John L (1042)]
+Handgun Standard            [Samuel S (937), Tomas M (979), Tobias B (1087)]
+Mini Rifle Open             []
+Mini Rifle Standard         []
+PCC Iron                    []
+PCC Optics                  [Nils H (789), Philip J (873), Fredrik A (935), Patrik H (988), Tomas M (1125), Gustav M (1132), Tobias B (1179)]
+Rifle Manual Action Bolt    []
+Rifle Manual Action Contemporary[]
+Rifle Semi Auto Open        []
+Rifle Semi Auto Standard    []
+Shotgun Modified            []
+Shotgun Open                []
+Shotgun Standard            []
+Shotgun Standard Manual     []
 
-1-v-1 encounters: 2680
+1v1 encounters: 204
+1v1 ignored encounters (shared last place at HF 0): 7
 ```

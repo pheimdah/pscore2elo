@@ -3,6 +3,7 @@ package main.java;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
+import java.nio.file.FileSystems;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -11,7 +12,7 @@ import com.google.gson.internal.LinkedTreeMap;
 import com.google.gson.stream.JsonReader;
 
 public class PractiScoreResultFile {
-	
+
 	List<Stage> stages = new ArrayList<>();
 
 	@SuppressWarnings("unchecked")
@@ -21,6 +22,10 @@ public class PractiScoreResultFile {
 
 		GsonBuilder builder = new GsonBuilder();
 		Object o = builder.create().fromJson(jsonReader, Object.class);
+
+		if (o == null) {
+			return;
+		}
 
 		List<Object> stageresults = (ArrayList<Object>) o;
 
@@ -46,12 +51,8 @@ public class PractiScoreResultFile {
 
 					for (LinkedTreeMap<String, String> bar : res) {
 
-						// Fix shooter name
-						String shooterName = bar.get("shooterName").trim();
-						shooterName = shooterName.replaceAll(",", ""); // Remove ,
-						shooterName = shooterName.replaceAll(" +", " "); // Remove extra spaces
-						shooterName = shooterName.replaceAll("Heimdal", "Heimdahl");
-						
+						String shooterName = bar.get("shooterName");
+
 						// Fix hit factor
 						String sHitFactor = bar.get("hitFactor");
 						sHitFactor = sHitFactor.replaceAll(",", "."); // Some files have ',' decimal separators
@@ -59,10 +60,12 @@ public class PractiScoreResultFile {
 
 						// Make division name unique
 						String resultFileDivisionName = bar.get("division");
-						if (resultFile.toString().contains("handgun")) {
+						String fileSystemSeparator = FileSystems.getDefault().getSeparator();
+						if (resultFile.toString().contains(fileSystemSeparator + "handgun")) {
 							resultFileDivisionName = "Handgun " + resultFileDivisionName;
-						}
-						if (resultFile.toString().contains("shotgun")) {
+						} else if (resultFile.toString().contains(fileSystemSeparator + "rifle")) {
+							resultFileDivisionName = "Rifle " + resultFileDivisionName;
+						} else if (resultFile.toString().contains(fileSystemSeparator + "shotgun")) {
 							resultFileDivisionName = "Shotgun " + resultFileDivisionName;
 						}
 
