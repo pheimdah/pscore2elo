@@ -51,11 +51,36 @@ public class PractiScoreResultFile {
 
 					for (LinkedTreeMap<String, String> bar : res) {
 
-						String shooterName = bar.get("shooterName");
+						/*
+						 * No-shows will have a stage time of 0 on all stages in the match. Disregard
+						 * them.
+						 * 
+						 * DQed shooters will have a stage time of >0 but hit factor of 0 on stages they
+						 * shot in the match. Stages after the DQ will have a time of 0.
+						 */
+						String sStageTimeSecs = bar.get("stageTimeSecs") //
+								.replaceAll(",", "."); // Some files have ',' decimal separators
+						Float stageTimeSecs = Float.valueOf(sStageTimeSecs);
+						if (stageTimeSecs == 0.0) {
+							continue;
+						}
+
+						String shooterName = bar.get("shooterName") //
+								.replaceAll(",", "") // remove the comma
+								.replaceAll(" +", " ") // remove extra spaces
+								.trim();
+
+						// Fix misspellings
+						shooterName = shooterName.replaceAll("Heimdal Patrik", "Heimdahl Patrik") //
+								.replaceAll("Grönkvist Jonathan", "Grönqvist Jonathan") //
+								.replaceAll("Morn Tomas", "Mörn Tomas") //
+								.replaceAll("Öhberg Niklas", "Öberg Nicklas") //
+								.replaceAll("Öberg Niklas", "Öberg Nicklas") //
+								.replaceAll("Öberg Niclas", "Öberg Nicklas");
 
 						// Fix hit factor
-						String sHitFactor = bar.get("hitFactor");
-						sHitFactor = sHitFactor.replaceAll(",", "."); // Some files have ',' decimal separators
+						String sHitFactor = bar.get("hitFactor") //
+								.replaceAll(",", "."); // Some files have ',' decimal separators
 						Float hitFactor = Float.valueOf(sHitFactor);
 
 						// Make division name unique

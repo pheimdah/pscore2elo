@@ -82,8 +82,6 @@ public class Main {
 
 				// Re-calculate ELO after each stage
 				shooters.applyEloScoreAdjustment();
-				// System.out.println("ELO updated. Current ad-hoc ranking: "
-				// + shooters.getRankedListOfShooters(IpscDivision.MINI_RIFLE_OPEN));
 			}
 
 			System.out.println("");
@@ -92,47 +90,7 @@ public class Main {
 				System.out.print(String.format("%-28s", division.getResultFileDivisionName()));
 				System.out.println(shooters.getRankedListOfShooters(division));
 			}
-			/*
-			 * System.out.println(""); System.out.println("IPSC Handgun");
-			 * System.out.println("- Classic: " +
-			 * shooters.getRankedListOfShooters(IpscDivision.HANDGUN_CLASSIC));
-			 * System.out.println("- Open: " +
-			 * shooters.getRankedListOfShooters(IpscDivision.HANDGUN_OPEN));
-			 * System.out.println("- Production: " +
-			 * shooters.getRankedListOfShooters(IpscDivision.HANDGUN_PRODUCTION));
-			 * System.out.println( "- Production Optics: " +
-			 * shooters.getRankedListOfShooters(IpscDivision.HANDGUN_PRODUCTION_OPTICS));
-			 * System.out.println("- Standard: " +
-			 * shooters.getRankedListOfShooters(IpscDivision.HANDGUN_STANDARD));
-			 * System.out.println(""); System.out.println("IPSC Mini Rifle");
-			 * System.out.println("- Open: " +
-			 * shooters.getRankedListOfShooters(IpscDivision.MINI_RIFLE_OPEN));
-			 * System.out.println("- Standard: " +
-			 * shooters.getRankedListOfShooters(IpscDivision.MINI_RIFLE_STANDARD));
-			 * System.out.println(""); System.out.println("IPSC PCC");
-			 * System.out.println("- Iron: " +
-			 * shooters.getRankedListOfShooters(IpscDivision.PCC_IRON));
-			 * System.out.println("- Optics: " +
-			 * shooters.getRankedListOfShooters(IpscDivision.PCC_OPTICS));
-			 * System.out.println(""); System.out.println("IPSC Rifle");
-			 * System.out.println("- Manual Action Bolt: " +
-			 * shooters.getRankedListOfShooters(IpscDivision.RIFLE_MAB));
-			 * System.out.println( "- Manual Action Contemporary: " +
-			 * shooters.getRankedListOfShooters(IpscDivision.RIFLE_MAC));
-			 * System.out.println("- Semi-Auto Open: " +
-			 * shooters.getRankedListOfShooters(IpscDivision.RIFLE_SAO));
-			 * System.out.println("- Semi-Auto Standard: " +
-			 * shooters.getRankedListOfShooters(IpscDivision.RIFLE_SAS));
-			 * System.out.println(""); System.out.println("IPSC Shotgun");
-			 * System.out.println("- Modified: " +
-			 * shooters.getRankedListOfShooters(IpscDivision.SHOTGUN_MODIFIED));
-			 * System.out.println("- Open: " +
-			 * shooters.getRankedListOfShooters(IpscDivision.SHOTGUN_OPEN));
-			 * System.out.println("- Standard: " +
-			 * shooters.getRankedListOfShooters(IpscDivision.SHOTGUN_STANDARD));
-			 * System.out.println( "- Standard Manual: " +
-			 * shooters.getRankedListOfShooters(IpscDivision.SHOTGUN_STANDARD_MANUAL));
-			 */
+		
 			System.out.println("");
 			System.out.println("1v1 encounters: " + one_v_ones);
 			System.out.println("1v1 ignored encounters (shared last place at HF 0): " + one_v_ones_ignored);

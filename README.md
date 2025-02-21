@@ -40,25 +40,24 @@ Loaded 34 pcc stages
 Loaded 28 rifle stages
 Loaded 0 shotgun stages
 
-Handgun Classic             [Fredrik A (935), Anders S (1066)]
-Handgun Open                [Tommy N (955), Tomas M (1046)]
-Handgun Production          [Jonas L (590), Daniela B (721), Linda H (764), Samuel S (781), Morgan N (782), Philip J (826), Tony S (836), Peter S (865), Marianne S (867), Dan G (870), Frank D (898), Fredrik A (906), Anders S (938), Nils H (939), Nils H (953), Jan W (968), Linus P (969), Jonas F (984), Tomas M (998), Alexander N (1018), Patrik H (1034), Andreas H (1038), Dennis K (1039), Jonas F (1046), Gustav M (1118), Simon W (1122), Jonas B (1148), Patrik H (1182), Nick G (1190), Tommy N (1256), Gustav M (1273), Jonas L (1335), Emil P (1362), John L (1480)]
-Handgun Production Optics   [Daniela B (862), Nicklas Ö (876), Tobias D (934), Jonas B (958), Nicklas Ö (965), Simon W (981), Jonas F (1036), Emil P (1085), John L (1100), Tobias B (1209)]
-Handgun Standard            [Linda H (750), Brage G (788), Peter S (789), Philip J (798), Tommy N (894), Richard E (894), Gustav M (918), Jan W (940), Dimi E (983), Linus P (985), Dimi E (998), Tomas B (1005), Alexander R (1022), Alexander N (1062), Samuel S (1063), Nicklas Ö (1092), Gustav M (1115), Tobias B (1131), Patrik H (1189), Tomas M (1195), Dennis K (1206), Jonas L (1221)]
-Mini Rifle Open             [Brage G (717), Jarkko K (745), Dan G (748), Alexander N (788), Linda H (806), Tobias D (941), Tomas M (999), Daniela B (1003), Fredrik A (1012), Anders S (1021), Patrik H (1023), Peter S (1050), Tomas M (1056), Nick G (1083), Jan W (1101), Tomas M (1104), Simon W (1234), Jonas L (1248), Jonas L (1364)]
+Handgun Classic             [F. Andersson (935), A. Svensson (1066)]
+Handgun Open                [T. Nordqvist (955), T. Mörn (1046)]
+Handgun Production          [D. Back (690), S. Stenroos (746), L. Heinola (755), M. Nilsson (779), P. Jansson (801), P. Sundblom (829), T. Stjernlöf (833), M. Stenroos (867), F. Degerth (890), F. Andersson (929), D. Gustafsson (931), A. Svensson (938), L. Pettersson (939), N. Häggblom (939), J. Welin (957), T. Mörn (967), A. Norkvist (1010), D. Källroos (1013), J. Fyrqvist (1025), A. Häger (1034), S. Welin (1111), J. Back (1125), G. Mörn (1176), P. Heimdahl (1179), N. Granlund (1217), T. Nordqvist (1257), J. Lindén (1328), E. Pettersson (1349), J. Lindholm (1461)]
+Handgun Production Optics   [D. Back (842), N. Öberg (857), T. Dahlman (934), J. Back (958), S. Welin (981), E. Pettersson (1085), J. Lindholm (1139), T. Bonn (1209)]
+Handgun Standard            [L. Heinola (767), P. Jansson (798), B. Granlund (803), P. Sundblom (807), R. Eriksson (894), T. Nordqvist (931), G. Mörn (939), J. Welin (956), D. Eklund (985), A. Rothberg (996), L. Pettersson (1000), T. Berlin (1003), A. Norqvist (1059), S. Stenroos (1077), N. Öberg (1092), T. Bonn (1132), D. Källroos (1184), J. Lindén (1200), P. Heimdahl (1202), T. Mörn (1206)]
+Mini Rifle Open             [B. Granlund (660), D. Gustafson (763), A. Norqvist (786), L. Heinola (804), T. Dahlman (923), D. Back (960), F. Andersson (1015), A. Svensson (1017), P. Heimdahl (1018), P. Sundblom (1024), N. Granlund (1084), T. Mörn (1092), J. Welin (1099), S. Welin (1220), J. Lindén (1224), J. Linden (1344)]
 Mini Rifle Standard         []
 PCC Iron                    []
-PCC Optics                  [Nils H (796), Anders S (822), Benny G (836), Linda H (869), Philip J (883), Fredrik A (914), Alexander N (916), Patrik H (919), Nicklas Ö (925), Patrik H (955), John L (1011), Niclas Ö (1020), Simon W (1024), Emil P (1118), Dennis K (1128), Tomas M (1180), Tobias B (1217), Jonas L (1238), Gustav M (1271)]
+PCC Optics                  [N. Häggblom (791), B. Gustafsson (820), A. Svensson (822), L. Heinola (853), P. Jansson (877), A. Norkvist (900), F. Andersson (909), P. Heimdahl (935), N. Öberg (990), S. Welin (1006), J. Lindblom (1011), E. Pettersson (1118), D. Källroos (1128), T. Mörn (1169), T. Bonn (1212), J. Lindén (1235), G. Mörn (1259)]
 Rifle Manual Action Bolt    []
 Rifle Manual Action Contemporary[]
-Rifle Semi Auto Open        [Fredrik A (551), Linda H (576), Brage G (720), Peter S (755), Jonathan G (838), Emil P (841), Jarkko K (841), Philip J (848), Gustav G (886), Philip J (888), Nick G (915), Jonas F (924), Niklas Ö (973), Anders S (984), Jonathan G (990), Nils H (994), Alexander N (1021), Jonas B (1025), Daniela B (1031), Jonas L (1057), Jan W (1089), Gustav M (1096), Tobias B (1105), Tomas M (1120), Patrik H (1130), Samuel S (1200), John L (1209), Andreas H (1238), Nicklas Ö (1291), Tomas M (1462), Simon W (1481)]
-Rifle Semi Auto Standard    [Samuel S (887), Linda H (982), Patrik H (987), Jonas L (992), Dan G (996), Jonas L (1030), Sebastian C (1130)]
+Rifle Semi Auto Open        [F. Andersson (664), P. Sundblom (665), P. Jansson (752), B. Granlund (817), G. Gottberg (852), J. Grönqvist (888), N. Granlund (889), N. Häggblom (905), A. Norqvist (941), D. Back (959), J. Fyrqvist (974), J. Back (977), A. Svensson (979), J. Linden (1002), J. Welin (1021), T. Bonn (1030), G. Mörn (1056), P. Heimdahl (1074), S. Stenroos (1178), A. Häger (1179), J. Lindholm (1184), N. Öberg (1218), T. Mörn (1415), S. Welin (1431)]
+Rifle Semi Auto Standard    [S. Stenroos (887), L. Heinola (982), P. Heimdahl (987), J. Linden (992), D. Gustafson (996), J. Lindén (1030), S. Cederberg (1130)]
 Shotgun Modified            []
 Shotgun Open                []
 Shotgun Standard            []
 Shotgun Standard Manual     []
 
-1v1 encounters: 4636
-1v1 ignored encounters (shared last place at HF 0): 123
-
+1v1 encounters: 4163
+1v1 ignored encounters (shared last place at HF 0): 64
 ```

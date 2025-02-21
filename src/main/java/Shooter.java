@@ -6,31 +6,27 @@ import java.util.List;
 
 public class Shooter {
 
-	private String name;
 	private String displayName;
 	private int eloRating = 1000;
 	private int pendingEloScoreAdjustment = 0;
 
-	public Shooter(String pName) {
-		this.name = pName;
+	public Shooter(String displayName) {
 
-		this.displayName = pName.trim() //
-				.replaceAll(",", "") // remove the comma
-				.replaceAll(" +", " ") // remove extra spaces
-				.replaceAll("Heimdal", "Heimdahl");
+		this.displayName = displayName;
 
-		// Convert "Alfredsson Alfred" to "Alfred A"
+		// Convert "Alfredsson Alfred" to "A. Alfredsson"
+
 		List<String> shooterNameComponents = new ArrayList<String>(List.of(this.displayName.split("\\s+")));
 		Collections.reverse(shooterNameComponents);
-		String lastName = shooterNameComponents.get(shooterNameComponents.size() - 1);
-		char lastNameInitial = lastName.charAt(0);
-		// String maskedLastName = lastNameInitial + "░".repeat(lastName.length() - 1);
 
-		shooterNameComponents.removeLast();
-		// shooterNameComponents.add(maskedLastName);
-		shooterNameComponents.add(String.valueOf(lastNameInitial));
+		String firstName = shooterNameComponents.get(0);
+		char firstNameInitial = firstName.charAt(0);
+
+		shooterNameComponents.removeFirst();
+		shooterNameComponents.addFirst(String.valueOf(firstNameInitial)+".");
 
 		this.displayName = String.join(" ", shooterNameComponents);
+
 	}
 
 	public void addPendingEloScoreAdjustment(int a) {
