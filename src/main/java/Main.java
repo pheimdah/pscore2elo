@@ -91,12 +91,10 @@ public class Main {
 
 			for (IpscDivision division : IpscDivision.values()) {
 
-				System.out.println(String.format("### %-28s", division.getResultFileDivisionName()));
-				System.out.println("<details>");
-				System.out.println("<summary>Hidden</summary>");
+				System.out.println("### " + division.getResultFileDivisionName());
+				System.out.println("<details>\n<summary>Hidden</summary>\n");
 				shooters.getRankedListOfShooters(division).reversed().forEach(s -> System.out.println("1. " + s));
-				System.out.println("</details>");
-				System.out.println("");
+				System.out.println("</details>\n");
 			}
 
 		} catch (Exception e) {

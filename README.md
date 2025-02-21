@@ -44,23 +44,26 @@ Loaded 0 shotgun stages
 1v1 ignored encounters (shared last place at HF 0): 64
 ```
 
-### Handgun Classic             
+### Handgun Classic
 <details>
 <summary>Hidden</summary>
+
 1. A. Svensson (1066)
 1. F. Andersson (935)
 </details>
 
-### Handgun Open                
+### Handgun Open
 <details>
 <summary>Hidden</summary>
+
 1. T. Mörn (1046)
 1. T. Nordqvist (955)
 </details>
 
-### Handgun Production          
+### Handgun Production
 <details>
 <summary>Hidden</summary>
+
 1. J. Lindholm (1461)
 1. E. Pettersson (1349)
 1. J. Lindén (1328)
@@ -92,9 +95,10 @@ Loaded 0 shotgun stages
 1. D. Back (690)
 </details>
 
-### Handgun Production Optics   
+### Handgun Production Optics
 <details>
 <summary>Hidden</summary>
+
 1. T. Bonn (1209)
 1. J. Lindholm (1139)
 1. E. Pettersson (1085)
@@ -105,9 +109,10 @@ Loaded 0 shotgun stages
 1. D. Back (842)
 </details>
 
-### Handgun Standard            
+### Handgun Standard
 <details>
 <summary>Hidden</summary>
+
 1. T. Mörn (1206)
 1. P. Heimdahl (1202)
 1. J. Lindén (1200)
@@ -130,9 +135,10 @@ Loaded 0 shotgun stages
 1. L. Heinola (767)
 </details>
 
-### Mini Rifle Open             
+### Mini Rifle Open
 <details>
 <summary>Hidden</summary>
+
 1. J. Lindén (1383)
 1. S. Welin (1240)
 1. J. Welin (1115)
@@ -150,19 +156,22 @@ Loaded 0 shotgun stages
 1. B. Granlund (670)
 </details>
 
-### Mini Rifle Standard         
+### Mini Rifle Standard
 <details>
 <summary>Hidden</summary>
+
 </details>
 
-### PCC Iron                    
+### PCC Iron
 <details>
 <summary>Hidden</summary>
+
 </details>
 
-### PCC Optics                  
+### PCC Optics
 <details>
 <summary>Hidden</summary>
+
 1. G. Mörn (1259)
 1. J. Lindén (1235)
 1. T. Bonn (1212)
@@ -182,19 +191,22 @@ Loaded 0 shotgun stages
 1. N. Häggblom (791)
 </details>
 
-### Rifle Manual Action Bolt    
+### Rifle Manual Action Bolt
 <details>
 <summary>Hidden</summary>
+
 </details>
 
 ### Rifle Manual Action Contemporary
 <details>
 <summary>Hidden</summary>
+
 </details>
 
-### Rifle Semi Auto Open        
+### Rifle Semi Auto Open
 <details>
 <summary>Hidden</summary>
+
 1. S. Welin (1431)
 1. T. Mörn (1415)
 1. N. Öberg (1218)
@@ -221,9 +233,10 @@ Loaded 0 shotgun stages
 1. F. Andersson (664)
 </details>
 
-### Rifle Semi Auto Standard    
+### Rifle Semi Auto Standard
 <details>
 <summary>Hidden</summary>
+
 1. S. Cederberg (1135)
 1. J. Lindén (1007)
 1. D. Gustafson (996)
@@ -232,23 +245,27 @@ Loaded 0 shotgun stages
 1. S. Stenroos (891)
 </details>
 
-### Shotgun Modified            
+### Shotgun Modified
 <details>
 <summary>Hidden</summary>
+
 </details>
 
-### Shotgun Open                
+### Shotgun Open
 <details>
 <summary>Hidden</summary>
+
 </details>
 
-### Shotgun Standard            
+### Shotgun Standard
 <details>
 <summary>Hidden</summary>
+
 </details>
 
-### Shotgun Standard Manual     
+### Shotgun Standard Manual
 <details>
 <summary>Hidden</summary>
+
 </details>
 
