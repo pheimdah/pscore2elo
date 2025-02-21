@@ -39,6 +39,7 @@ Loaded 30 mini_rifle stages
 Loaded 34 pcc stages
 Loaded 28 rifle stages
 Loaded 0 shotgun stages
+
 1v1 encounters: 4163
 1v1 ignored encounters (shared last place at HF 0): 64
 ```
@@ -250,3 +251,4 @@ Loaded 0 shotgun stages
 <details>
 <summary>Hidden</summary>
 </details>
+

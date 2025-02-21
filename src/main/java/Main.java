@@ -14,8 +14,7 @@ public class Main {
 		try {
 
 			List<Stage> allStages = new ArrayList<>();
-			System.out.println("## Ranking");
-			System.out.println("```");
+			System.out.println("## Ranking\n```");
 
 			for (String discipline : List.of("handgun", "mini_rifle", "pcc", "rifle", "shotgun")) {
 
@@ -86,11 +85,10 @@ public class Main {
 				shooters.applyEloScoreAdjustment();
 			}
 
-			System.out.println("1v1 encounters: " + one_v_ones);
+			System.out.println("\n1v1 encounters: " + one_v_ones);
 			System.out.println("1v1 ignored encounters (shared last place at HF 0): " + one_v_ones_ignored);
-			System.out.println("```");
+			System.out.println("```\n");
 
-			System.out.println("");
 			for (IpscDivision division : IpscDivision.values()) {
 
 				System.out.println(String.format("### %-28s", division.getResultFileDivisionName()));
