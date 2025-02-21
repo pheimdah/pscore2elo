@@ -6,9 +6,8 @@ Each match is divided into divisions and stages. Each stage is divided into sepa
 
 Shooters start with an ELO rank of 1000. K-factor is fixed at 25.
 
-## Example
 <details>
-<summary>Hidden</summary>
+<summary>Example</summary>
 
 Stage result with N=4 shooters:
 
@@ -27,10 +26,13 @@ This results in N-1 encounter per participant.
 - Calle won against Daniel
 
 With regards to the scoring each encounter is counted as a match.
-
-This also means that a DQ has an enormous effect. Given a match with 10 shooters and 5 stages a DQ will result in (9 opponents * 5 stages) = 45 individual losses for the affected shooter.
-
 </details>
+
+#### Compile & run
+```
+$ javac -cp lib/*.jar -d target/classes src/*.java
+$ java -cp "lib/*;target/classes" Main
+```
 
 ## Ranking
 ```
