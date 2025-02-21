@@ -11,8 +11,6 @@ public class Main {
 
 		Shooters shooters = new Shooters();
 
-		String resultsDirectoryName = "2025_results";
-
 		try {
 
 			List<Stage> allStages = new ArrayList<>();
@@ -21,8 +19,7 @@ public class Main {
 
 				List<Stage> disciplineStages = new ArrayList<>();
 
-				File resultsDirectory = new File(
-						String.format("src/main/resources/%s/%s", resultsDirectoryName, discipline));
+				File resultsDirectory = new File("src/main/resources/results/" + discipline);
 
 				for (File matchResultFile : resultsDirectory.listFiles()) {
 					PractiScoreResultFile resultFile = new PractiScoreResultFile(matchResultFile);
@@ -41,6 +38,11 @@ public class Main {
 			for (Stage stage : allStages) {
 				for (IpscDivision division : stage.getDivisions()) {
 
+					if (division == null) {
+						System.err.println("Division unknown for stage " + stage);
+						System.exit(1);
+					}
+
 					List<StageResult> results = stage.getResultsByDivision(division);
 					Collections.sort(results);
 
@@ -49,6 +51,7 @@ public class Main {
 					}
 
 					for (int i = 0; i < results.size(); i++) {
+
 						StageResult winner = results.get(i);
 
 						/*

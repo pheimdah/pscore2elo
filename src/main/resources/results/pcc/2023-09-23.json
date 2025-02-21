@@ -1,0 +1,908 @@
+[
+    {
+        "Match": [
+            {
+                "Overall": [
+                    {
+                        "possiblePoints": 505,
+                        "shooter": "7ed0c371-2be0-4889-aff9-a5e477f0001f",
+                        "matchPercent": "100.00",
+                        "pscPlace": 1,
+                        "completeStages": 6,
+                        "percentOfPossible": "93.26",
+                        "matchPoints": "470.9723"
+                    },
+                    {
+                        "possiblePoints": 505,
+                        "shooter": "e45e56ab-12a7-4ccb-997a-3b62edf37e57",
+                        "matchPercent": "88.69",
+                        "pscPlace": 2,
+                        "completeStages": 6,
+                        "percentOfPossible": "82.72",
+                        "matchPoints": "417.7235"
+                    },
+                    {
+                        "possiblePoints": 505,
+                        "shooter": "90b99c60-015e-4e53-ba5a-5d69daac6756",
+                        "matchPercent": "67.65",
+                        "pscPlace": 3,
+                        "completeStages": 6,
+                        "percentOfPossible": "63.09",
+                        "matchPoints": "318.6078"
+                    },
+                    {
+                        "possiblePoints": 505,
+                        "shooter": "7034dcda-0e91-4807-8706-46236736a204",
+                        "matchPercent": "63.35",
+                        "pscPlace": 4,
+                        "completeStages": 6,
+                        "percentOfPossible": "59.08",
+                        "matchPoints": "298.3751"
+                    }
+                ]
+            },
+            {
+                "PCC Optics": [
+                    {
+                        "possiblePoints": 505,
+                        "shooter": "7ed0c371-2be0-4889-aff9-a5e477f0001f",
+                        "matchPercent": "100.00",
+                        "pscPlace": 1,
+                        "completeStages": 6,
+                        "percentOfPossible": "93.26",
+                        "matchPoints": "470.9723"
+                    },
+                    {
+                        "possiblePoints": 505,
+                        "shooter": "e45e56ab-12a7-4ccb-997a-3b62edf37e57",
+                        "matchPercent": "88.69",
+                        "pscPlace": 2,
+                        "completeStages": 6,
+                        "percentOfPossible": "82.72",
+                        "matchPoints": "417.7235"
+                    },
+                    {
+                        "possiblePoints": 505,
+                        "shooter": "90b99c60-015e-4e53-ba5a-5d69daac6756",
+                        "matchPercent": "67.65",
+                        "pscPlace": 3,
+                        "completeStages": 6,
+                        "percentOfPossible": "63.09",
+                        "matchPoints": "318.6078"
+                    },
+                    {
+                        "possiblePoints": 505,
+                        "shooter": "7034dcda-0e91-4807-8706-46236736a204",
+                        "matchPercent": "63.35",
+                        "pscPlace": 4,
+                        "completeStages": 6,
+                        "percentOfPossible": "59.08",
+                        "matchPoints": "298.3751"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stageUUID": "4a4bbfa2-35fc-49f5-b5ae-f6a79385fc93",
+        "Stage 1": [
+            {
+                "Overall": [
+                    {
+                        "place": 1,
+                        "shooter": "7ed0c371-2be0-4889-aff9-a5e477f0001f",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn, Tomas",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "20.48",
+                        "stagePoints": "90.0000",
+                        "hitFactor": "4.0039",
+                        "points": 82,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "7034dcda-0e91-4807-8706-46236736a204",
+                        "shooterNum": -1,
+                        "shooterName": "Heinola, Linda",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Lady"
+                        ],
+                        "stagePercent": "70.16",
+                        "stageTimeSecs": "29.19",
+                        "stagePoints": "63.1449",
+                        "hitFactor": "2.8092",
+                        "points": 82,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "90b99c60-015e-4e53-ba5a-5d69daac6756",
+                        "shooterNum": -1,
+                        "shooterName": "Heimdal, Patrik",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "69.93",
+                        "stageTimeSecs": "30.00",
+                        "stagePoints": "62.9385",
+                        "hitFactor": "2.8000",
+                        "points": 84,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 4,
+                        "shooter": "e45e56ab-12a7-4ccb-997a-3b62edf37e57",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn, Gustav",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "65.93",
+                        "stageTimeSecs": "25.38",
+                        "stagePoints": "59.3392",
+                        "hitFactor": "2.6399",
+                        "points": 77,
+                        "penalties": -10
+                    }
+                ]
+            },
+            {
+                "PCC Optics": [
+                    {
+                        "place": 1,
+                        "shooter": "7ed0c371-2be0-4889-aff9-a5e477f0001f",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn, Tomas",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "20.48",
+                        "stagePoints": "90.0000",
+                        "hitFactor": "4.0039",
+                        "points": 82,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "7034dcda-0e91-4807-8706-46236736a204",
+                        "shooterNum": -1,
+                        "shooterName": "Heinola, Linda",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Lady"
+                        ],
+                        "stagePercent": "70.16",
+                        "stageTimeSecs": "29.19",
+                        "stagePoints": "63.1449",
+                        "hitFactor": "2.8092",
+                        "points": 82,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "90b99c60-015e-4e53-ba5a-5d69daac6756",
+                        "shooterNum": -1,
+                        "shooterName": "Heimdal, Patrik",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "69.93",
+                        "stageTimeSecs": "30.00",
+                        "stagePoints": "62.9385",
+                        "hitFactor": "2.8000",
+                        "points": 84,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 4,
+                        "shooter": "e45e56ab-12a7-4ccb-997a-3b62edf37e57",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn, Gustav",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "65.93",
+                        "stageTimeSecs": "25.38",
+                        "stagePoints": "59.3392",
+                        "hitFactor": "2.6399",
+                        "points": 77,
+                        "penalties": -10
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stageUUID": "045eeec6-dddb-4a03-9081-5a7b169adb1f",
+        "Stage 2": [
+            {
+                "Overall": [
+                    {
+                        "place": 1,
+                        "shooter": "7ed0c371-2be0-4889-aff9-a5e477f0001f",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn, Tomas",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "10.19",
+                        "stagePoints": "80.0000",
+                        "hitFactor": "7.2620",
+                        "points": 74,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "e45e56ab-12a7-4ccb-997a-3b62edf37e57",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn, Gustav",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "86.72",
+                        "stageTimeSecs": "11.75",
+                        "stagePoints": "69.3787",
+                        "hitFactor": "6.2979",
+                        "points": 74,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "90b99c60-015e-4e53-ba5a-5d69daac6756",
+                        "shooterNum": -1,
+                        "shooterName": "Heimdal, Patrik",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "66.10",
+                        "stageTimeSecs": "16.25",
+                        "stagePoints": "52.8778",
+                        "hitFactor": "4.8000",
+                        "points": 78,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 4,
+                        "shooter": "7034dcda-0e91-4807-8706-46236736a204",
+                        "shooterNum": -1,
+                        "shooterName": "Heinola, Linda",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Lady"
+                        ],
+                        "stagePercent": "42.72",
+                        "stageTimeSecs": "18.05",
+                        "stagePoints": "34.1777",
+                        "hitFactor": "3.1025",
+                        "points": 66,
+                        "penalties": -10
+                    }
+                ]
+            },
+            {
+                "PCC Optics": [
+                    {
+                        "place": 1,
+                        "shooter": "7ed0c371-2be0-4889-aff9-a5e477f0001f",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn, Tomas",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "10.19",
+                        "stagePoints": "80.0000",
+                        "hitFactor": "7.2620",
+                        "points": 74,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "e45e56ab-12a7-4ccb-997a-3b62edf37e57",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn, Gustav",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "86.72",
+                        "stageTimeSecs": "11.75",
+                        "stagePoints": "69.3787",
+                        "hitFactor": "6.2979",
+                        "points": 74,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "90b99c60-015e-4e53-ba5a-5d69daac6756",
+                        "shooterNum": -1,
+                        "shooterName": "Heimdal, Patrik",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "66.10",
+                        "stageTimeSecs": "16.25",
+                        "stagePoints": "52.8778",
+                        "hitFactor": "4.8000",
+                        "points": 78,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 4,
+                        "shooter": "7034dcda-0e91-4807-8706-46236736a204",
+                        "shooterNum": -1,
+                        "shooterName": "Heinola, Linda",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Lady"
+                        ],
+                        "stagePercent": "42.72",
+                        "stageTimeSecs": "18.05",
+                        "stagePoints": "34.1777",
+                        "hitFactor": "3.1025",
+                        "points": 66,
+                        "penalties": -10
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stageUUID": "6a17d78d-dbec-4a09-94e7-2c342c45e72f",
+        "Stage 3": [
+            {
+                "Overall": [
+                    {
+                        "place": 1,
+                        "shooter": "7ed0c371-2be0-4889-aff9-a5e477f0001f",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn, Tomas",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "14.30",
+                        "stagePoints": "80.0000",
+                        "hitFactor": "5.4545",
+                        "points": 78,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "e45e56ab-12a7-4ccb-997a-3b62edf37e57",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn, Gustav",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "77.11",
+                        "stageTimeSecs": "19.02",
+                        "stagePoints": "61.6894",
+                        "hitFactor": "4.2061",
+                        "points": 80,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "90b99c60-015e-4e53-ba5a-5d69daac6756",
+                        "shooterNum": -1,
+                        "shooterName": "Heimdal, Patrik",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "54.46",
+                        "stageTimeSecs": "26.93",
+                        "stagePoints": "43.5697",
+                        "hitFactor": "2.9707",
+                        "points": 80,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 4,
+                        "shooter": "7034dcda-0e91-4807-8706-46236736a204",
+                        "shooterNum": -1,
+                        "shooterName": "Heinola, Linda",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Lady"
+                        ],
+                        "stagePercent": "50.51",
+                        "stageTimeSecs": "28.31",
+                        "stagePoints": "40.4097",
+                        "hitFactor": "2.7552",
+                        "points": 78,
+                        "penalties": 0
+                    }
+                ]
+            },
+            {
+                "PCC Optics": [
+                    {
+                        "place": 1,
+                        "shooter": "7ed0c371-2be0-4889-aff9-a5e477f0001f",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn, Tomas",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "14.30",
+                        "stagePoints": "80.0000",
+                        "hitFactor": "5.4545",
+                        "points": 78,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "e45e56ab-12a7-4ccb-997a-3b62edf37e57",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn, Gustav",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "77.11",
+                        "stageTimeSecs": "19.02",
+                        "stagePoints": "61.6894",
+                        "hitFactor": "4.2061",
+                        "points": 80,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "90b99c60-015e-4e53-ba5a-5d69daac6756",
+                        "shooterNum": -1,
+                        "shooterName": "Heimdal, Patrik",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "54.46",
+                        "stageTimeSecs": "26.93",
+                        "stagePoints": "43.5697",
+                        "hitFactor": "2.9707",
+                        "points": 80,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 4,
+                        "shooter": "7034dcda-0e91-4807-8706-46236736a204",
+                        "shooterNum": -1,
+                        "shooterName": "Heinola, Linda",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Lady"
+                        ],
+                        "stagePercent": "50.51",
+                        "stageTimeSecs": "28.31",
+                        "stagePoints": "40.4097",
+                        "hitFactor": "2.7552",
+                        "points": 78,
+                        "penalties": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stageUUID": "f336fd22-757e-49be-8b1c-bfb8dbf4d703",
+        "Stage 4": [
+            {
+                "Overall": [
+                    {
+                        "place": 1,
+                        "shooter": "e45e56ab-12a7-4ccb-997a-3b62edf37e57",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn, Gustav",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "15.26",
+                        "stagePoints": "55.0000",
+                        "hitFactor": "3.3421",
+                        "points": 51,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "7034dcda-0e91-4807-8706-46236736a204",
+                        "shooterNum": -1,
+                        "shooterName": "Heinola, Linda",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Lady"
+                        ],
+                        "stagePercent": "73.90",
+                        "stageTimeSecs": "20.65",
+                        "stagePoints": "40.6441",
+                        "hitFactor": "2.4697",
+                        "points": 51,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "7ed0c371-2be0-4889-aff9-a5e477f0001f",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn, Tomas",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "65.49",
+                        "stageTimeSecs": "25.13",
+                        "stagePoints": "36.0178",
+                        "hitFactor": "2.1886",
+                        "points": 55,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 4,
+                        "shooter": "90b99c60-015e-4e53-ba5a-5d69daac6756",
+                        "shooterNum": -1,
+                        "shooterName": "Heimdal, Patrik",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "48.72",
+                        "stageTimeSecs": "20.88",
+                        "stagePoints": "26.7976",
+                        "hitFactor": "1.6284",
+                        "points": 44,
+                        "penalties": -10
+                    }
+                ]
+            },
+            {
+                "PCC Optics": [
+                    {
+                        "place": 1,
+                        "shooter": "e45e56ab-12a7-4ccb-997a-3b62edf37e57",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn, Gustav",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "15.26",
+                        "stagePoints": "55.0000",
+                        "hitFactor": "3.3421",
+                        "points": 51,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "7034dcda-0e91-4807-8706-46236736a204",
+                        "shooterNum": -1,
+                        "shooterName": "Heinola, Linda",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Lady"
+                        ],
+                        "stagePercent": "73.90",
+                        "stageTimeSecs": "20.65",
+                        "stagePoints": "40.6441",
+                        "hitFactor": "2.4697",
+                        "points": 51,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "7ed0c371-2be0-4889-aff9-a5e477f0001f",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn, Tomas",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "65.49",
+                        "stageTimeSecs": "25.13",
+                        "stagePoints": "36.0178",
+                        "hitFactor": "2.1886",
+                        "points": 55,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 4,
+                        "shooter": "90b99c60-015e-4e53-ba5a-5d69daac6756",
+                        "shooterNum": -1,
+                        "shooterName": "Heimdal, Patrik",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "48.72",
+                        "stageTimeSecs": "20.88",
+                        "stagePoints": "26.7976",
+                        "hitFactor": "1.6284",
+                        "points": 44,
+                        "penalties": -10
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stageUUID": "a7fd30ec-f46d-4488-bc8a-eb2cdfa93ff8",
+        "Stage 5": [
+            {
+                "Overall": [
+                    {
+                        "place": 1,
+                        "shooter": "e45e56ab-12a7-4ccb-997a-3b62edf37e57",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn, Gustav",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "11.66",
+                        "stagePoints": "40.0000",
+                        "hitFactor": "3.4305",
+                        "points": 40,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "7034dcda-0e91-4807-8706-46236736a204",
+                        "shooterNum": -1,
+                        "shooterName": "Heinola, Linda",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Lady"
+                        ],
+                        "stagePercent": "69.08",
+                        "stageTimeSecs": "16.88",
+                        "stagePoints": "27.6303",
+                        "hitFactor": "2.3697",
+                        "points": 40,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "90b99c60-015e-4e53-ba5a-5d69daac6756",
+                        "shooterNum": -1,
+                        "shooterName": "Heimdal, Patrik",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "67.32",
+                        "stageTimeSecs": "17.32",
+                        "stagePoints": "26.9284",
+                        "hitFactor": "2.3095",
+                        "points": 40,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 4,
+                        "shooter": "7ed0c371-2be0-4889-aff9-a5e477f0001f",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn, Tomas",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "62.39",
+                        "stageTimeSecs": "18.69",
+                        "stagePoints": "24.9545",
+                        "hitFactor": "2.1402",
+                        "points": 40,
+                        "penalties": 0
+                    }
+                ]
+            },
+            {
+                "PCC Optics": [
+                    {
+                        "place": 1,
+                        "shooter": "e45e56ab-12a7-4ccb-997a-3b62edf37e57",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn, Gustav",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "11.66",
+                        "stagePoints": "40.0000",
+                        "hitFactor": "3.4305",
+                        "points": 40,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "7034dcda-0e91-4807-8706-46236736a204",
+                        "shooterNum": -1,
+                        "shooterName": "Heinola, Linda",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Lady"
+                        ],
+                        "stagePercent": "69.08",
+                        "stageTimeSecs": "16.88",
+                        "stagePoints": "27.6303",
+                        "hitFactor": "2.3697",
+                        "points": 40,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "90b99c60-015e-4e53-ba5a-5d69daac6756",
+                        "shooterNum": -1,
+                        "shooterName": "Heimdal, Patrik",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "67.32",
+                        "stageTimeSecs": "17.32",
+                        "stagePoints": "26.9284",
+                        "hitFactor": "2.3095",
+                        "points": 40,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 4,
+                        "shooter": "7ed0c371-2be0-4889-aff9-a5e477f0001f",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn, Tomas",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "62.39",
+                        "stageTimeSecs": "18.69",
+                        "stagePoints": "24.9545",
+                        "hitFactor": "2.1402",
+                        "points": 40,
+                        "penalties": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stageUUID": "97dc77fa-cc3e-435c-94b0-b89b043cb019",
+        "Stage 6": [
+            {
+                "Overall": [
+                    {
+                        "place": 1,
+                        "shooter": "7ed0c371-2be0-4889-aff9-a5e477f0001f",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn, Tomas",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "34.26",
+                        "stagePoints": "160.0000",
+                        "hitFactor": "4.4950",
+                        "points": 154,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "e45e56ab-12a7-4ccb-997a-3b62edf37e57",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn, Gustav",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "82.70",
+                        "stageTimeSecs": "40.89",
+                        "stagePoints": "132.3162",
+                        "hitFactor": "3.7173",
+                        "points": 152,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "90b99c60-015e-4e53-ba5a-5d69daac6756",
+                        "shooterNum": -1,
+                        "shooterName": "Heimdal, Patrik",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "65.93",
+                        "stageTimeSecs": "53.31",
+                        "stagePoints": "105.4958",
+                        "hitFactor": "2.9638",
+                        "points": 158,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 4,
+                        "shooter": "7034dcda-0e91-4807-8706-46236736a204",
+                        "shooterNum": -1,
+                        "shooterName": "Heinola, Linda",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Lady"
+                        ],
+                        "stagePercent": "57.73",
+                        "stageTimeSecs": "53.95",
+                        "stagePoints": "92.3684",
+                        "hitFactor": "2.5950",
+                        "points": 140,
+                        "penalties": 0
+                    }
+                ]
+            },
+            {
+                "PCC Optics": [
+                    {
+                        "place": 1,
+                        "shooter": "7ed0c371-2be0-4889-aff9-a5e477f0001f",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn, Tomas",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "34.26",
+                        "stagePoints": "160.0000",
+                        "hitFactor": "4.4950",
+                        "points": 154,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "e45e56ab-12a7-4ccb-997a-3b62edf37e57",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn, Gustav",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "82.70",
+                        "stageTimeSecs": "40.89",
+                        "stagePoints": "132.3162",
+                        "hitFactor": "3.7173",
+                        "points": 152,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "90b99c60-015e-4e53-ba5a-5d69daac6756",
+                        "shooterNum": -1,
+                        "shooterName": "Heimdal, Patrik",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "stagePercent": "65.93",
+                        "stageTimeSecs": "53.31",
+                        "stagePoints": "105.4958",
+                        "hitFactor": "2.9638",
+                        "points": 158,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 4,
+                        "shooter": "7034dcda-0e91-4807-8706-46236736a204",
+                        "shooterNum": -1,
+                        "shooterName": "Heinola, Linda",
+                        "division": "PCC Optics",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Lady"
+                        ],
+                        "stagePercent": "57.73",
+                        "stageTimeSecs": "53.95",
+                        "stagePoints": "92.3684",
+                        "hitFactor": "2.5950",
+                        "points": 140,
+                        "penalties": 0
+                    }
+                ]
+            }
+        ]
+    }
+]

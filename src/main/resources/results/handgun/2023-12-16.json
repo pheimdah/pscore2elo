@@ -1,0 +1,621 @@
+[
+    {
+        "Match": [
+            {
+                "Overall": [
+                    {
+                        "possiblePoints": 280,
+                        "shooter": "0e891061-72a5-4985-8d9b-c2deb071a9c9",
+                        "matchPercent": "100,00",
+                        "pscPlace": 1,
+                        "completeStages": 3,
+                        "percentOfPossible": "94.37",
+                        "matchPoints": "264,2391"
+                    },
+                    {
+                        "possiblePoints": 280,
+                        "shooter": "acffbdca-ad50-43f8-a0f7-af032be3bc4a",
+                        "matchPercent": "61,83",
+                        "pscPlace": 2,
+                        "completeStages": 3,
+                        "percentOfPossible": "58.35",
+                        "matchPoints": "163,3909"
+                    },
+                    {
+                        "possiblePoints": 280,
+                        "shooter": "ea120e81-5e3b-47df-8e91-4f1bbc247829",
+                        "matchPercent": "58,79",
+                        "pscPlace": 3,
+                        "completeStages": 3,
+                        "percentOfPossible": "55.48",
+                        "matchPoints": "155,3385"
+                    },
+                    {
+                        "possiblePoints": 280,
+                        "shooter": "bdc06691-4bda-4dc2-bc51-2661e7b3d76a",
+                        "matchPercent": "33,44",
+                        "pscPlace": 4,
+                        "completeStages": 3,
+                        "percentOfPossible": "31.55",
+                        "matchPoints": "88,3503"
+                    },
+                    {
+                        "possiblePoints": 280,
+                        "shooter": "80345bef-ed6a-4428-8159-78cfebc3f713",
+                        "matchPercent": "13,63",
+                        "pscPlace": 5,
+                        "completeStages": 3,
+                        "percentOfPossible": "12.87",
+                        "matchPoints": "36,0286"
+                    }
+                ]
+            },
+            {
+                "Production": [
+                    {
+                        "possiblePoints": 280,
+                        "shooter": "acffbdca-ad50-43f8-a0f7-af032be3bc4a",
+                        "matchPercent": "100,00",
+                        "pscPlace": 1,
+                        "completeStages": 3,
+                        "percentOfPossible": "76.90",
+                        "matchPoints": "215,3323"
+                    },
+                    {
+                        "possiblePoints": 280,
+                        "shooter": "ea120e81-5e3b-47df-8e91-4f1bbc247829",
+                        "matchPercent": "73,98",
+                        "pscPlace": 2,
+                        "completeStages": 3,
+                        "percentOfPossible": "56.90",
+                        "matchPoints": "159,3124"
+                    },
+                    {
+                        "possiblePoints": 280,
+                        "shooter": "80345bef-ed6a-4428-8159-78cfebc3f713",
+                        "matchPercent": "26,22",
+                        "pscPlace": 3,
+                        "completeStages": 3,
+                        "percentOfPossible": "20.16",
+                        "matchPoints": "56,4602"
+                    }
+                ]
+            },
+            {
+                "Standard": [
+                    {
+                        "possiblePoints": 280,
+                        "shooter": "0e891061-72a5-4985-8d9b-c2deb071a9c9",
+                        "matchPercent": "100,00",
+                        "pscPlace": 1,
+                        "completeStages": 3,
+                        "percentOfPossible": "100.00",
+                        "matchPoints": "280,0000"
+                    },
+                    {
+                        "possiblePoints": 280,
+                        "shooter": "bdc06691-4bda-4dc2-bc51-2661e7b3d76a",
+                        "matchPercent": "36,55",
+                        "pscPlace": 2,
+                        "completeStages": 3,
+                        "percentOfPossible": "36.55",
+                        "matchPoints": "102,3421"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stageUUID": "F6089C79-B923-4878-8CDB-D9EFC0004DE0",
+        "1 - Stage 1": [
+            {
+                "Overall": [
+                    {
+                        "place": "1",
+                        "stagePercent": "100,00",
+                        "shooterName": "Rothberg, Alexander",
+                        "hitFactor": "1,8545",
+                        "division": "Standard",
+                        "shooterNum": "0",
+                        "stagePoints": "110,0000",
+                        "stageTimeSecs": "42,60",
+                        "shooterClass": "",
+                        "points": "89",
+                        "penalites": "10",
+                        "shooter": "0e891061-72a5-4985-8d9b-c2deb071a9c9",
+                        "categories": []
+                    },
+                    {
+                        "place": "2",
+                        "stagePercent": "54,27",
+                        "shooterName": "M\u00f6rn, Gustav",
+                        "hitFactor": "1,0064",
+                        "division": "Production",
+                        "shooterNum": "0",
+                        "stagePoints": "59,6963",
+                        "stageTimeSecs": "32,79",
+                        "shooterClass": "",
+                        "points": "73",
+                        "penalites": "40",
+                        "shooter": "acffbdca-ad50-43f8-a0f7-af032be3bc4a",
+                        "categories": []
+                    },
+                    {
+                        "place": "3",
+                        "stagePercent": "22,04",
+                        "shooterName": "Jansson, Philip",
+                        "hitFactor": "0,4088",
+                        "division": "Production",
+                        "shooterNum": "0",
+                        "stagePoints": "24,2465",
+                        "stageTimeSecs": "88,07",
+                        "shooterClass": "",
+                        "points": "76",
+                        "penalites": "40",
+                        "shooter": "80345bef-ed6a-4428-8159-78cfebc3f713",
+                        "categories": []
+                    },
+                    {
+                        "place": "4",
+                        "stagePercent": "0,00",
+                        "shooterName": "M\u00f6rn, Tomas",
+                        "hitFactor": "0,0000",
+                        "division": "Standard",
+                        "shooterNum": "0",
+                        "stagePoints": "0,0000",
+                        "stageTimeSecs": "46,64",
+                        "shooterClass": "",
+                        "points": "48",
+                        "penalites": "90",
+                        "shooter": "bdc06691-4bda-4dc2-bc51-2661e7b3d76a",
+                        "categories": [
+                            "Senior"
+                        ]
+                    },
+                    {
+                        "place": "5",
+                        "stagePercent": "0,00",
+                        "shooterName": "Lind\u00e9n, Jonas",
+                        "hitFactor": "0,0000",
+                        "division": "Production",
+                        "shooterNum": "0",
+                        "stagePoints": "0,0000",
+                        "stageTimeSecs": "26,99",
+                        "shooterClass": "",
+                        "points": "54",
+                        "penalites": "100",
+                        "shooter": "ea120e81-5e3b-47df-8e91-4f1bbc247829",
+                        "categories": []
+                    }
+                ]
+            },
+            {
+                "Production": [
+                    {
+                        "place": 1,
+                        "stagePercent": "100,00",
+                        "shooterName": "M\u00f6rn, Gustav",
+                        "hitFactor": "1,0064",
+                        "division": "Production",
+                        "shooterNum": "0",
+                        "stagePoints": "110,0000",
+                        "stageTimeSecs": "32,79",
+                        "shooterClass": "",
+                        "points": "73",
+                        "penalites": "40",
+                        "shooter": "acffbdca-ad50-43f8-a0f7-af032be3bc4a",
+                        "categories": []
+                    },
+                    {
+                        "place": 2,
+                        "stagePercent": "40,62",
+                        "shooterName": "Jansson, Philip",
+                        "hitFactor": "0,4088",
+                        "division": "Production",
+                        "shooterNum": "0",
+                        "stagePoints": "44,6781",
+                        "stageTimeSecs": "88,07",
+                        "shooterClass": "",
+                        "points": "76",
+                        "penalites": "40",
+                        "shooter": "80345bef-ed6a-4428-8159-78cfebc3f713",
+                        "categories": []
+                    },
+                    {
+                        "place": 3,
+                        "stagePercent": "0,00",
+                        "shooterName": "Lind\u00e9n, Jonas",
+                        "hitFactor": "0,0000",
+                        "division": "Production",
+                        "shooterNum": "0",
+                        "stagePoints": "0,0000",
+                        "stageTimeSecs": "26,99",
+                        "shooterClass": "",
+                        "points": "54",
+                        "penalites": "100",
+                        "shooter": "ea120e81-5e3b-47df-8e91-4f1bbc247829",
+                        "categories": []
+                    }
+                ]
+            },
+            {
+                "Standard": [
+                    {
+                        "place": 1,
+                        "stagePercent": "100,00",
+                        "shooterName": "Rothberg, Alexander",
+                        "hitFactor": "1,8545",
+                        "division": "Standard",
+                        "shooterNum": "0",
+                        "stagePoints": "110,0000",
+                        "stageTimeSecs": "42,60",
+                        "shooterClass": "",
+                        "points": "89",
+                        "penalites": "10",
+                        "shooter": "0e891061-72a5-4985-8d9b-c2deb071a9c9",
+                        "categories": []
+                    },
+                    {
+                        "place": 2,
+                        "stagePercent": "0,00",
+                        "shooterName": "M\u00f6rn, Tomas",
+                        "hitFactor": "0,0000",
+                        "division": "Standard",
+                        "shooterNum": "0",
+                        "stagePoints": "0,0000",
+                        "stageTimeSecs": "46,64",
+                        "shooterClass": "",
+                        "points": "48",
+                        "penalites": "90",
+                        "shooter": "bdc06691-4bda-4dc2-bc51-2661e7b3d76a",
+                        "categories": [
+                            "Senior"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2 - Stage 2": [
+            {
+                "Overall": [
+                    {
+                        "place": "1",
+                        "stagePercent": "100,00",
+                        "shooterName": "M\u00f6rn, Gustav",
+                        "hitFactor": "3,7674",
+                        "division": "Production",
+                        "shooterNum": "0",
+                        "stagePoints": "60,0000",
+                        "stageTimeSecs": "12,21",
+                        "shooterClass": "",
+                        "points": "46",
+                        "penalites": "0",
+                        "shooter": "acffbdca-ad50-43f8-a0f7-af032be3bc4a",
+                        "categories": []
+                    },
+                    {
+                        "place": "2",
+                        "stagePercent": "82,19",
+                        "shooterName": "Lind\u00e9n, Jonas",
+                        "hitFactor": "3,0963",
+                        "division": "Production",
+                        "shooterNum": "0",
+                        "stagePoints": "49,3124",
+                        "stageTimeSecs": "8,72",
+                        "shooterClass": "",
+                        "points": "47",
+                        "penalites": "20",
+                        "shooter": "ea120e81-5e3b-47df-8e91-4f1bbc247829",
+                        "categories": []
+                    },
+                    {
+                        "place": "3",
+                        "stagePercent": "73,73",
+                        "shooterName": "Rothberg, Alexander",
+                        "hitFactor": "2,7778",
+                        "division": "Standard",
+                        "shooterNum": "0",
+                        "stagePoints": "44,2391",
+                        "stageTimeSecs": "11,16",
+                        "shooterClass": "",
+                        "points": "41",
+                        "penalites": "10",
+                        "shooter": "0e891061-72a5-4985-8d9b-c2deb071a9c9",
+                        "categories": []
+                    },
+                    {
+                        "place": "4",
+                        "stagePercent": "65,46",
+                        "shooterName": "M\u00f6rn, Tomas",
+                        "hitFactor": "2,4660",
+                        "division": "Standard",
+                        "shooterNum": "0",
+                        "stagePoints": "39,2735",
+                        "stageTimeSecs": "11,76",
+                        "shooterClass": "",
+                        "points": "49",
+                        "penalites": "20",
+                        "shooter": "bdc06691-4bda-4dc2-bc51-2661e7b3d76a",
+                        "categories": [
+                            "Senior"
+                        ]
+                    },
+                    {
+                        "place": "5",
+                        "stagePercent": "19,64",
+                        "shooterName": "Jansson, Philip",
+                        "hitFactor": "0,7398",
+                        "division": "Production",
+                        "shooterNum": "0",
+                        "stagePoints": "11,7821",
+                        "stageTimeSecs": "39,20",
+                        "shooterClass": "",
+                        "points": "49",
+                        "penalites": "20",
+                        "shooter": "80345bef-ed6a-4428-8159-78cfebc3f713",
+                        "categories": []
+                    }
+                ]
+            },
+            {
+                "Production": [
+                    {
+                        "place": 1,
+                        "stagePercent": "100,00",
+                        "shooterName": "M\u00f6rn, Gustav",
+                        "hitFactor": "3,7674",
+                        "division": "Production",
+                        "shooterNum": "0",
+                        "stagePoints": "60,0000",
+                        "stageTimeSecs": "12,21",
+                        "shooterClass": "",
+                        "points": "46",
+                        "penalites": "0",
+                        "shooter": "acffbdca-ad50-43f8-a0f7-af032be3bc4a",
+                        "categories": []
+                    },
+                    {
+                        "place": 2,
+                        "stagePercent": "82,19",
+                        "shooterName": "Lind\u00e9n, Jonas",
+                        "hitFactor": "3,0963",
+                        "division": "Production",
+                        "shooterNum": "0",
+                        "stagePoints": "49,3124",
+                        "stageTimeSecs": "8,72",
+                        "shooterClass": "",
+                        "points": "47",
+                        "penalites": "20",
+                        "shooter": "ea120e81-5e3b-47df-8e91-4f1bbc247829",
+                        "categories": []
+                    },
+                    {
+                        "place": 3,
+                        "stagePercent": "19,64",
+                        "shooterName": "Jansson, Philip",
+                        "hitFactor": "0,7398",
+                        "division": "Production",
+                        "shooterNum": "0",
+                        "stagePoints": "11,7821",
+                        "stageTimeSecs": "39,20",
+                        "shooterClass": "",
+                        "points": "49",
+                        "penalites": "20",
+                        "shooter": "80345bef-ed6a-4428-8159-78cfebc3f713",
+                        "categories": []
+                    }
+                ]
+            },
+            {
+                "Standard": [
+                    {
+                        "place": 1,
+                        "stagePercent": "100,00",
+                        "shooterName": "Rothberg, Alexander",
+                        "hitFactor": "2,7778",
+                        "division": "Standard",
+                        "shooterNum": "0",
+                        "stagePoints": "60,0000",
+                        "stageTimeSecs": "11,16",
+                        "shooterClass": "",
+                        "points": "41",
+                        "penalites": "10",
+                        "shooter": "0e891061-72a5-4985-8d9b-c2deb071a9c9",
+                        "categories": []
+                    },
+                    {
+                        "place": 2,
+                        "stagePercent": "88,78",
+                        "shooterName": "M\u00f6rn, Tomas",
+                        "hitFactor": "2,4660",
+                        "division": "Standard",
+                        "shooterNum": "0",
+                        "stagePoints": "53,2653",
+                        "stageTimeSecs": "11,76",
+                        "shooterClass": "",
+                        "points": "49",
+                        "penalites": "20",
+                        "shooter": "bdc06691-4bda-4dc2-bc51-2661e7b3d76a",
+                        "categories": [
+                            "Senior"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "stageUUID": "15179FFF-378A-4490-9969-93BF41045ECE"
+    },
+    {
+        "3 - Stage 3": [
+            {
+                "Overall": [
+                    {
+                        "place": "1",
+                        "stagePercent": "100,00",
+                        "shooterName": "Rothberg, Alexander",
+                        "hitFactor": "3,0832",
+                        "division": "Standard",
+                        "shooterNum": "0",
+                        "stagePoints": "110,0000",
+                        "stageTimeSecs": "29,19",
+                        "shooterClass": "",
+                        "points": "90",
+                        "penalites": "0",
+                        "shooter": "0e891061-72a5-4985-8d9b-c2deb071a9c9",
+                        "categories": []
+                    },
+                    {
+                        "place": "2",
+                        "stagePercent": "96,39",
+                        "shooterName": "Lind\u00e9n, Jonas",
+                        "hitFactor": "2,9719",
+                        "division": "Production",
+                        "shooterNum": "0",
+                        "stagePoints": "106,0261",
+                        "stageTimeSecs": "31,63",
+                        "shooterClass": "",
+                        "points": "94",
+                        "penalites": "0",
+                        "shooter": "ea120e81-5e3b-47df-8e91-4f1bbc247829",
+                        "categories": []
+                    },
+                    {
+                        "place": "3",
+                        "stagePercent": "44,62",
+                        "shooterName": "M\u00f6rn, Tomas",
+                        "hitFactor": "1,3756",
+                        "division": "Standard",
+                        "shooterNum": "0",
+                        "stagePoints": "49,0768",
+                        "stageTimeSecs": "50,16",
+                        "shooterClass": "",
+                        "points": "79",
+                        "penalites": "10",
+                        "shooter": "bdc06691-4bda-4dc2-bc51-2661e7b3d76a",
+                        "categories": [
+                            "Senior"
+                        ]
+                    },
+                    {
+                        "place": "4",
+                        "stagePercent": "39,72",
+                        "shooterName": "M\u00f6rn, Gustav",
+                        "hitFactor": "1,2247",
+                        "division": "Production",
+                        "shooterNum": "0",
+                        "stagePoints": "43,6946",
+                        "stageTimeSecs": "32,66",
+                        "shooterClass": "",
+                        "points": "80",
+                        "penalites": "40",
+                        "shooter": "acffbdca-ad50-43f8-a0f7-af032be3bc4a",
+                        "categories": []
+                    },
+                    {
+                        "place": "5",
+                        "stagePercent": "0,00",
+                        "shooterName": "Jansson, Philip",
+                        "hitFactor": "0,0000",
+                        "division": "Production",
+                        "shooterNum": "0",
+                        "stagePoints": "0,0000",
+                        "stageTimeSecs": "55,98",
+                        "shooterClass": "",
+                        "points": "64",
+                        "penalites": "110",
+                        "shooter": "80345bef-ed6a-4428-8159-78cfebc3f713",
+                        "categories": []
+                    }
+                ]
+            },
+            {
+                "Production": [
+                    {
+                        "place": 1,
+                        "stagePercent": "100,00",
+                        "shooterName": "Lind\u00e9n, Jonas",
+                        "hitFactor": "2,9719",
+                        "division": "Production",
+                        "shooterNum": "0",
+                        "stagePoints": "110,0000",
+                        "stageTimeSecs": "31,63",
+                        "shooterClass": "",
+                        "points": "94",
+                        "penalites": "0",
+                        "shooter": "ea120e81-5e3b-47df-8e91-4f1bbc247829",
+                        "categories": []
+                    },
+                    {
+                        "place": 2,
+                        "stagePercent": "41,21",
+                        "shooterName": "M\u00f6rn, Gustav",
+                        "hitFactor": "1,2247",
+                        "division": "Production",
+                        "shooterNum": "0",
+                        "stagePoints": "45,3323",
+                        "stageTimeSecs": "32,66",
+                        "shooterClass": "",
+                        "points": "80",
+                        "penalites": "40",
+                        "shooter": "acffbdca-ad50-43f8-a0f7-af032be3bc4a",
+                        "categories": []
+                    },
+                    {
+                        "place": 3,
+                        "stagePercent": "0,00",
+                        "shooterName": "Jansson, Philip",
+                        "hitFactor": "0,0000",
+                        "division": "Production",
+                        "shooterNum": "0",
+                        "stagePoints": "0,0000",
+                        "stageTimeSecs": "55,98",
+                        "shooterClass": "",
+                        "points": "64",
+                        "penalites": "110",
+                        "shooter": "80345bef-ed6a-4428-8159-78cfebc3f713",
+                        "categories": []
+                    }
+                ]
+            },
+            {
+                "Standard": [
+                    {
+                        "place": 1,
+                        "stagePercent": "100,00",
+                        "shooterName": "Rothberg, Alexander",
+                        "hitFactor": "3,0832",
+                        "division": "Standard",
+                        "shooterNum": "0",
+                        "stagePoints": "110,0000",
+                        "stageTimeSecs": "29,19",
+                        "shooterClass": "",
+                        "points": "90",
+                        "penalites": "0",
+                        "shooter": "0e891061-72a5-4985-8d9b-c2deb071a9c9",
+                        "categories": []
+                    },
+                    {
+                        "place": 2,
+                        "stagePercent": "44,62",
+                        "shooterName": "M\u00f6rn, Tomas",
+                        "hitFactor": "1,3756",
+                        "division": "Standard",
+                        "shooterNum": "0",
+                        "stagePoints": "49,0768",
+                        "stageTimeSecs": "50,16",
+                        "shooterClass": "",
+                        "points": "79",
+                        "penalites": "10",
+                        "shooter": "bdc06691-4bda-4dc2-bc51-2661e7b3d76a",
+                        "categories": [
+                            "Senior"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "stageUUID": "CE56921F-78D6-4446-85FC-1AA52CF99491"
+    }
+]

@@ -1,0 +1,1308 @@
+[
+    {
+        "Match": [
+            {
+                "Overall": [
+                    {
+                        "possiblePoints": 350,
+                        "shooter": "ced24119-834c-4246-96a9-2adde44bea6a",
+                        "matchPercent": "100.00",
+                        "pscPlace": 1,
+                        "completeStages": 4,
+                        "percentOfPossible": "99.38",
+                        "matchPoints": "347.8161"
+                    },
+                    {
+                        "possiblePoints": 350,
+                        "shooter": "f07108fa-8070-4406-8623-28d0a888037e",
+                        "matchPercent": "80.06",
+                        "pscPlace": 2,
+                        "completeStages": 4,
+                        "percentOfPossible": "79.56",
+                        "matchPoints": "278.4719"
+                    },
+                    {
+                        "possiblePoints": 350,
+                        "shooter": "287d4079-b428-456c-8675-11ed82141d33",
+                        "matchPercent": "67.75",
+                        "pscPlace": 3,
+                        "completeStages": 4,
+                        "percentOfPossible": "67.32",
+                        "matchPoints": "235.6296"
+                    },
+                    {
+                        "possiblePoints": 350,
+                        "shooter": "4053c56a-fb36-433e-bdc0-94dc9ee5e49d",
+                        "matchPercent": "64.48",
+                        "pscPlace": 4,
+                        "completeStages": 4,
+                        "percentOfPossible": "64.08",
+                        "matchPoints": "224.2874"
+                    },
+                    {
+                        "possiblePoints": 350,
+                        "shooter": "e9f5eb5d-51fa-4e2c-bb7a-78742d95d943",
+                        "matchPercent": "53.17",
+                        "pscPlace": 5,
+                        "completeStages": 4,
+                        "percentOfPossible": "52.84",
+                        "matchPoints": "184.9438"
+                    },
+                    {
+                        "possiblePoints": 350,
+                        "shooter": "77223bf2-f292-447c-86e8-53556c0f004e",
+                        "matchPercent": "43.85",
+                        "pscPlace": 6,
+                        "completeStages": 4,
+                        "percentOfPossible": "43.58",
+                        "matchPoints": "152.5177"
+                    },
+                    {
+                        "possiblePoints": 350,
+                        "shooter": "9f0bc05e-de1f-4922-84dc-acd9e8eb5d59",
+                        "matchPercent": "40.63",
+                        "pscPlace": 7,
+                        "completeStages": 4,
+                        "percentOfPossible": "40.37",
+                        "matchPoints": "141.3060"
+                    },
+                    {
+                        "possiblePoints": 350,
+                        "shooter": "419db3e4-9f59-4bfb-a2f1-3dddea6fcacc",
+                        "matchPercent": "24.20",
+                        "pscPlace": 8,
+                        "completeStages": 4,
+                        "percentOfPossible": "24.05",
+                        "matchPoints": "84.1607"
+                    },
+                    {
+                        "possiblePoints": 350,
+                        "shooter": "9b48de17-138d-49be-9b87-e5100b9ca68e",
+                        "matchPercent": "0.00",
+                        "pscPlace": 9,
+                        "completeStages": 0,
+                        "percentOfPossible": "0.00",
+                        "matchPoints": "0.0000"
+                    }
+                ]
+            },
+            {
+                "Mini Rifle Open": [
+                    {
+                        "possiblePoints": 350,
+                        "shooter": "ced24119-834c-4246-96a9-2adde44bea6a",
+                        "matchPercent": "100.00",
+                        "pscPlace": 1,
+                        "completeStages": 4,
+                        "percentOfPossible": "99.38",
+                        "matchPoints": "347.8161"
+                    },
+                    {
+                        "possiblePoints": 350,
+                        "shooter": "f07108fa-8070-4406-8623-28d0a888037e",
+                        "matchPercent": "80.06",
+                        "pscPlace": 2,
+                        "completeStages": 4,
+                        "percentOfPossible": "79.56",
+                        "matchPoints": "278.4719"
+                    },
+                    {
+                        "possiblePoints": 350,
+                        "shooter": "287d4079-b428-456c-8675-11ed82141d33",
+                        "matchPercent": "67.75",
+                        "pscPlace": 3,
+                        "completeStages": 4,
+                        "percentOfPossible": "67.32",
+                        "matchPoints": "235.6296"
+                    },
+                    {
+                        "possiblePoints": 350,
+                        "shooter": "4053c56a-fb36-433e-bdc0-94dc9ee5e49d",
+                        "matchPercent": "64.48",
+                        "pscPlace": 4,
+                        "completeStages": 4,
+                        "percentOfPossible": "64.08",
+                        "matchPoints": "224.2874"
+                    },
+                    {
+                        "possiblePoints": 350,
+                        "shooter": "e9f5eb5d-51fa-4e2c-bb7a-78742d95d943",
+                        "matchPercent": "53.17",
+                        "pscPlace": 5,
+                        "completeStages": 4,
+                        "percentOfPossible": "52.84",
+                        "matchPoints": "184.9438"
+                    },
+                    {
+                        "possiblePoints": 350,
+                        "shooter": "77223bf2-f292-447c-86e8-53556c0f004e",
+                        "matchPercent": "43.85",
+                        "pscPlace": 6,
+                        "completeStages": 4,
+                        "percentOfPossible": "43.58",
+                        "matchPoints": "152.5177"
+                    },
+                    {
+                        "possiblePoints": 350,
+                        "shooter": "9f0bc05e-de1f-4922-84dc-acd9e8eb5d59",
+                        "matchPercent": "40.63",
+                        "pscPlace": 7,
+                        "completeStages": 4,
+                        "percentOfPossible": "40.37",
+                        "matchPoints": "141.3060"
+                    },
+                    {
+                        "possiblePoints": 350,
+                        "shooter": "419db3e4-9f59-4bfb-a2f1-3dddea6fcacc",
+                        "matchPercent": "24.20",
+                        "pscPlace": 8,
+                        "completeStages": 4,
+                        "percentOfPossible": "24.05",
+                        "matchPoints": "84.1607"
+                    },
+                    {
+                        "possiblePoints": 350,
+                        "shooter": "9b48de17-138d-49be-9b87-e5100b9ca68e",
+                        "matchPercent": "0.00",
+                        "pscPlace": 9,
+                        "completeStages": 0,
+                        "percentOfPossible": "0.00",
+                        "matchPoints": "0.0000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stageUUID": "42f73187-2d41-4f52-ae8c-5f3ac2f270fe",
+        "Stage 1": [
+            {
+                "Overall": [
+                    {
+                        "place": 1,
+                        "shooter": "ced24119-834c-4246-96a9-2adde44bea6a",
+                        "shooterNum": -1,
+                        "shooterName": "Lind\u00e9n, Jonas",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "10.79",
+                        "stagePoints": "50.0000",
+                        "hitFactor": "3.8925",
+                        "points": 42,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "f07108fa-8070-4406-8623-28d0a888037e",
+                        "shooterNum": -1,
+                        "shooterName": "Welin, Simon",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "stagePercent": "86.95",
+                        "stageTimeSecs": "13.00",
+                        "stagePoints": "43.4762",
+                        "hitFactor": "3.3846",
+                        "points": 44,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "287d4079-b428-456c-8675-11ed82141d33",
+                        "shooterNum": -1,
+                        "shooterName": "Welin, Jan",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "76.31",
+                        "stageTimeSecs": "16.16",
+                        "stagePoints": "38.1542",
+                        "hitFactor": "2.9703",
+                        "points": 48,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 4,
+                        "shooter": "4053c56a-fb36-433e-bdc0-94dc9ee5e49d",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn , Tomas ",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "68.55",
+                        "stageTimeSecs": "15.74",
+                        "stagePoints": "34.2757",
+                        "hitFactor": "2.6684",
+                        "points": 42,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 5,
+                        "shooter": "9f0bc05e-de1f-4922-84dc-acd9e8eb5d59",
+                        "shooterNum": -1,
+                        "shooterName": "Andersson, Fredrik",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "stagePercent": "40.16",
+                        "stageTimeSecs": "21.75",
+                        "stagePoints": "20.0799",
+                        "hitFactor": "1.5632",
+                        "points": 34,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 6,
+                        "shooter": "77223bf2-f292-447c-86e8-53556c0f004e",
+                        "shooterNum": -1,
+                        "shooterName": "Dahlman, Tobias",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "stagePercent": "32.74",
+                        "stageTimeSecs": "11.77",
+                        "stagePoints": "16.3703",
+                        "hitFactor": "1.2744",
+                        "points": 35,
+                        "penalties": -20
+                    },
+                    {
+                        "place": 7,
+                        "shooter": "e9f5eb5d-51fa-4e2c-bb7a-78742d95d943",
+                        "shooterNum": -1,
+                        "shooterName": "Sundblom, Peter",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "stagePercent": "27.13",
+                        "stageTimeSecs": "20.83",
+                        "stagePoints": "13.5667",
+                        "hitFactor": "1.0562",
+                        "points": 42,
+                        "penalties": -20
+                    },
+                    {
+                        "place": 8,
+                        "shooter": "419db3e4-9f59-4bfb-a2f1-3dddea6fcacc",
+                        "shooterNum": -1,
+                        "shooterName": "Granlund, Brage",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "11.79",
+                        "stageTimeSecs": "21.79",
+                        "stagePoints": "5.8950",
+                        "hitFactor": "0.4589",
+                        "points": 30,
+                        "penalties": -20
+                    },
+                    {
+                        "place": 9,
+                        "shooter": "9b48de17-138d-49be-9b87-e5100b9ca68e",
+                        "shooterNum": -1,
+                        "shooterName": "Kemppainen, Jarkko",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "stagePercent": "0.00",
+                        "stageTimeSecs": "0.00",
+                        "stagePoints": "0.0000",
+                        "hitFactor": "0.0000",
+                        "points": 10,
+                        "penalties": 0
+                    }
+                ]
+            },
+            {
+                "Mini Rifle Open": [
+                    {
+                        "place": 1,
+                        "shooter": "ced24119-834c-4246-96a9-2adde44bea6a",
+                        "shooterNum": -1,
+                        "shooterName": "Lind\u00e9n, Jonas",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "10.79",
+                        "stagePoints": "50.0000",
+                        "hitFactor": "3.8925",
+                        "points": 42,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "f07108fa-8070-4406-8623-28d0a888037e",
+                        "shooterNum": -1,
+                        "shooterName": "Welin, Simon",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "stagePercent": "86.95",
+                        "stageTimeSecs": "13.00",
+                        "stagePoints": "43.4762",
+                        "hitFactor": "3.3846",
+                        "points": 44,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "287d4079-b428-456c-8675-11ed82141d33",
+                        "shooterNum": -1,
+                        "shooterName": "Welin, Jan",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "76.31",
+                        "stageTimeSecs": "16.16",
+                        "stagePoints": "38.1542",
+                        "hitFactor": "2.9703",
+                        "points": 48,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 4,
+                        "shooter": "4053c56a-fb36-433e-bdc0-94dc9ee5e49d",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn , Tomas ",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "68.55",
+                        "stageTimeSecs": "15.74",
+                        "stagePoints": "34.2757",
+                        "hitFactor": "2.6684",
+                        "points": 42,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 5,
+                        "shooter": "9f0bc05e-de1f-4922-84dc-acd9e8eb5d59",
+                        "shooterNum": -1,
+                        "shooterName": "Andersson, Fredrik",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "stagePercent": "40.16",
+                        "stageTimeSecs": "21.75",
+                        "stagePoints": "20.0799",
+                        "hitFactor": "1.5632",
+                        "points": 34,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 6,
+                        "shooter": "77223bf2-f292-447c-86e8-53556c0f004e",
+                        "shooterNum": -1,
+                        "shooterName": "Dahlman, Tobias",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "stagePercent": "32.74",
+                        "stageTimeSecs": "11.77",
+                        "stagePoints": "16.3703",
+                        "hitFactor": "1.2744",
+                        "points": 35,
+                        "penalties": -20
+                    },
+                    {
+                        "place": 7,
+                        "shooter": "e9f5eb5d-51fa-4e2c-bb7a-78742d95d943",
+                        "shooterNum": -1,
+                        "shooterName": "Sundblom, Peter",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "stagePercent": "27.13",
+                        "stageTimeSecs": "20.83",
+                        "stagePoints": "13.5667",
+                        "hitFactor": "1.0562",
+                        "points": 42,
+                        "penalties": -20
+                    },
+                    {
+                        "place": 8,
+                        "shooter": "419db3e4-9f59-4bfb-a2f1-3dddea6fcacc",
+                        "shooterNum": -1,
+                        "shooterName": "Granlund, Brage",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "11.79",
+                        "stageTimeSecs": "21.79",
+                        "stagePoints": "5.8950",
+                        "hitFactor": "0.4589",
+                        "points": 30,
+                        "penalties": -20
+                    },
+                    {
+                        "place": 9,
+                        "shooter": "9b48de17-138d-49be-9b87-e5100b9ca68e",
+                        "shooterNum": -1,
+                        "shooterName": "Kemppainen, Jarkko",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "stagePercent": "0.00",
+                        "stageTimeSecs": "0.00",
+                        "stagePoints": "0.0000",
+                        "hitFactor": "0.0000",
+                        "points": 10,
+                        "penalties": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stageUUID": "c04716ee-c79d-4ff6-bd40-136a033b9553",
+        "Stage 2": [
+            {
+                "Overall": [
+                    {
+                        "place": 1,
+                        "shooter": "ced24119-834c-4246-96a9-2adde44bea6a",
+                        "shooterNum": -1,
+                        "shooterName": "Lind\u00e9n, Jonas",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "17.95",
+                        "stagePoints": "100.0000",
+                        "hitFactor": "4.6797",
+                        "points": 84,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "f07108fa-8070-4406-8623-28d0a888037e",
+                        "shooterNum": -1,
+                        "shooterName": "Welin, Simon",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "stagePercent": "74.92",
+                        "stageTimeSecs": "26.81",
+                        "stagePoints": "74.9232",
+                        "hitFactor": "3.5062",
+                        "points": 94,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "4053c56a-fb36-433e-bdc0-94dc9ee5e49d",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn , Tomas ",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "66.86",
+                        "stageTimeSecs": "25.57",
+                        "stagePoints": "66.8566",
+                        "hitFactor": "3.1287",
+                        "points": 80,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 4,
+                        "shooter": "287d4079-b428-456c-8675-11ed82141d33",
+                        "shooterNum": -1,
+                        "shooterName": "Welin, Jan",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "56.40",
+                        "stageTimeSecs": "36.37",
+                        "stagePoints": "56.4044",
+                        "hitFactor": "2.6395",
+                        "points": 96,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 5,
+                        "shooter": "77223bf2-f292-447c-86e8-53556c0f004e",
+                        "shooterNum": -1,
+                        "shooterName": "Dahlman, Tobias",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "stagePercent": "48.85",
+                        "stageTimeSecs": "32.81",
+                        "stagePoints": "48.8473",
+                        "hitFactor": "2.2859",
+                        "points": 85,
+                        "penalties": -10
+                    },
+                    {
+                        "place": 6,
+                        "shooter": "9f0bc05e-de1f-4922-84dc-acd9e8eb5d59",
+                        "shooterNum": -1,
+                        "shooterName": "Andersson, Fredrik",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "stagePercent": "32.63",
+                        "stageTimeSecs": "40.60",
+                        "stagePoints": "32.6325",
+                        "hitFactor": "1.5271",
+                        "points": 82,
+                        "penalties": -20
+                    },
+                    {
+                        "place": 7,
+                        "shooter": "e9f5eb5d-51fa-4e2c-bb7a-78742d95d943",
+                        "shooterNum": -1,
+                        "shooterName": "Sundblom, Peter",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "stagePercent": "32.42",
+                        "stageTimeSecs": "50.76",
+                        "stagePoints": "32.4156",
+                        "hitFactor": "1.5169",
+                        "points": 87,
+                        "penalties": -10
+                    },
+                    {
+                        "place": 8,
+                        "shooter": "9b48de17-138d-49be-9b87-e5100b9ca68e",
+                        "shooterNum": -1,
+                        "shooterName": "Kemppainen, Jarkko",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "stagePercent": "0.00",
+                        "stageTimeSecs": "0.00",
+                        "stagePoints": "0.0000",
+                        "hitFactor": "0.0000",
+                        "points": 10,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 9,
+                        "shooter": "419db3e4-9f59-4bfb-a2f1-3dddea6fcacc",
+                        "shooterNum": -1,
+                        "shooterName": "Granlund, Brage",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "0.00",
+                        "stageTimeSecs": "31.26",
+                        "stagePoints": "0.0000",
+                        "hitFactor": "0.0000",
+                        "points": 57,
+                        "penalties": -80
+                    }
+                ]
+            },
+            {
+                "Mini Rifle Open": [
+                    {
+                        "place": 1,
+                        "shooter": "ced24119-834c-4246-96a9-2adde44bea6a",
+                        "shooterNum": -1,
+                        "shooterName": "Lind\u00e9n, Jonas",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "17.95",
+                        "stagePoints": "100.0000",
+                        "hitFactor": "4.6797",
+                        "points": 84,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "f07108fa-8070-4406-8623-28d0a888037e",
+                        "shooterNum": -1,
+                        "shooterName": "Welin, Simon",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "stagePercent": "74.92",
+                        "stageTimeSecs": "26.81",
+                        "stagePoints": "74.9232",
+                        "hitFactor": "3.5062",
+                        "points": 94,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "4053c56a-fb36-433e-bdc0-94dc9ee5e49d",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn , Tomas ",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "66.86",
+                        "stageTimeSecs": "25.57",
+                        "stagePoints": "66.8566",
+                        "hitFactor": "3.1287",
+                        "points": 80,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 4,
+                        "shooter": "287d4079-b428-456c-8675-11ed82141d33",
+                        "shooterNum": -1,
+                        "shooterName": "Welin, Jan",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "56.40",
+                        "stageTimeSecs": "36.37",
+                        "stagePoints": "56.4044",
+                        "hitFactor": "2.6395",
+                        "points": 96,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 5,
+                        "shooter": "77223bf2-f292-447c-86e8-53556c0f004e",
+                        "shooterNum": -1,
+                        "shooterName": "Dahlman, Tobias",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "stagePercent": "48.85",
+                        "stageTimeSecs": "32.81",
+                        "stagePoints": "48.8473",
+                        "hitFactor": "2.2859",
+                        "points": 85,
+                        "penalties": -10
+                    },
+                    {
+                        "place": 6,
+                        "shooter": "9f0bc05e-de1f-4922-84dc-acd9e8eb5d59",
+                        "shooterNum": -1,
+                        "shooterName": "Andersson, Fredrik",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "stagePercent": "32.63",
+                        "stageTimeSecs": "40.60",
+                        "stagePoints": "32.6325",
+                        "hitFactor": "1.5271",
+                        "points": 82,
+                        "penalties": -20
+                    },
+                    {
+                        "place": 7,
+                        "shooter": "e9f5eb5d-51fa-4e2c-bb7a-78742d95d943",
+                        "shooterNum": -1,
+                        "shooterName": "Sundblom, Peter",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "stagePercent": "32.42",
+                        "stageTimeSecs": "50.76",
+                        "stagePoints": "32.4156",
+                        "hitFactor": "1.5169",
+                        "points": 87,
+                        "penalties": -10
+                    },
+                    {
+                        "place": 8,
+                        "shooter": "9b48de17-138d-49be-9b87-e5100b9ca68e",
+                        "shooterNum": -1,
+                        "shooterName": "Kemppainen, Jarkko",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "stagePercent": "0.00",
+                        "stageTimeSecs": "0.00",
+                        "stagePoints": "0.0000",
+                        "hitFactor": "0.0000",
+                        "points": 10,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 9,
+                        "shooter": "419db3e4-9f59-4bfb-a2f1-3dddea6fcacc",
+                        "shooterNum": -1,
+                        "shooterName": "Granlund, Brage",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "0.00",
+                        "stageTimeSecs": "31.26",
+                        "stagePoints": "0.0000",
+                        "hitFactor": "0.0000",
+                        "points": 57,
+                        "penalties": -80
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stageUUID": "00b5772f-0ebe-4d0d-8b3a-0b5287c6c9c9",
+        "Stage 3": [
+            {
+                "Overall": [
+                    {
+                        "place": 1,
+                        "shooter": "e9f5eb5d-51fa-4e2c-bb7a-78742d95d943",
+                        "shooterNum": -1,
+                        "shooterName": "Sundblom, Peter",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "14.19",
+                        "stagePoints": "50.0000",
+                        "hitFactor": "2.6779",
+                        "points": 38,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "ced24119-834c-4246-96a9-2adde44bea6a",
+                        "shooterNum": -1,
+                        "shooterName": "Lind\u00e9n, Jonas",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "stagePercent": "95.63",
+                        "stageTimeSecs": "16.40",
+                        "stagePoints": "47.8161",
+                        "hitFactor": "2.5610",
+                        "points": 42,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "f07108fa-8070-4406-8623-28d0a888037e",
+                        "shooterNum": -1,
+                        "shooterName": "Welin, Simon",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "stagePercent": "92.60",
+                        "stageTimeSecs": "18.55",
+                        "stagePoints": "46.3002",
+                        "hitFactor": "2.4798",
+                        "points": 46,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 4,
+                        "shooter": "4053c56a-fb36-433e-bdc0-94dc9ee5e49d",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn , Tomas ",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "74.13",
+                        "stageTimeSecs": "24.18",
+                        "stagePoints": "37.0641",
+                        "hitFactor": "1.9851",
+                        "points": 48,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 5,
+                        "shooter": "287d4079-b428-456c-8675-11ed82141d33",
+                        "shooterNum": -1,
+                        "shooterName": "Welin, Jan",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "58.61",
+                        "stageTimeSecs": "29.31",
+                        "stagePoints": "29.3029",
+                        "hitFactor": "1.5694",
+                        "points": 46,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 6,
+                        "shooter": "77223bf2-f292-447c-86e8-53556c0f004e",
+                        "shooterNum": -1,
+                        "shooterName": "Dahlman, Tobias",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "stagePercent": "55.29",
+                        "stageTimeSecs": "23.64",
+                        "stagePoints": "27.6433",
+                        "hitFactor": "1.4805",
+                        "points": 45,
+                        "penalties": -10
+                    },
+                    {
+                        "place": 7,
+                        "shooter": "9f0bc05e-de1f-4922-84dc-acd9e8eb5d59",
+                        "shooterNum": -1,
+                        "shooterName": "Andersson, Fredrik",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "stagePercent": "54.71",
+                        "stageTimeSecs": "27.30",
+                        "stagePoints": "27.3569",
+                        "hitFactor": "1.4652",
+                        "points": 40,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 8,
+                        "shooter": "419db3e4-9f59-4bfb-a2f1-3dddea6fcacc",
+                        "shooterNum": -1,
+                        "shooterName": "Granlund, Brage",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "37.67",
+                        "stageTimeSecs": "35.69",
+                        "stagePoints": "18.8332",
+                        "hitFactor": "1.0087",
+                        "points": 36,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 9,
+                        "shooter": "9b48de17-138d-49be-9b87-e5100b9ca68e",
+                        "shooterNum": -1,
+                        "shooterName": "Kemppainen, Jarkko",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "stagePercent": "0.00",
+                        "stageTimeSecs": "0.00",
+                        "stagePoints": "0.0000",
+                        "hitFactor": "0.0000",
+                        "points": 10,
+                        "penalties": 0
+                    }
+                ]
+            },
+            {
+                "Mini Rifle Open": [
+                    {
+                        "place": 1,
+                        "shooter": "e9f5eb5d-51fa-4e2c-bb7a-78742d95d943",
+                        "shooterNum": -1,
+                        "shooterName": "Sundblom, Peter",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "14.19",
+                        "stagePoints": "50.0000",
+                        "hitFactor": "2.6779",
+                        "points": 38,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "ced24119-834c-4246-96a9-2adde44bea6a",
+                        "shooterNum": -1,
+                        "shooterName": "Lind\u00e9n, Jonas",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "stagePercent": "95.63",
+                        "stageTimeSecs": "16.40",
+                        "stagePoints": "47.8161",
+                        "hitFactor": "2.5610",
+                        "points": 42,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "f07108fa-8070-4406-8623-28d0a888037e",
+                        "shooterNum": -1,
+                        "shooterName": "Welin, Simon",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "stagePercent": "92.60",
+                        "stageTimeSecs": "18.55",
+                        "stagePoints": "46.3002",
+                        "hitFactor": "2.4798",
+                        "points": 46,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 4,
+                        "shooter": "4053c56a-fb36-433e-bdc0-94dc9ee5e49d",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn , Tomas ",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "74.13",
+                        "stageTimeSecs": "24.18",
+                        "stagePoints": "37.0641",
+                        "hitFactor": "1.9851",
+                        "points": 48,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 5,
+                        "shooter": "287d4079-b428-456c-8675-11ed82141d33",
+                        "shooterNum": -1,
+                        "shooterName": "Welin, Jan",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "58.61",
+                        "stageTimeSecs": "29.31",
+                        "stagePoints": "29.3029",
+                        "hitFactor": "1.5694",
+                        "points": 46,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 6,
+                        "shooter": "77223bf2-f292-447c-86e8-53556c0f004e",
+                        "shooterNum": -1,
+                        "shooterName": "Dahlman, Tobias",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "stagePercent": "55.29",
+                        "stageTimeSecs": "23.64",
+                        "stagePoints": "27.6433",
+                        "hitFactor": "1.4805",
+                        "points": 45,
+                        "penalties": -10
+                    },
+                    {
+                        "place": 7,
+                        "shooter": "9f0bc05e-de1f-4922-84dc-acd9e8eb5d59",
+                        "shooterNum": -1,
+                        "shooterName": "Andersson, Fredrik",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "stagePercent": "54.71",
+                        "stageTimeSecs": "27.30",
+                        "stagePoints": "27.3569",
+                        "hitFactor": "1.4652",
+                        "points": 40,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 8,
+                        "shooter": "419db3e4-9f59-4bfb-a2f1-3dddea6fcacc",
+                        "shooterNum": -1,
+                        "shooterName": "Granlund, Brage",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "37.67",
+                        "stageTimeSecs": "35.69",
+                        "stagePoints": "18.8332",
+                        "hitFactor": "1.0087",
+                        "points": 36,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 9,
+                        "shooter": "9b48de17-138d-49be-9b87-e5100b9ca68e",
+                        "shooterNum": -1,
+                        "shooterName": "Kemppainen, Jarkko",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "stagePercent": "0.00",
+                        "stageTimeSecs": "0.00",
+                        "stagePoints": "0.0000",
+                        "hitFactor": "0.0000",
+                        "points": 10,
+                        "penalties": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stageUUID": "549ef031-397c-489e-8062-b5ef9daf047f",
+        "Stage 4": [
+            {
+                "Overall": [
+                    {
+                        "place": 1,
+                        "shooter": "ced24119-834c-4246-96a9-2adde44bea6a",
+                        "shooterNum": -1,
+                        "shooterName": "Lind\u00e9n, Jonas",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "40.09",
+                        "stagePoints": "150.0000",
+                        "hitFactor": "3.5420",
+                        "points": 142,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "f07108fa-8070-4406-8623-28d0a888037e",
+                        "shooterNum": -1,
+                        "shooterName": "Welin, Simon",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "stagePercent": "75.85",
+                        "stageTimeSecs": "46.90",
+                        "stagePoints": "113.7723",
+                        "hitFactor": "2.6866",
+                        "points": 126,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "287d4079-b428-456c-8675-11ed82141d33",
+                        "shooterNum": -1,
+                        "shooterName": "Welin, Jan",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "74.51",
+                        "stageTimeSecs": "51.53",
+                        "stagePoints": "111.7681",
+                        "hitFactor": "2.6392",
+                        "points": 136,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 4,
+                        "shooter": "e9f5eb5d-51fa-4e2c-bb7a-78742d95d943",
+                        "shooterNum": -1,
+                        "shooterName": "Sundblom, Peter",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "stagePercent": "59.31",
+                        "stageTimeSecs": "57.60",
+                        "stagePoints": "88.9615",
+                        "hitFactor": "2.1007",
+                        "points": 131,
+                        "penalties": -10
+                    },
+                    {
+                        "place": 5,
+                        "shooter": "4053c56a-fb36-433e-bdc0-94dc9ee5e49d",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn , Tomas ",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "57.39",
+                        "stageTimeSecs": "61.98",
+                        "stagePoints": "86.0910",
+                        "hitFactor": "2.0329",
+                        "points": 126,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 6,
+                        "shooter": "9f0bc05e-de1f-4922-84dc-acd9e8eb5d59",
+                        "shooterNum": -1,
+                        "shooterName": "Andersson, Fredrik",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "stagePercent": "40.82",
+                        "stageTimeSecs": "62.24",
+                        "stagePoints": "61.2367",
+                        "hitFactor": "1.4460",
+                        "points": 110,
+                        "penalties": -20
+                    },
+                    {
+                        "place": 7,
+                        "shooter": "77223bf2-f292-447c-86e8-53556c0f004e",
+                        "shooterNum": -1,
+                        "shooterName": "Dahlman, Tobias",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "stagePercent": "39.77",
+                        "stageTimeSecs": "54.66",
+                        "stagePoints": "59.6568",
+                        "hitFactor": "1.4087",
+                        "points": 117,
+                        "penalties": -40
+                    },
+                    {
+                        "place": 8,
+                        "shooter": "419db3e4-9f59-4bfb-a2f1-3dddea6fcacc",
+                        "shooterNum": -1,
+                        "shooterName": "Granlund, Brage",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "39.62",
+                        "stageTimeSecs": "72.68",
+                        "stagePoints": "59.4325",
+                        "hitFactor": "1.4034",
+                        "points": 122,
+                        "penalties": -20
+                    },
+                    {
+                        "place": 9,
+                        "shooter": "9b48de17-138d-49be-9b87-e5100b9ca68e",
+                        "shooterNum": -1,
+                        "shooterName": "Kemppainen, Jarkko",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "stagePercent": "0.00",
+                        "stageTimeSecs": "0.00",
+                        "stagePoints": "0.0000",
+                        "hitFactor": "0.0000",
+                        "points": 0,
+                        "penalties": 0
+                    }
+                ]
+            },
+            {
+                "Mini Rifle Open": [
+                    {
+                        "place": 1,
+                        "shooter": "ced24119-834c-4246-96a9-2adde44bea6a",
+                        "shooterNum": -1,
+                        "shooterName": "Lind\u00e9n, Jonas",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "stagePercent": "100.00",
+                        "stageTimeSecs": "40.09",
+                        "stagePoints": "150.0000",
+                        "hitFactor": "3.5420",
+                        "points": 142,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 2,
+                        "shooter": "f07108fa-8070-4406-8623-28d0a888037e",
+                        "shooterNum": -1,
+                        "shooterName": "Welin, Simon",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "stagePercent": "75.85",
+                        "stageTimeSecs": "46.90",
+                        "stagePoints": "113.7723",
+                        "hitFactor": "2.6866",
+                        "points": 126,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 3,
+                        "shooter": "287d4079-b428-456c-8675-11ed82141d33",
+                        "shooterNum": -1,
+                        "shooterName": "Welin, Jan",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "74.51",
+                        "stageTimeSecs": "51.53",
+                        "stagePoints": "111.7681",
+                        "hitFactor": "2.6392",
+                        "points": 136,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 4,
+                        "shooter": "e9f5eb5d-51fa-4e2c-bb7a-78742d95d943",
+                        "shooterNum": -1,
+                        "shooterName": "Sundblom, Peter",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "stagePercent": "59.31",
+                        "stageTimeSecs": "57.60",
+                        "stagePoints": "88.9615",
+                        "hitFactor": "2.1007",
+                        "points": 131,
+                        "penalties": -10
+                    },
+                    {
+                        "place": 5,
+                        "shooter": "4053c56a-fb36-433e-bdc0-94dc9ee5e49d",
+                        "shooterNum": -1,
+                        "shooterName": "M\u00f6rn , Tomas ",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "57.39",
+                        "stageTimeSecs": "61.98",
+                        "stagePoints": "86.0910",
+                        "hitFactor": "2.0329",
+                        "points": 126,
+                        "penalties": 0
+                    },
+                    {
+                        "place": 6,
+                        "shooter": "9f0bc05e-de1f-4922-84dc-acd9e8eb5d59",
+                        "shooterNum": -1,
+                        "shooterName": "Andersson, Fredrik",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "stagePercent": "40.82",
+                        "stageTimeSecs": "62.24",
+                        "stagePoints": "61.2367",
+                        "hitFactor": "1.4460",
+                        "points": 110,
+                        "penalties": -20
+                    },
+                    {
+                        "place": 7,
+                        "shooter": "77223bf2-f292-447c-86e8-53556c0f004e",
+                        "shooterNum": -1,
+                        "shooterName": "Dahlman, Tobias",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "stagePercent": "39.77",
+                        "stageTimeSecs": "54.66",
+                        "stagePoints": "59.6568",
+                        "hitFactor": "1.4087",
+                        "points": 117,
+                        "penalties": -40
+                    },
+                    {
+                        "place": 8,
+                        "shooter": "419db3e4-9f59-4bfb-a2f1-3dddea6fcacc",
+                        "shooterNum": -1,
+                        "shooterName": "Granlund, Brage",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "catagories": [
+                            "Senior"
+                        ],
+                        "stagePercent": "39.62",
+                        "stageTimeSecs": "72.68",
+                        "stagePoints": "59.4325",
+                        "hitFactor": "1.4034",
+                        "points": 122,
+                        "penalties": -20
+                    },
+                    {
+                        "place": 9,
+                        "shooter": "9b48de17-138d-49be-9b87-e5100b9ca68e",
+                        "shooterNum": -1,
+                        "shooterName": "Kemppainen, Jarkko",
+                        "division": "Mini Rifle Open",
+                        "shooterClass": "U",
+                        "stagePercent": "0.00",
+                        "stageTimeSecs": "0.00",
+                        "stagePoints": "0.0000",
+                        "hitFactor": "0.0000",
+                        "points": 0,
+                        "penalties": 0
+                    }
+                ]
+            }
+        ]
+    }
+]
