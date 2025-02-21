@@ -71,9 +71,12 @@ public class PractiScoreResultFile {
 								.trim();
 
 						// Fix misspellings
-						shooterName = shooterName.replaceAll("Heimdal Patrik", "Heimdahl Patrik") //
+						shooterName = shooterName //
 								.replaceAll("Grönkvist Jonathan", "Grönqvist Jonathan") //
+								.replaceAll("Heimdal Patrik", "Heimdahl Patrik") //
 								.replaceAll("Morn Tomas", "Mörn Tomas") //
+								.replaceAll("Norqvist Alexander", "Norkvist Alexander") //
+								.replaceAll("Linden Jonas", "Lindén Jonas") //
 								.replaceAll("Öhberg Niklas", "Öberg Nicklas") //
 								.replaceAll("Öberg Niklas", "Öberg Nicklas") //
 								.replaceAll("Öberg Niclas", "Öberg Nicklas");

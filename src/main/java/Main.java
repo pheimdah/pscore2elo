@@ -14,6 +14,8 @@ public class Main {
 		try {
 
 			List<Stage> allStages = new ArrayList<>();
+			System.out.println("## Ranking");
+			System.out.println("```");
 
 			for (String discipline : List.of("handgun", "mini_rifle", "pcc", "rifle", "shotgun")) {
 
@@ -84,16 +86,20 @@ public class Main {
 				shooters.applyEloScoreAdjustment();
 			}
 
+			System.out.println("1v1 encounters: " + one_v_ones);
+			System.out.println("1v1 ignored encounters (shared last place at HF 0): " + one_v_ones_ignored);
+			System.out.println("```");
+
 			System.out.println("");
 			for (IpscDivision division : IpscDivision.values()) {
 
-				System.out.print(String.format("%-28s", division.getResultFileDivisionName()));
-				System.out.println(shooters.getRankedListOfShooters(division));
+				System.out.println(String.format("### %-28s", division.getResultFileDivisionName()));
+				System.out.println("<details>");
+				System.out.println("<summary>Hidden</summary>");
+				shooters.getRankedListOfShooters(division).reversed().forEach(s -> System.out.println("1. " + s));
+				System.out.println("</details>");
+				System.out.println("");
 			}
-		
-			System.out.println("");
-			System.out.println("1v1 encounters: " + one_v_ones);
-			System.out.println("1v1 ignored encounters (shared last place at HF 0): " + one_v_ones_ignored);
 
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
