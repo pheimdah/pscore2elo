@@ -22,7 +22,7 @@ public class Main {
 
 				List<Stage> disciplineStages = new ArrayList<>();
 
-				File resultsDirectory = new File("src/main/resources/results/" + discipline);
+				File resultsDirectory = new File("match_results/" + discipline);
 
 				for (File matchResultFile : resultsDirectory.listFiles()) {
 					PractiScoreResultFile resultFile = new PractiScoreResultFile(matchResultFile);
