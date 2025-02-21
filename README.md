@@ -44,12 +44,12 @@ Loaded 0 shotgun stages
 1v1 encounters: 4163
 1v1 ignored encounters (shared last place at HF 0): 64
 
-Processed in 160 ms
+Processed in 147 ms
 ```
 
 ### Handgun Classic
 <details>
-<summary>Hidden</summary>
+<summary>Expand</summary>
 
 1. **A. Svensson** (ELO rating of 1081 after 16 encounters)
 1. **F. Andersson** (ELO rating of 919 after 16 encounters)
@@ -57,7 +57,7 @@ Processed in 160 ms
 
 ### Handgun Open
 <details>
-<summary>Hidden</summary>
+<summary>Expand</summary>
 
 1. **T. Mörn** (ELO rating of 1068 after 4 encounters)
 1. **T. Nordqvist** (ELO rating of 932 after 4 encounters)
@@ -65,7 +65,7 @@ Processed in 160 ms
 
 ### Handgun Production
 <details>
-<summary>Hidden</summary>
+<summary>Expand</summary>
 
 1. **J. Lindholm** (ELO rating of 1473 after 84 encounters)
 1. **E. Pettersson** (ELO rating of 1342 after 132 encounters)
@@ -100,7 +100,7 @@ Processed in 160 ms
 
 ### Handgun Production Optics
 <details>
-<summary>Hidden</summary>
+<summary>Expand</summary>
 
 1. **T. Bonn** (ELO rating of 1237 after 54 encounters)
 1. **J. Lindholm** (ELO rating of 1181 after 26 encounters)
@@ -114,7 +114,7 @@ Processed in 160 ms
 
 ### Handgun Standard
 <details>
-<summary>Hidden</summary>
+<summary>Expand</summary>
 
 1. **D. Källroos** (ELO rating of 1253 after 38 encounters)
 1. **J. Lindén** (ELO rating of 1213 after 38 encounters)
@@ -140,7 +140,7 @@ Processed in 160 ms
 
 ### Mini Rifle Open
 <details>
-<summary>Hidden</summary>
+<summary>Expand</summary>
 
 1. **J. Lindén** (ELO rating of 1386 after 114 encounters)
 1. **S. Welin** (ELO rating of 1227 after 99 encounters)
@@ -163,7 +163,7 @@ Processed in 160 ms
 ### PCC Iron
 ### PCC Optics
 <details>
-<summary>Hidden</summary>
+<summary>Expand</summary>
 
 1. **J. Lindén** (ELO rating of 1301 after 37 encounters)
 1. **T. Bonn** (ELO rating of 1266 after 33 encounters)
@@ -188,7 +188,7 @@ Processed in 160 ms
 ### Rifle Manual Action Contemporary
 ### Rifle Semi Auto Open
 <details>
-<summary>Hidden</summary>
+<summary>Expand</summary>
 
 1. **S. Welin** (ELO rating of 1371 after 152 encounters)
 1. **T. Mörn** (ELO rating of 1368 after 206 encounters)
@@ -218,7 +218,7 @@ Processed in 160 ms
 
 ### Rifle Semi Auto Standard
 <details>
-<summary>Hidden</summary>
+<summary>Expand</summary>
 
 1. **S. Cederberg** (ELO rating of 1150 after 34 encounters)
 1. **P. Heimdahl** (ELO rating of 1007 after 29 encounters)

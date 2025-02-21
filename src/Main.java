@@ -96,7 +96,7 @@ public class Main {
 				System.out.println("### " + division.getResultFileDivisionName());
 				List<Shooter> rankedListOfShooters = shooters.getRankedListOfShooters(division).reversed();
 				if (!rankedListOfShooters.isEmpty()) {
-					System.out.println("<details>\n<summary>Hidden</summary>\n");
+					System.out.println("<details>\n<summary>Expand</summary>\n");
 					rankedListOfShooters.forEach(s -> System.out.println("1. " + s));
 					System.out.println("</details>\n");
 				}
