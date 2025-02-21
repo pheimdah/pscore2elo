@@ -30,8 +30,8 @@ With regards to the scoring each encounter is counted as a match.
 
 #### Compile & run
 ```
-$ javac -cp lib/*.jar -d target/classes src/*.java
-$ java -cp "lib/*;target/classes" Main
+$ javac -cp lib/* -d target/classes src/*.java
+$ java -cp lib/*;target/classes Main
 ```
 
 ## Ranking
