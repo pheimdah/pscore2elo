@@ -20,7 +20,7 @@ public enum IpscDivision {
 
 	public final String resultFileDivisionName;
 
-	private static final Map<String, IpscDivision> lookup = new HashMap<String, IpscDivision>();
+	private static final Map<String, IpscDivision> lookup = new HashMap<>();
 
 	static {
 		for (IpscDivision d : IpscDivision.values()) {

@@ -4,7 +4,7 @@ Match results are grabbed from the web and stored in JSON files.
 
 Each match is divided into divisions and stages. Each stage is divided into separate encounters. Each encounter has a winner and a loser. Hit factor is disregarded except for determining a winner and a loser.
 
-Shooters start with an ELO rank of 1000.
+Shooters start with an ELO rank of 1000. K-factor is fixed at 25.
 
 ## Example
 <details>
@@ -42,6 +42,8 @@ Loaded 0 shotgun stages
 
 1v1 encounters: 4163
 1v1 ignored encounters (shared last place at HF 0): 64
+
+Processed in 169 ms
 ```
 
 ### Handgun Classic
@@ -157,17 +159,7 @@ Loaded 0 shotgun stages
 </details>
 
 ### Mini Rifle Standard
-<details>
-<summary>Hidden</summary>
-
-</details>
-
 ### PCC Iron
-<details>
-<summary>Hidden</summary>
-
-</details>
-
 ### PCC Optics
 <details>
 <summary>Hidden</summary>
@@ -192,17 +184,7 @@ Loaded 0 shotgun stages
 </details>
 
 ### Rifle Manual Action Bolt
-<details>
-<summary>Hidden</summary>
-
-</details>
-
 ### Rifle Manual Action Contemporary
-<details>
-<summary>Hidden</summary>
-
-</details>
-
 ### Rifle Semi Auto Open
 <details>
 <summary>Hidden</summary>
@@ -246,26 +228,6 @@ Loaded 0 shotgun stages
 </details>
 
 ### Shotgun Modified
-<details>
-<summary>Hidden</summary>
-
-</details>
-
 ### Shotgun Open
-<details>
-<summary>Hidden</summary>
-
-</details>
-
 ### Shotgun Standard
-<details>
-<summary>Hidden</summary>
-
-</details>
-
 ### Shotgun Standard Manual
-<details>
-<summary>Hidden</summary>
-
-</details>
-

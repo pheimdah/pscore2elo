@@ -9,7 +9,7 @@ import java.util.Map;
 
 public class Shooters {
 
-	// second map keyed by name for lookup
+	// Second map keyed by name for lookup
 	Map<IpscDivision, Map<String, Shooter>> shootersByDivision;
 
 	public Shooters() {
@@ -20,7 +20,6 @@ public class Shooters {
 		for (IpscDivision division : IpscDivision.values()) {
 			shootersByDivision.put(division, new HashMap<>());
 		}
-
 	}
 
 	public void createShooter(IpscDivision division, String name) {
@@ -51,20 +50,19 @@ public class Shooters {
 
 		shootersByDivision.get(division).get(winnerName).addPendingEloScoreAdjustment(winnerEloScoreAdjustment);
 		shootersByDivision.get(division).get(loserName).addPendingEloScoreAdjustment(loserEloScoreAdjustment);
-
 	}
 
 	public List<Shooter> getRankedListOfShooters(IpscDivision division) {
 
-		List<Shooter> shooters = new ArrayList<Shooter>(this.shootersByDivision.get(division).values());
+		List<Shooter> shooters = new ArrayList<>(this.shootersByDivision.get(division).values());
 
 		Collections.sort(shooters, new Comparator<Shooter>() {
+			@Override
 			public int compare(Shooter s1, Shooter s2) {
 				return s1.getEloRating() - s2.getEloRating();
 			}
 		});
 
 		return shooters;
-
 	}
 }

@@ -9,7 +9,7 @@ public class Stage {
 
 	private String id;
 
-	private Map<IpscDivision, ArrayList<StageResult>> resultsByDivision = new HashMap<IpscDivision, ArrayList<StageResult>>();
+	private Map<IpscDivision, ArrayList<StageResult>> resultsByDivision = new HashMap<>();
 
 	public ArrayList<StageResult> getResultsByDivision(IpscDivision division) {
 		return resultsByDivision.get(division);
@@ -27,7 +27,7 @@ public class Stage {
 	public void addResult(final IpscDivision division, final StageResult stageResult) {
 
 		if (!this.resultsByDivision.containsKey(division)) {
-			this.resultsByDivision.put(division, new ArrayList<StageResult>());
+			this.resultsByDivision.put(division, new ArrayList<>());
 		}
 
 		this.resultsByDivision.get(division).add(stageResult);

@@ -16,7 +16,7 @@ public class Shooter {
 
 		// Convert "Alfredsson Alfred" to "A. Alfredsson"
 
-		List<String> shooterNameComponents = new ArrayList<String>(List.of(this.displayName.split("\\s+")));
+		List<String> shooterNameComponents = new ArrayList<>(List.of(this.displayName.split("\\s+")));
 		Collections.reverse(shooterNameComponents);
 
 		String firstName = shooterNameComponents.get(0);
@@ -49,7 +49,7 @@ public class Shooter {
 
 	public double getExpectedScore(int opponentRating) {
 
-		double Ea = (double) 1 / (1 + Math.pow(10.0, ((double) (opponentRating - eloRating) / 400)));
+		double Ea = 1 / (1 + Math.pow(10.0, ((double) (opponentRating - eloRating) / 400)));
 
 		return Ea;
 	}

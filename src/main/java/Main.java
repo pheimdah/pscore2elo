@@ -9,6 +9,8 @@ public class Main {
 
 	public static void main(String[] args) {
 
+		long processingStartTime = System.currentTimeMillis();
+
 		Shooters shooters = new Shooters();
 
 		try {
@@ -84,17 +86,22 @@ public class Main {
 				// Re-calculate ELO after each stage
 				shooters.applyEloScoreAdjustment();
 			}
+			long processingEndTime = System.currentTimeMillis();
 
 			System.out.println("\n1v1 encounters: " + one_v_ones);
 			System.out.println("1v1 ignored encounters (shared last place at HF 0): " + one_v_ones_ignored);
+			System.out.println("\nProcessed in " + (processingEndTime - processingStartTime) + " ms");
 			System.out.println("```\n");
 
 			for (IpscDivision division : IpscDivision.values()) {
 
 				System.out.println("### " + division.getResultFileDivisionName());
-				System.out.println("<details>\n<summary>Hidden</summary>\n");
-				shooters.getRankedListOfShooters(division).reversed().forEach(s -> System.out.println("1. " + s));
-				System.out.println("</details>\n");
+				List<Shooter> rankedListOfShooters = shooters.getRankedListOfShooters(division).reversed();
+				if (!rankedListOfShooters.isEmpty()) {
+					System.out.println("<details>\n<summary>Hidden</summary>\n");
+					rankedListOfShooters.forEach(s -> System.out.println("1. " + s));
+					System.out.println("</details>\n");
+				}
 			}
 
 		} catch (Exception e) {

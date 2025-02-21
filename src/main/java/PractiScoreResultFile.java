@@ -54,13 +54,13 @@ public class PractiScoreResultFile {
 						/*
 						 * No-shows will have a stage time of 0 on all stages in the match. Disregard
 						 * them.
-						 * 
+						 *
 						 * DQed shooters will have a stage time of >0 but hit factor of 0 on stages they
 						 * shot in the match. Stages after the DQ will have a time of 0.
 						 */
 						String sStageTimeSecs = bar.get("stageTimeSecs") //
 								.replaceAll(",", "."); // Some files have ',' decimal separators
-						Float stageTimeSecs = Float.valueOf(sStageTimeSecs);
+						float stageTimeSecs = Float.parseFloat(sStageTimeSecs);
 						if (stageTimeSecs == 0.0) {
 							continue;
 						}
