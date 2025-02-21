@@ -67,7 +67,7 @@ public class Shooter {
 
 	@Override
 	public String toString() {
-		return String.format("**%s** (ELO rating of %d after %d encounters)", displayName, eloRating, nrEncounters);
+		return String.format("**%s** (Elo rating of %d after %d encounters)", displayName, eloRating, nrEncounters);
 	}
 
 	public double getExpectedScore(int opponentRating) {

@@ -81,7 +81,7 @@ public class Main {
 					}
 				}
 
-				// Re-calculate ELO after each stage
+				// Re-calculate Elo rating after each stage
 				shooters.applyEloScoreAdjustment();
 			}
 			long processingEndTime = System.currentTimeMillis();
