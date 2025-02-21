@@ -1,4 +1,4 @@
-# ÅSSF IPSC ELO ratings
+# ÅSSF IPSC Elo ratings
 
 Match results are grabbed from the web and stored in JSON files.
 
