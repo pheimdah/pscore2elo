@@ -41,10 +41,10 @@ public class Shooters {
 		Shooter winner = shootersByDivision.get(division).get(winnerName);
 		Shooter loser = shootersByDivision.get(division).get(loserName);
 
-		int K = 25;
-
-		int winnerEloScoreAdjustment = (int) Math.round(K * (1 - winner.getExpectedScore(loser.getEloRating())));
-		int loserEloScoreAdjustment = (int) Math.round(K * (0 - loser.getExpectedScore(winner.getEloRating())));
+		int winnerEloScoreAdjustment = (int) Math
+				.round(winner.getKFactor() * (1 - winner.getExpectedScore(loser.getEloRating())));
+		int loserEloScoreAdjustment = (int) Math
+				.round(loser.getKFactor() * (0 - loser.getExpectedScore(winner.getEloRating())));
 
 		shootersByDivision.get(division).get(winnerName).addPendingEloScoreAdjustment(winnerEloScoreAdjustment);
 		shootersByDivision.get(division).get(loserName).addPendingEloScoreAdjustment(loserEloScoreAdjustment);

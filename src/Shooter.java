@@ -28,6 +28,10 @@ public class Shooter {
 
 	}
 
+	public int getKFactor() {
+		return 24;
+	}
+
 	public void addPendingEloScoreAdjustment(int a) {
 		this.pendingEloScoreAdjustment += a;
 		this.nrStagesShot += 1;
