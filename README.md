@@ -33,18 +33,19 @@ With regards to the scoring each encounter is counted as a match.
 $ javac -cp lib/* -d target/classes src/*.java
 $ java -cp lib/*;target/classes Main
 ```
+
 ## Ranking
 ```
 Loaded 50 handgun stages
-Loaded 30 mini_rifle stages
+Loaded 34 mini_rifle stages
 Loaded 34 pcc stages
 Loaded 28 rifle stages
 Loaded 0 shotgun stages
 
-1v1 encounters: 4163
-1v1 ignored encounters (shared last place at HF 0): 64
+1v1 encounters: 4377
+1v1 ignored encounters (shared last place at HF 0): 69
 
-Processed in 165 ms
+Processed in 320 ms
 ```
 
 ### Handgun Classic
@@ -142,21 +143,25 @@ Processed in 165 ms
 <details>
 <summary>Expand</summary>
 
-1. **J. Lindén** (Elo rating of 1386 after 114 encounters)
+1. **J. Lindén** (Elo rating of 1273 after 154 encounters)
 1. **S. Welin** (Elo rating of 1227 after 99 encounters)
+1. **T. Mörn** (Elo rating of 1199 after 191 encounters)
+1. **A. Svensson** (Elo rating of 1162 after 163 encounters)
 1. **N. Granlund** (Elo rating of 1122 after 9 encounters)
-1. **T. Mörn** (Elo rating of 1086 after 151 encounters)
-1. **J. Welin** (Elo rating of 1082 after 134 encounters)
+1. **D. Gustafsson** (Elo rating of 1081 after 40 encounters)
+1. **F. Andersson** (Elo rating of 1057 after 149 encounters)
 1. **P. Sundblom** (Elo rating of 1025 after 40 encounters)
 1. **P. Heimdahl** (Elo rating of 1009 after 54 encounters)
-1. **A. Svensson** (Elo rating of 1003 after 123 encounters)
-1. **F. Andersson** (Elo rating of 992 after 112 encounters)
-1. **D. Back** (Elo rating of 943 after 32 encounters)
+1. **J. Welin** (Elo rating of 1006 after 174 encounters)
+1. **J. Djupsund** (Elo rating of 984 after 40 encounters)
+1. **D. Back** (Elo rating of 977 after 72 encounters)
 1. **T. Dahlman** (Elo rating of 923 after 56 encounters)
+1. **J. Fyrqvist** (Elo rating of 848 after 37 encounters)
 1. **L. Heinola** (Elo rating of 774 after 54 encounters)
+1. **D. Dahlblom** (Elo rating of 760 after 37 encounters)
 1. **A. Norkvist** (Elo rating of 753 after 54 encounters)
 1. **D. Gustafson** (Elo rating of 745 after 70 encounters)
-1. **B. Granlund** (Elo rating of 642 after 72 encounters)
+1. **B. Granlund** (Elo rating of 622 after 109 encounters)
 </details>
 
 ### Mini Rifle Standard
@@ -232,4 +237,3 @@ Processed in 165 ms
 ### Shotgun Open
 ### Shotgun Standard
 ### Shotgun Standard Manual
-
