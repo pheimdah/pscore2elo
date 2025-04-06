@@ -36,16 +36,16 @@ $ java -cp lib/*;target/classes Main
 
 ## Ranking
 ```
-Loaded 50 handgun stages
+Loaded 54 handgun stages
 Loaded 34 mini_rifle stages
 Loaded 34 pcc stages
 Loaded 32 rifle stages
 Loaded 0 shotgun stages
 
-1v1 encounters: 4635
+1v1 encounters: 4823
 1v1 ignored encounters (shared last place at HF 0): 73
 
-Processed in 384 ms
+Processed in 345 ms
 ```
 
 ### Handgun Classic
@@ -60,7 +60,8 @@ Processed in 384 ms
 <details>
 <summary>Expand</summary>
 
-1. **T. Mörn** (Elo rating of 1068 after 4 encounters)
+1. **T. Mörn** (Elo rating of 1087 after 8 encounters)
+1. **J. Fyrqvist** (Elo rating of 981 after 4 encounters)
 1. **T. Nordqvist** (Elo rating of 932 after 4 encounters)
 </details>
 
@@ -73,28 +74,33 @@ Processed in 384 ms
 1. **J. Lindén** (Elo rating of 1338 after 62 encounters)
 1. **N. Granlund** (Elo rating of 1281 after 28 encounters)
 1. **T. Nordqvist** (Elo rating of 1253 after 49 encounters)
-1. **G. Mörn** (Elo rating of 1153 after 143 encounters)
+1. **P. Heimdahl** (Elo rating of 1249 after 259 encounters)
+1. **A. Norkvist** (Elo rating of 1176 after 84 encounters)
 1. **J. Back** (Elo rating of 1143 after 84 encounters)
-1. **P. Heimdahl** (Elo rating of 1139 after 223 encounters)
+1. **G. Mörn** (Elo rating of 1107 after 179 encounters)
 1. **S. Welin** (Elo rating of 1058 after 132 encounters)
+1. **J. Welin** (Elo rating of 1043 after 200 encounters)
 1. **A. Häger** (Elo rating of 1032 after 24 encounters)
 1. **D. Källroos** (Elo rating of 1004 after 100 encounters)
 1. **J. Fyrqvist** (Elo rating of 978 after 108 encounters)
-1. **J. Welin** (Elo rating of 949 after 164 encounters)
-1. **A. Norkvist** (Elo rating of 909 after 48 encounters)
+1. **K. Sundman** (Elo rating of 951 after 36 encounters)
 1. **T. Mörn** (Elo rating of 907 after 84 encounters)
+1. **N. Häggblom** (Elo rating of 906 after 139 encounters)
 1. **L. Pettersson** (Elo rating of 906 after 84 encounters)
-1. **N. Häggblom** (Elo rating of 894 after 103 encounters)
 1. **F. Andersson** (Elo rating of 892 after 12 encounters)
 1. **A. Svensson** (Elo rating of 885 after 25 encounters)
 1. **D. Gustafsson** (Elo rating of 882 after 6 encounters)
+1. **D. Dahlblom** (Elo rating of 875 after 36 encounters)
 1. **M. Stenroos** (Elo rating of 815 after 16 encounters)
 1. **F. Degerth** (Elo rating of 794 after 48 encounters)
+1. **P. Sundman** (Elo rating of 788 after 36 encounters)
 1. **P. Sundblom** (Elo rating of 780 after 84 encounters)
+1. **S. Ejder** (Elo rating of 775 after 36 encounters)
 1. **T. Stjernlöf** (Elo rating of 759 after 24 encounters)
 1. **P. Jansson** (Elo rating of 721 after 121 encounters)
 1. **S. Stenroos** (Elo rating of 718 after 84 encounters)
 1. **L. Heinola** (Elo rating of 691 after 48 encounters)
+1. **D. Kronlund** (Elo rating of 689 after 36 encounters)
 1. **M. Nilsson** (Elo rating of 670 after 24 encounters)
 1. **D. Back** (Elo rating of 661 after 84 encounters)
 </details>
@@ -109,7 +115,8 @@ Processed in 384 ms
 1. **S. Welin** (Elo rating of 958 after 34 encounters)
 1. **J. Back** (Elo rating of 955 after 38 encounters)
 1. **T. Dahlman** (Elo rating of 904 after 8 encounters)
-1. **D. Back** (Elo rating of 811 after 61 encounters)
+1. **N. Granlund** (Elo rating of 892 after 4 encounters)
+1. **D. Back** (Elo rating of 865 after 65 encounters)
 1. **N. Öberg** (Elo rating of 785 after 23 encounters)
 </details>
 
